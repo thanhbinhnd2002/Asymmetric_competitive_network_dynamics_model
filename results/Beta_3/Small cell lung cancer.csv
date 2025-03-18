@@ -1,0 +1,4096 @@
+Gen A	Gen B	Winner	Strength
+hsa:7157	hsa:51426	Gen A	7
+hsa:7157	hsa:1643	Gen A	7
+hsa:7157	hsa:578	Gen A	7
+hsa:7157	hsa:581	Gen A	7
+hsa:7157	hsa:10912	Gen A	5
+hsa:7157	hsa:1647	Gen A	5
+hsa:7157	hsa:4616	Gen A	5
+hsa:7157	hsa:1026	Gen A	7
+hsa:7157	hsa:1030	Gen B	9
+hsa:7157	hsa:595	Gen B	9
+hsa:7157	hsa:6502	Gen B	9
+hsa:7157	hsa:1027	Gen B	9
+hsa:7157	hsa:4790	Gen B	26
+hsa:7157	hsa:5970	Gen B	26
+hsa:7157	hsa:4843	Gen A	8
+hsa:7157	hsa:5743	Gen A	8
+hsa:7157	hsa:7185	Gen A	3
+hsa:7157	hsa:7186	Gen A	3
+hsa:7157	hsa:7187	Gen A	3
+hsa:7157	hsa:7188	Gen A	3
+hsa:7157	hsa:7189	Gen A	3
+hsa:7157	hsa:9618	Gen A	3
+hsa:7157	hsa:598	Gen A	8
+hsa:7157	hsa:112401	Gen A	4
+hsa:7157	hsa:329	Gen A	4
+hsa:7157	hsa:330	Gen A	4
+hsa:7157	hsa:331	Gen A	4
+hsa:7157	hsa:79444	Gen A	4
+hsa:7157	hsa:1019	Gen B	9
+hsa:7157	hsa:1021	Gen B	9
+hsa:7157	hsa:5925	Gen B	9
+hsa:7157	hsa:1869	Gen B	9
+hsa:7157	hsa:1870	Gen B	9
+hsa:7157	hsa:1871	Gen B	9
+hsa:7157	hsa:4792	Gen B	26
+hsa:7157	hsa:1147	Gen B	29
+hsa:7157	hsa:3551	Gen B	29
+hsa:7157	hsa:8517	Gen B	29
+hsa:7157	hsa:596	Gen A	7
+hsa:7157	hsa:10319	Gen B	23
+hsa:7157	hsa:1282	Gen B	23
+hsa:7157	hsa:1284	Gen B	23
+hsa:7157	hsa:1285	Gen B	23
+hsa:7157	hsa:1286	Gen B	23
+hsa:7157	hsa:1287	Gen B	23
+hsa:7157	hsa:1288	Gen B	23
+hsa:7157	hsa:22798	Gen B	23
+hsa:7157	hsa:2335	Gen B	23
+hsa:7157	hsa:284217	Gen B	23
+hsa:7157	hsa:3908	Gen B	23
+hsa:7157	hsa:3909	Gen B	23
+hsa:7157	hsa:3910	Gen B	23
+hsa:7157	hsa:3911	Gen B	23
+hsa:7157	hsa:3912	Gen B	23
+hsa:7157	hsa:3913	Gen B	23
+hsa:7157	hsa:3914	Gen B	23
+hsa:7157	hsa:3915	Gen B	23
+hsa:7157	hsa:3918	Gen B	23
+hsa:7157	hsa:3688	Gen B	23
+hsa:7157	hsa:54205	Gen A	6
+hsa:7157	hsa:842	Gen A	7
+hsa:7157	hsa:5290	Gen A	3
+hsa:7157	hsa:5291	Gen A	3
+hsa:7157	hsa:5293	Gen A	3
+hsa:7157	hsa:5295	Gen A	3
+hsa:7157	hsa:5296	Gen A	3
+hsa:7157	hsa:8503	Gen A	3
+hsa:7157	hsa:5747	Gen B	23
+hsa:7157	hsa:1163	Gen B	9
+hsa:7157	hsa:1164	Gen B	9
+hsa:7157	hsa:4609	Gen B	9
+hsa:7157	hsa:7709	Gen B	9
+hsa:7157	hsa:4149	Gen B	9
+hsa:7157	hsa:317	Gen A	6
+hsa:7157	hsa:836	Gen A	8
+hsa:7157	hsa:10000	Gen B	32
+hsa:7157	hsa:207	Gen B	32
+hsa:7157	hsa:208	Gen B	32
+hsa:7157	hsa:6256	Gen A	5
+hsa:7157	hsa:6257	Gen A	5
+hsa:7157	hsa:6258	Gen A	5
+hsa:7157	hsa:5915	Gen A	5
+hsa:7157	hsa:898	Gen B	9
+hsa:7157	hsa:9134	Gen B	9
+hsa:7157	hsa:3655	Gen B	23
+hsa:7157	hsa:3673	Gen B	23
+hsa:7157	hsa:3674	Gen B	23
+hsa:7157	hsa:3675	Gen B	23
+hsa:7157	hsa:3685	Gen B	23
+hsa:7157	hsa:1017	Gen B	9
+hsa:51426	hsa:1643	Draw	0
+hsa:51426	hsa:578	Draw	0
+hsa:51426	hsa:581	Draw	0
+hsa:51426	hsa:10912	Gen B	2
+hsa:51426	hsa:1647	Gen B	2
+hsa:51426	hsa:4616	Gen B	2
+hsa:51426	hsa:1026	Draw	0
+hsa:51426	hsa:1030	Gen B	17
+hsa:51426	hsa:595	Gen B	17
+hsa:51426	hsa:6502	Gen B	17
+hsa:51426	hsa:1027	Gen B	17
+hsa:51426	hsa:4790	Gen B	34
+hsa:51426	hsa:5970	Gen B	34
+hsa:51426	hsa:4843	Draw	0
+hsa:51426	hsa:5743	Draw	0
+hsa:51426	hsa:7185	Gen B	5
+hsa:51426	hsa:7186	Gen B	5
+hsa:51426	hsa:7187	Gen B	5
+hsa:51426	hsa:7188	Gen B	5
+hsa:51426	hsa:7189	Gen B	5
+hsa:51426	hsa:9618	Gen B	5
+hsa:51426	hsa:598	Draw	0
+hsa:51426	hsa:112401	Gen B	4
+hsa:51426	hsa:329	Gen B	4
+hsa:51426	hsa:330	Gen B	4
+hsa:51426	hsa:331	Gen B	4
+hsa:51426	hsa:79444	Gen B	4
+hsa:51426	hsa:1019	Gen B	17
+hsa:51426	hsa:1021	Gen B	17
+hsa:51426	hsa:5925	Gen B	17
+hsa:51426	hsa:1869	Gen B	17
+hsa:51426	hsa:1870	Gen B	17
+hsa:51426	hsa:1871	Gen B	17
+hsa:51426	hsa:4792	Gen B	34
+hsa:51426	hsa:1147	Gen B	37
+hsa:51426	hsa:3551	Gen B	37
+hsa:51426	hsa:8517	Gen B	37
+hsa:51426	hsa:596	Gen B	1
+hsa:51426	hsa:10319	Gen B	31
+hsa:51426	hsa:1282	Gen B	31
+hsa:51426	hsa:1284	Gen B	31
+hsa:51426	hsa:1285	Gen B	31
+hsa:51426	hsa:1286	Gen B	31
+hsa:51426	hsa:1287	Gen B	31
+hsa:51426	hsa:1288	Gen B	31
+hsa:51426	hsa:22798	Gen B	31
+hsa:51426	hsa:2335	Gen B	31
+hsa:51426	hsa:284217	Gen B	31
+hsa:51426	hsa:3908	Gen B	31
+hsa:51426	hsa:3909	Gen B	31
+hsa:51426	hsa:3910	Gen B	31
+hsa:51426	hsa:3911	Gen B	31
+hsa:51426	hsa:3912	Gen B	31
+hsa:51426	hsa:3913	Gen B	31
+hsa:51426	hsa:3914	Gen B	31
+hsa:51426	hsa:3915	Gen B	31
+hsa:51426	hsa:3918	Gen B	31
+hsa:51426	hsa:3688	Gen B	31
+hsa:51426	hsa:54205	Gen B	2
+hsa:51426	hsa:842	Gen B	1
+hsa:51426	hsa:5290	Gen B	5
+hsa:51426	hsa:5291	Gen B	5
+hsa:51426	hsa:5293	Gen B	5
+hsa:51426	hsa:5295	Gen B	5
+hsa:51426	hsa:5296	Gen B	5
+hsa:51426	hsa:8503	Gen B	5
+hsa:51426	hsa:5747	Gen B	31
+hsa:51426	hsa:1163	Gen B	17
+hsa:51426	hsa:1164	Gen B	17
+hsa:51426	hsa:4609	Gen B	17
+hsa:51426	hsa:7709	Gen B	17
+hsa:51426	hsa:4149	Gen B	17
+hsa:51426	hsa:317	Gen B	2
+hsa:51426	hsa:836	Draw	0
+hsa:51426	hsa:10000	Gen B	40
+hsa:51426	hsa:207	Gen B	40
+hsa:51426	hsa:208	Gen B	40
+hsa:51426	hsa:6256	Gen B	3
+hsa:51426	hsa:6257	Gen B	3
+hsa:51426	hsa:6258	Gen B	3
+hsa:51426	hsa:5915	Gen B	3
+hsa:51426	hsa:898	Gen B	17
+hsa:51426	hsa:9134	Gen B	17
+hsa:51426	hsa:3655	Gen B	31
+hsa:51426	hsa:3673	Gen B	31
+hsa:51426	hsa:3674	Gen B	31
+hsa:51426	hsa:3675	Gen B	31
+hsa:51426	hsa:3685	Gen B	31
+hsa:51426	hsa:1017	Gen B	17
+hsa:1643	hsa:578	Draw	0
+hsa:1643	hsa:581	Draw	0
+hsa:1643	hsa:10912	Gen B	2
+hsa:1643	hsa:1647	Gen B	2
+hsa:1643	hsa:4616	Gen B	2
+hsa:1643	hsa:1026	Draw	0
+hsa:1643	hsa:1030	Gen B	17
+hsa:1643	hsa:595	Gen B	17
+hsa:1643	hsa:6502	Gen B	17
+hsa:1643	hsa:1027	Gen B	17
+hsa:1643	hsa:4790	Gen B	34
+hsa:1643	hsa:5970	Gen B	34
+hsa:1643	hsa:4843	Draw	0
+hsa:1643	hsa:5743	Draw	0
+hsa:1643	hsa:7185	Gen B	5
+hsa:1643	hsa:7186	Gen B	5
+hsa:1643	hsa:7187	Gen B	5
+hsa:1643	hsa:7188	Gen B	5
+hsa:1643	hsa:7189	Gen B	5
+hsa:1643	hsa:9618	Gen B	5
+hsa:1643	hsa:598	Draw	0
+hsa:1643	hsa:112401	Gen B	4
+hsa:1643	hsa:329	Gen B	4
+hsa:1643	hsa:330	Gen B	4
+hsa:1643	hsa:331	Gen B	4
+hsa:1643	hsa:79444	Gen B	4
+hsa:1643	hsa:1019	Gen B	17
+hsa:1643	hsa:1021	Gen B	17
+hsa:1643	hsa:5925	Gen B	17
+hsa:1643	hsa:1869	Gen B	17
+hsa:1643	hsa:1870	Gen B	17
+hsa:1643	hsa:1871	Gen B	17
+hsa:1643	hsa:4792	Gen B	34
+hsa:1643	hsa:1147	Gen B	37
+hsa:1643	hsa:3551	Gen B	37
+hsa:1643	hsa:8517	Gen B	37
+hsa:1643	hsa:596	Gen B	1
+hsa:1643	hsa:10319	Gen B	31
+hsa:1643	hsa:1282	Gen B	31
+hsa:1643	hsa:1284	Gen B	31
+hsa:1643	hsa:1285	Gen B	31
+hsa:1643	hsa:1286	Gen B	31
+hsa:1643	hsa:1287	Gen B	31
+hsa:1643	hsa:1288	Gen B	31
+hsa:1643	hsa:22798	Gen B	31
+hsa:1643	hsa:2335	Gen B	31
+hsa:1643	hsa:284217	Gen B	31
+hsa:1643	hsa:3908	Gen B	31
+hsa:1643	hsa:3909	Gen B	31
+hsa:1643	hsa:3910	Gen B	31
+hsa:1643	hsa:3911	Gen B	31
+hsa:1643	hsa:3912	Gen B	31
+hsa:1643	hsa:3913	Gen B	31
+hsa:1643	hsa:3914	Gen B	31
+hsa:1643	hsa:3915	Gen B	31
+hsa:1643	hsa:3918	Gen B	31
+hsa:1643	hsa:3688	Gen B	31
+hsa:1643	hsa:54205	Gen B	2
+hsa:1643	hsa:842	Gen B	1
+hsa:1643	hsa:5290	Gen B	5
+hsa:1643	hsa:5291	Gen B	5
+hsa:1643	hsa:5293	Gen B	5
+hsa:1643	hsa:5295	Gen B	5
+hsa:1643	hsa:5296	Gen B	5
+hsa:1643	hsa:8503	Gen B	5
+hsa:1643	hsa:5747	Gen B	31
+hsa:1643	hsa:1163	Gen B	17
+hsa:1643	hsa:1164	Gen B	17
+hsa:1643	hsa:4609	Gen B	17
+hsa:1643	hsa:7709	Gen B	17
+hsa:1643	hsa:4149	Gen B	17
+hsa:1643	hsa:317	Gen B	2
+hsa:1643	hsa:836	Draw	0
+hsa:1643	hsa:10000	Gen B	40
+hsa:1643	hsa:207	Gen B	40
+hsa:1643	hsa:208	Gen B	40
+hsa:1643	hsa:6256	Gen B	3
+hsa:1643	hsa:6257	Gen B	3
+hsa:1643	hsa:6258	Gen B	3
+hsa:1643	hsa:5915	Gen B	3
+hsa:1643	hsa:898	Gen B	17
+hsa:1643	hsa:9134	Gen B	17
+hsa:1643	hsa:3655	Gen B	31
+hsa:1643	hsa:3673	Gen B	31
+hsa:1643	hsa:3674	Gen B	31
+hsa:1643	hsa:3675	Gen B	31
+hsa:1643	hsa:3685	Gen B	31
+hsa:1643	hsa:1017	Gen B	17
+hsa:578	hsa:581	Draw	0
+hsa:578	hsa:10912	Gen B	2
+hsa:578	hsa:1647	Gen B	2
+hsa:578	hsa:4616	Gen B	2
+hsa:578	hsa:1026	Draw	0
+hsa:578	hsa:1030	Gen B	17
+hsa:578	hsa:595	Gen B	17
+hsa:578	hsa:6502	Gen B	17
+hsa:578	hsa:1027	Gen B	17
+hsa:578	hsa:4790	Gen B	34
+hsa:578	hsa:5970	Gen B	34
+hsa:578	hsa:4843	Draw	0
+hsa:578	hsa:5743	Draw	0
+hsa:578	hsa:7185	Gen B	5
+hsa:578	hsa:7186	Gen B	5
+hsa:578	hsa:7187	Gen B	5
+hsa:578	hsa:7188	Gen B	5
+hsa:578	hsa:7189	Gen B	5
+hsa:578	hsa:9618	Gen B	5
+hsa:578	hsa:598	Draw	0
+hsa:578	hsa:112401	Gen B	4
+hsa:578	hsa:329	Gen B	4
+hsa:578	hsa:330	Gen B	4
+hsa:578	hsa:331	Gen B	4
+hsa:578	hsa:79444	Gen B	4
+hsa:578	hsa:1019	Gen B	17
+hsa:578	hsa:1021	Gen B	17
+hsa:578	hsa:5925	Gen B	17
+hsa:578	hsa:1869	Gen B	17
+hsa:578	hsa:1870	Gen B	17
+hsa:578	hsa:1871	Gen B	17
+hsa:578	hsa:4792	Gen B	34
+hsa:578	hsa:1147	Gen B	37
+hsa:578	hsa:3551	Gen B	37
+hsa:578	hsa:8517	Gen B	37
+hsa:578	hsa:596	Gen B	1
+hsa:578	hsa:10319	Gen B	31
+hsa:578	hsa:1282	Gen B	31
+hsa:578	hsa:1284	Gen B	31
+hsa:578	hsa:1285	Gen B	31
+hsa:578	hsa:1286	Gen B	31
+hsa:578	hsa:1287	Gen B	31
+hsa:578	hsa:1288	Gen B	31
+hsa:578	hsa:22798	Gen B	31
+hsa:578	hsa:2335	Gen B	31
+hsa:578	hsa:284217	Gen B	31
+hsa:578	hsa:3908	Gen B	31
+hsa:578	hsa:3909	Gen B	31
+hsa:578	hsa:3910	Gen B	31
+hsa:578	hsa:3911	Gen B	31
+hsa:578	hsa:3912	Gen B	31
+hsa:578	hsa:3913	Gen B	31
+hsa:578	hsa:3914	Gen B	31
+hsa:578	hsa:3915	Gen B	31
+hsa:578	hsa:3918	Gen B	31
+hsa:578	hsa:3688	Gen B	31
+hsa:578	hsa:54205	Gen B	2
+hsa:578	hsa:842	Gen B	1
+hsa:578	hsa:5290	Gen B	5
+hsa:578	hsa:5291	Gen B	5
+hsa:578	hsa:5293	Gen B	5
+hsa:578	hsa:5295	Gen B	5
+hsa:578	hsa:5296	Gen B	5
+hsa:578	hsa:8503	Gen B	5
+hsa:578	hsa:5747	Gen B	31
+hsa:578	hsa:1163	Gen B	17
+hsa:578	hsa:1164	Gen B	17
+hsa:578	hsa:4609	Gen B	17
+hsa:578	hsa:7709	Gen B	17
+hsa:578	hsa:4149	Gen B	17
+hsa:578	hsa:317	Gen B	2
+hsa:578	hsa:836	Draw	0
+hsa:578	hsa:10000	Gen B	40
+hsa:578	hsa:207	Gen B	40
+hsa:578	hsa:208	Gen B	40
+hsa:578	hsa:6256	Gen B	3
+hsa:578	hsa:6257	Gen B	3
+hsa:578	hsa:6258	Gen B	3
+hsa:578	hsa:5915	Gen B	3
+hsa:578	hsa:898	Gen B	17
+hsa:578	hsa:9134	Gen B	17
+hsa:578	hsa:3655	Gen B	31
+hsa:578	hsa:3673	Gen B	31
+hsa:578	hsa:3674	Gen B	31
+hsa:578	hsa:3675	Gen B	31
+hsa:578	hsa:3685	Gen B	31
+hsa:578	hsa:1017	Gen B	17
+hsa:581	hsa:10912	Gen B	2
+hsa:581	hsa:1647	Gen B	2
+hsa:581	hsa:4616	Gen B	2
+hsa:581	hsa:1026	Draw	0
+hsa:581	hsa:1030	Gen B	17
+hsa:581	hsa:595	Gen B	17
+hsa:581	hsa:6502	Gen B	17
+hsa:581	hsa:1027	Gen B	17
+hsa:581	hsa:4790	Gen B	34
+hsa:581	hsa:5970	Gen B	34
+hsa:581	hsa:4843	Draw	0
+hsa:581	hsa:5743	Draw	0
+hsa:581	hsa:7185	Gen B	5
+hsa:581	hsa:7186	Gen B	5
+hsa:581	hsa:7187	Gen B	5
+hsa:581	hsa:7188	Gen B	5
+hsa:581	hsa:7189	Gen B	5
+hsa:581	hsa:9618	Gen B	5
+hsa:581	hsa:598	Draw	0
+hsa:581	hsa:112401	Gen B	4
+hsa:581	hsa:329	Gen B	4
+hsa:581	hsa:330	Gen B	4
+hsa:581	hsa:331	Gen B	4
+hsa:581	hsa:79444	Gen B	4
+hsa:581	hsa:1019	Gen B	17
+hsa:581	hsa:1021	Gen B	17
+hsa:581	hsa:5925	Gen B	17
+hsa:581	hsa:1869	Gen B	17
+hsa:581	hsa:1870	Gen B	17
+hsa:581	hsa:1871	Gen B	17
+hsa:581	hsa:4792	Gen B	34
+hsa:581	hsa:1147	Gen B	37
+hsa:581	hsa:3551	Gen B	37
+hsa:581	hsa:8517	Gen B	37
+hsa:581	hsa:596	Draw	0
+hsa:581	hsa:10319	Gen B	31
+hsa:581	hsa:1282	Gen B	31
+hsa:581	hsa:1284	Gen B	31
+hsa:581	hsa:1285	Gen B	31
+hsa:581	hsa:1286	Gen B	31
+hsa:581	hsa:1287	Gen B	31
+hsa:581	hsa:1288	Gen B	31
+hsa:581	hsa:22798	Gen B	31
+hsa:581	hsa:2335	Gen B	31
+hsa:581	hsa:284217	Gen B	31
+hsa:581	hsa:3908	Gen B	31
+hsa:581	hsa:3909	Gen B	31
+hsa:581	hsa:3910	Gen B	31
+hsa:581	hsa:3911	Gen B	31
+hsa:581	hsa:3912	Gen B	31
+hsa:581	hsa:3913	Gen B	31
+hsa:581	hsa:3914	Gen B	31
+hsa:581	hsa:3915	Gen B	31
+hsa:581	hsa:3918	Gen B	31
+hsa:581	hsa:3688	Gen B	31
+hsa:581	hsa:54205	Gen B	2
+hsa:581	hsa:842	Gen B	1
+hsa:581	hsa:5290	Gen B	5
+hsa:581	hsa:5291	Gen B	5
+hsa:581	hsa:5293	Gen B	5
+hsa:581	hsa:5295	Gen B	5
+hsa:581	hsa:5296	Gen B	5
+hsa:581	hsa:8503	Gen B	5
+hsa:581	hsa:5747	Gen B	31
+hsa:581	hsa:1163	Gen B	17
+hsa:581	hsa:1164	Gen B	17
+hsa:581	hsa:4609	Gen B	17
+hsa:581	hsa:7709	Gen B	17
+hsa:581	hsa:4149	Gen B	17
+hsa:581	hsa:317	Gen B	2
+hsa:581	hsa:836	Draw	0
+hsa:581	hsa:10000	Gen B	40
+hsa:581	hsa:207	Gen B	40
+hsa:581	hsa:208	Gen B	40
+hsa:581	hsa:6256	Gen B	3
+hsa:581	hsa:6257	Gen B	3
+hsa:581	hsa:6258	Gen B	3
+hsa:581	hsa:5915	Gen B	3
+hsa:581	hsa:898	Gen B	17
+hsa:581	hsa:9134	Gen B	17
+hsa:581	hsa:3655	Gen B	31
+hsa:581	hsa:3673	Gen B	31
+hsa:581	hsa:3674	Gen B	31
+hsa:581	hsa:3675	Gen B	31
+hsa:581	hsa:3685	Gen B	31
+hsa:581	hsa:1017	Gen B	17
+hsa:10912	hsa:1647	Draw	0
+hsa:10912	hsa:4616	Draw	0
+hsa:10912	hsa:1026	Gen A	2
+hsa:10912	hsa:1030	Gen B	15
+hsa:10912	hsa:595	Gen B	15
+hsa:10912	hsa:6502	Gen B	15
+hsa:10912	hsa:1027	Gen B	15
+hsa:10912	hsa:4790	Gen B	32
+hsa:10912	hsa:5970	Gen B	32
+hsa:10912	hsa:4843	Gen A	2
+hsa:10912	hsa:5743	Gen A	2
+hsa:10912	hsa:7185	Gen B	3
+hsa:10912	hsa:7186	Gen B	3
+hsa:10912	hsa:7187	Gen B	3
+hsa:10912	hsa:7188	Gen B	3
+hsa:10912	hsa:7189	Gen B	3
+hsa:10912	hsa:9618	Gen B	3
+hsa:10912	hsa:598	Gen A	2
+hsa:10912	hsa:112401	Gen B	2
+hsa:10912	hsa:329	Gen B	2
+hsa:10912	hsa:330	Gen B	2
+hsa:10912	hsa:331	Gen B	2
+hsa:10912	hsa:79444	Gen B	2
+hsa:10912	hsa:1019	Gen B	15
+hsa:10912	hsa:1021	Gen B	15
+hsa:10912	hsa:5925	Gen B	15
+hsa:10912	hsa:1869	Gen B	15
+hsa:10912	hsa:1870	Gen B	15
+hsa:10912	hsa:1871	Gen B	15
+hsa:10912	hsa:4792	Gen B	32
+hsa:10912	hsa:1147	Gen B	35
+hsa:10912	hsa:3551	Gen B	35
+hsa:10912	hsa:8517	Gen B	35
+hsa:10912	hsa:596	Gen A	1
+hsa:10912	hsa:10319	Gen B	29
+hsa:10912	hsa:1282	Gen B	29
+hsa:10912	hsa:1284	Gen B	29
+hsa:10912	hsa:1285	Gen B	29
+hsa:10912	hsa:1286	Gen B	29
+hsa:10912	hsa:1287	Gen B	29
+hsa:10912	hsa:1288	Gen B	29
+hsa:10912	hsa:22798	Gen B	29
+hsa:10912	hsa:2335	Gen B	29
+hsa:10912	hsa:284217	Gen B	29
+hsa:10912	hsa:3908	Gen B	29
+hsa:10912	hsa:3909	Gen B	29
+hsa:10912	hsa:3910	Gen B	29
+hsa:10912	hsa:3911	Gen B	29
+hsa:10912	hsa:3912	Gen B	29
+hsa:10912	hsa:3913	Gen B	29
+hsa:10912	hsa:3914	Gen B	29
+hsa:10912	hsa:3915	Gen B	29
+hsa:10912	hsa:3918	Gen B	29
+hsa:10912	hsa:3688	Gen B	29
+hsa:10912	hsa:54205	Draw	0
+hsa:10912	hsa:842	Gen A	1
+hsa:10912	hsa:5290	Gen B	3
+hsa:10912	hsa:5291	Gen B	3
+hsa:10912	hsa:5293	Gen B	3
+hsa:10912	hsa:5295	Gen B	3
+hsa:10912	hsa:5296	Gen B	3
+hsa:10912	hsa:8503	Gen B	3
+hsa:10912	hsa:5747	Gen B	29
+hsa:10912	hsa:1163	Gen B	15
+hsa:10912	hsa:1164	Gen B	15
+hsa:10912	hsa:4609	Gen B	15
+hsa:10912	hsa:7709	Gen B	15
+hsa:10912	hsa:4149	Gen B	15
+hsa:10912	hsa:317	Draw	0
+hsa:10912	hsa:836	Gen A	2
+hsa:10912	hsa:10000	Gen B	38
+hsa:10912	hsa:207	Gen B	38
+hsa:10912	hsa:208	Gen B	38
+hsa:10912	hsa:6256	Gen B	1
+hsa:10912	hsa:6257	Gen B	1
+hsa:10912	hsa:6258	Gen B	1
+hsa:10912	hsa:5915	Gen B	1
+hsa:10912	hsa:898	Gen B	15
+hsa:10912	hsa:9134	Gen B	15
+hsa:10912	hsa:3655	Gen B	29
+hsa:10912	hsa:3673	Gen B	29
+hsa:10912	hsa:3674	Gen B	29
+hsa:10912	hsa:3675	Gen B	29
+hsa:10912	hsa:3685	Gen B	29
+hsa:10912	hsa:1017	Gen B	15
+hsa:1647	hsa:4616	Draw	0
+hsa:1647	hsa:1026	Gen A	2
+hsa:1647	hsa:1030	Gen B	15
+hsa:1647	hsa:595	Gen B	15
+hsa:1647	hsa:6502	Gen B	15
+hsa:1647	hsa:1027	Gen B	15
+hsa:1647	hsa:4790	Gen B	32
+hsa:1647	hsa:5970	Gen B	32
+hsa:1647	hsa:4843	Gen A	2
+hsa:1647	hsa:5743	Gen A	2
+hsa:1647	hsa:7185	Gen B	3
+hsa:1647	hsa:7186	Gen B	3
+hsa:1647	hsa:7187	Gen B	3
+hsa:1647	hsa:7188	Gen B	3
+hsa:1647	hsa:7189	Gen B	3
+hsa:1647	hsa:9618	Gen B	3
+hsa:1647	hsa:598	Gen A	2
+hsa:1647	hsa:112401	Gen B	2
+hsa:1647	hsa:329	Gen B	2
+hsa:1647	hsa:330	Gen B	2
+hsa:1647	hsa:331	Gen B	2
+hsa:1647	hsa:79444	Gen B	2
+hsa:1647	hsa:1019	Gen B	15
+hsa:1647	hsa:1021	Gen B	15
+hsa:1647	hsa:5925	Gen B	15
+hsa:1647	hsa:1869	Gen B	15
+hsa:1647	hsa:1870	Gen B	15
+hsa:1647	hsa:1871	Gen B	15
+hsa:1647	hsa:4792	Gen B	32
+hsa:1647	hsa:1147	Gen B	35
+hsa:1647	hsa:3551	Gen B	35
+hsa:1647	hsa:8517	Gen B	35
+hsa:1647	hsa:596	Gen A	1
+hsa:1647	hsa:10319	Gen B	29
+hsa:1647	hsa:1282	Gen B	29
+hsa:1647	hsa:1284	Gen B	29
+hsa:1647	hsa:1285	Gen B	29
+hsa:1647	hsa:1286	Gen B	29
+hsa:1647	hsa:1287	Gen B	29
+hsa:1647	hsa:1288	Gen B	29
+hsa:1647	hsa:22798	Gen B	29
+hsa:1647	hsa:2335	Gen B	29
+hsa:1647	hsa:284217	Gen B	29
+hsa:1647	hsa:3908	Gen B	29
+hsa:1647	hsa:3909	Gen B	29
+hsa:1647	hsa:3910	Gen B	29
+hsa:1647	hsa:3911	Gen B	29
+hsa:1647	hsa:3912	Gen B	29
+hsa:1647	hsa:3913	Gen B	29
+hsa:1647	hsa:3914	Gen B	29
+hsa:1647	hsa:3915	Gen B	29
+hsa:1647	hsa:3918	Gen B	29
+hsa:1647	hsa:3688	Gen B	29
+hsa:1647	hsa:54205	Draw	0
+hsa:1647	hsa:842	Gen A	1
+hsa:1647	hsa:5290	Gen B	3
+hsa:1647	hsa:5291	Gen B	3
+hsa:1647	hsa:5293	Gen B	3
+hsa:1647	hsa:5295	Gen B	3
+hsa:1647	hsa:5296	Gen B	3
+hsa:1647	hsa:8503	Gen B	3
+hsa:1647	hsa:5747	Gen B	29
+hsa:1647	hsa:1163	Gen B	15
+hsa:1647	hsa:1164	Gen B	15
+hsa:1647	hsa:4609	Gen B	15
+hsa:1647	hsa:7709	Gen B	15
+hsa:1647	hsa:4149	Gen B	15
+hsa:1647	hsa:317	Draw	0
+hsa:1647	hsa:836	Gen A	2
+hsa:1647	hsa:10000	Gen B	38
+hsa:1647	hsa:207	Gen B	38
+hsa:1647	hsa:208	Gen B	38
+hsa:1647	hsa:6256	Gen B	1
+hsa:1647	hsa:6257	Gen B	1
+hsa:1647	hsa:6258	Gen B	1
+hsa:1647	hsa:5915	Gen B	1
+hsa:1647	hsa:898	Gen B	15
+hsa:1647	hsa:9134	Gen B	15
+hsa:1647	hsa:3655	Gen B	29
+hsa:1647	hsa:3673	Gen B	29
+hsa:1647	hsa:3674	Gen B	29
+hsa:1647	hsa:3675	Gen B	29
+hsa:1647	hsa:3685	Gen B	29
+hsa:1647	hsa:1017	Gen B	15
+hsa:4616	hsa:1026	Gen A	2
+hsa:4616	hsa:1030	Gen B	15
+hsa:4616	hsa:595	Gen B	15
+hsa:4616	hsa:6502	Gen B	15
+hsa:4616	hsa:1027	Gen B	15
+hsa:4616	hsa:4790	Gen B	32
+hsa:4616	hsa:5970	Gen B	32
+hsa:4616	hsa:4843	Gen A	2
+hsa:4616	hsa:5743	Gen A	2
+hsa:4616	hsa:7185	Gen B	3
+hsa:4616	hsa:7186	Gen B	3
+hsa:4616	hsa:7187	Gen B	3
+hsa:4616	hsa:7188	Gen B	3
+hsa:4616	hsa:7189	Gen B	3
+hsa:4616	hsa:9618	Gen B	3
+hsa:4616	hsa:598	Gen A	2
+hsa:4616	hsa:112401	Gen B	2
+hsa:4616	hsa:329	Gen B	2
+hsa:4616	hsa:330	Gen B	2
+hsa:4616	hsa:331	Gen B	2
+hsa:4616	hsa:79444	Gen B	2
+hsa:4616	hsa:1019	Gen B	15
+hsa:4616	hsa:1021	Gen B	15
+hsa:4616	hsa:5925	Gen B	15
+hsa:4616	hsa:1869	Gen B	15
+hsa:4616	hsa:1870	Gen B	15
+hsa:4616	hsa:1871	Gen B	15
+hsa:4616	hsa:4792	Gen B	32
+hsa:4616	hsa:1147	Gen B	35
+hsa:4616	hsa:3551	Gen B	35
+hsa:4616	hsa:8517	Gen B	35
+hsa:4616	hsa:596	Gen A	1
+hsa:4616	hsa:10319	Gen B	29
+hsa:4616	hsa:1282	Gen B	29
+hsa:4616	hsa:1284	Gen B	29
+hsa:4616	hsa:1285	Gen B	29
+hsa:4616	hsa:1286	Gen B	29
+hsa:4616	hsa:1287	Gen B	29
+hsa:4616	hsa:1288	Gen B	29
+hsa:4616	hsa:22798	Gen B	29
+hsa:4616	hsa:2335	Gen B	29
+hsa:4616	hsa:284217	Gen B	29
+hsa:4616	hsa:3908	Gen B	29
+hsa:4616	hsa:3909	Gen B	29
+hsa:4616	hsa:3910	Gen B	29
+hsa:4616	hsa:3911	Gen B	29
+hsa:4616	hsa:3912	Gen B	29
+hsa:4616	hsa:3913	Gen B	29
+hsa:4616	hsa:3914	Gen B	29
+hsa:4616	hsa:3915	Gen B	29
+hsa:4616	hsa:3918	Gen B	29
+hsa:4616	hsa:3688	Gen B	29
+hsa:4616	hsa:54205	Draw	0
+hsa:4616	hsa:842	Gen A	1
+hsa:4616	hsa:5290	Gen B	3
+hsa:4616	hsa:5291	Gen B	3
+hsa:4616	hsa:5293	Gen B	3
+hsa:4616	hsa:5295	Gen B	3
+hsa:4616	hsa:5296	Gen B	3
+hsa:4616	hsa:8503	Gen B	3
+hsa:4616	hsa:5747	Gen B	29
+hsa:4616	hsa:1163	Gen B	15
+hsa:4616	hsa:1164	Gen B	15
+hsa:4616	hsa:4609	Gen B	15
+hsa:4616	hsa:7709	Gen B	15
+hsa:4616	hsa:4149	Gen B	15
+hsa:4616	hsa:317	Draw	0
+hsa:4616	hsa:836	Gen A	2
+hsa:4616	hsa:10000	Gen B	38
+hsa:4616	hsa:207	Gen B	38
+hsa:4616	hsa:208	Gen B	38
+hsa:4616	hsa:6256	Gen B	1
+hsa:4616	hsa:6257	Gen B	1
+hsa:4616	hsa:6258	Gen B	1
+hsa:4616	hsa:5915	Gen B	1
+hsa:4616	hsa:898	Gen B	15
+hsa:4616	hsa:9134	Gen B	15
+hsa:4616	hsa:3655	Gen B	29
+hsa:4616	hsa:3673	Gen B	29
+hsa:4616	hsa:3674	Gen B	29
+hsa:4616	hsa:3675	Gen B	29
+hsa:4616	hsa:3685	Gen B	29
+hsa:4616	hsa:1017	Gen B	15
+hsa:1026	hsa:1030	Gen B	17
+hsa:1026	hsa:595	Gen B	17
+hsa:1026	hsa:6502	Gen B	17
+hsa:1026	hsa:1027	Gen B	17
+hsa:1026	hsa:4790	Gen B	34
+hsa:1026	hsa:5970	Gen B	34
+hsa:1026	hsa:4843	Draw	0
+hsa:1026	hsa:5743	Draw	0
+hsa:1026	hsa:7185	Gen B	5
+hsa:1026	hsa:7186	Gen B	5
+hsa:1026	hsa:7187	Gen B	5
+hsa:1026	hsa:7188	Gen B	5
+hsa:1026	hsa:7189	Gen B	5
+hsa:1026	hsa:9618	Gen B	5
+hsa:1026	hsa:598	Draw	0
+hsa:1026	hsa:112401	Gen B	4
+hsa:1026	hsa:329	Gen B	4
+hsa:1026	hsa:330	Gen B	4
+hsa:1026	hsa:331	Gen B	4
+hsa:1026	hsa:79444	Gen B	4
+hsa:1026	hsa:1019	Gen B	17
+hsa:1026	hsa:1021	Gen B	17
+hsa:1026	hsa:5925	Gen B	17
+hsa:1026	hsa:1869	Gen B	17
+hsa:1026	hsa:1870	Gen B	17
+hsa:1026	hsa:1871	Gen B	17
+hsa:1026	hsa:4792	Gen B	34
+hsa:1026	hsa:1147	Gen B	37
+hsa:1026	hsa:3551	Gen B	37
+hsa:1026	hsa:8517	Gen B	37
+hsa:1026	hsa:596	Gen B	1
+hsa:1026	hsa:10319	Gen B	31
+hsa:1026	hsa:1282	Gen B	31
+hsa:1026	hsa:1284	Gen B	31
+hsa:1026	hsa:1285	Gen B	31
+hsa:1026	hsa:1286	Gen B	31
+hsa:1026	hsa:1287	Gen B	31
+hsa:1026	hsa:1288	Gen B	31
+hsa:1026	hsa:22798	Gen B	31
+hsa:1026	hsa:2335	Gen B	31
+hsa:1026	hsa:284217	Gen B	31
+hsa:1026	hsa:3908	Gen B	31
+hsa:1026	hsa:3909	Gen B	31
+hsa:1026	hsa:3910	Gen B	31
+hsa:1026	hsa:3911	Gen B	31
+hsa:1026	hsa:3912	Gen B	31
+hsa:1026	hsa:3913	Gen B	31
+hsa:1026	hsa:3914	Gen B	31
+hsa:1026	hsa:3915	Gen B	31
+hsa:1026	hsa:3918	Gen B	31
+hsa:1026	hsa:3688	Gen B	31
+hsa:1026	hsa:54205	Gen B	2
+hsa:1026	hsa:842	Gen B	1
+hsa:1026	hsa:5290	Gen B	5
+hsa:1026	hsa:5291	Gen B	5
+hsa:1026	hsa:5293	Gen B	5
+hsa:1026	hsa:5295	Gen B	5
+hsa:1026	hsa:5296	Gen B	5
+hsa:1026	hsa:8503	Gen B	5
+hsa:1026	hsa:5747	Gen B	31
+hsa:1026	hsa:1163	Gen B	17
+hsa:1026	hsa:1164	Gen B	17
+hsa:1026	hsa:4609	Gen B	17
+hsa:1026	hsa:7709	Gen B	17
+hsa:1026	hsa:4149	Gen B	17
+hsa:1026	hsa:317	Gen B	2
+hsa:1026	hsa:836	Draw	0
+hsa:1026	hsa:10000	Gen B	40
+hsa:1026	hsa:207	Gen B	40
+hsa:1026	hsa:208	Gen B	40
+hsa:1026	hsa:6256	Gen B	3
+hsa:1026	hsa:6257	Gen B	3
+hsa:1026	hsa:6258	Gen B	3
+hsa:1026	hsa:5915	Gen B	3
+hsa:1026	hsa:898	Gen B	17
+hsa:1026	hsa:9134	Gen B	17
+hsa:1026	hsa:3655	Gen B	31
+hsa:1026	hsa:3673	Gen B	31
+hsa:1026	hsa:3674	Gen B	31
+hsa:1026	hsa:3675	Gen B	31
+hsa:1026	hsa:3685	Gen B	31
+hsa:1026	hsa:1017	Gen B	17
+hsa:1030	hsa:595	Gen B	16
+hsa:1030	hsa:6502	Draw	0
+hsa:1030	hsa:1027	Draw	0
+hsa:1030	hsa:4790	Gen B	16
+hsa:1030	hsa:5970	Gen B	16
+hsa:1030	hsa:4843	Gen A	17
+hsa:1030	hsa:5743	Gen A	17
+hsa:1030	hsa:7185	Gen A	12
+hsa:1030	hsa:7186	Gen A	12
+hsa:1030	hsa:7187	Gen A	12
+hsa:1030	hsa:7188	Gen A	12
+hsa:1030	hsa:7189	Gen A	12
+hsa:1030	hsa:9618	Gen A	12
+hsa:1030	hsa:598	Gen A	17
+hsa:1030	hsa:112401	Gen A	13
+hsa:1030	hsa:329	Gen A	13
+hsa:1030	hsa:330	Gen A	13
+hsa:1030	hsa:331	Gen A	13
+hsa:1030	hsa:79444	Gen A	13
+hsa:1030	hsa:1019	Draw	0
+hsa:1030	hsa:1021	Draw	0
+hsa:1030	hsa:5925	Gen B	3
+hsa:1030	hsa:1869	Draw	0
+hsa:1030	hsa:1870	Draw	0
+hsa:1030	hsa:1871	Draw	0
+hsa:1030	hsa:4792	Gen B	16
+hsa:1030	hsa:1147	Gen B	19
+hsa:1030	hsa:3551	Gen B	19
+hsa:1030	hsa:8517	Gen B	19
+hsa:1030	hsa:596	Gen A	16
+hsa:1030	hsa:10319	Gen B	14
+hsa:1030	hsa:1282	Gen B	14
+hsa:1030	hsa:1284	Gen B	14
+hsa:1030	hsa:1285	Gen B	14
+hsa:1030	hsa:1286	Gen B	14
+hsa:1030	hsa:1287	Gen B	14
+hsa:1030	hsa:1288	Gen B	14
+hsa:1030	hsa:22798	Gen B	14
+hsa:1030	hsa:2335	Gen B	14
+hsa:1030	hsa:284217	Gen B	14
+hsa:1030	hsa:3908	Gen B	14
+hsa:1030	hsa:3909	Gen B	14
+hsa:1030	hsa:3910	Gen B	14
+hsa:1030	hsa:3911	Gen B	14
+hsa:1030	hsa:3912	Gen B	14
+hsa:1030	hsa:3913	Gen B	14
+hsa:1030	hsa:3914	Gen B	14
+hsa:1030	hsa:3915	Gen B	14
+hsa:1030	hsa:3918	Gen B	14
+hsa:1030	hsa:3688	Gen B	14
+hsa:1030	hsa:54205	Gen A	15
+hsa:1030	hsa:842	Gen A	16
+hsa:1030	hsa:5290	Gen A	12
+hsa:1030	hsa:5291	Gen A	12
+hsa:1030	hsa:5293	Gen A	12
+hsa:1030	hsa:5295	Gen A	12
+hsa:1030	hsa:5296	Gen A	12
+hsa:1030	hsa:8503	Gen A	12
+hsa:1030	hsa:5747	Gen B	14
+hsa:1030	hsa:1163	Draw	0
+hsa:1030	hsa:1164	Draw	0
+hsa:1030	hsa:4609	Gen B	5
+hsa:1030	hsa:7709	Draw	0
+hsa:1030	hsa:4149	Draw	0
+hsa:1030	hsa:317	Gen A	15
+hsa:1030	hsa:836	Gen A	17
+hsa:1030	hsa:10000	Gen B	22
+hsa:1030	hsa:207	Gen B	22
+hsa:1030	hsa:208	Gen B	22
+hsa:1030	hsa:6256	Gen A	14
+hsa:1030	hsa:6257	Gen A	14
+hsa:1030	hsa:6258	Gen A	14
+hsa:1030	hsa:5915	Gen A	14
+hsa:1030	hsa:898	Draw	0
+hsa:1030	hsa:9134	Draw	0
+hsa:1030	hsa:3655	Gen B	14
+hsa:1030	hsa:3673	Gen B	14
+hsa:1030	hsa:3674	Gen B	14
+hsa:1030	hsa:3675	Gen B	14
+hsa:1030	hsa:3685	Gen B	14
+hsa:1030	hsa:1017	Draw	0
+hsa:595	hsa:6502	Gen A	6
+hsa:595	hsa:1027	Gen A	7
+hsa:595	hsa:4790	Gen A	1
+hsa:595	hsa:5970	Gen A	1
+hsa:595	hsa:4843	Gen A	17
+hsa:595	hsa:5743	Gen A	17
+hsa:595	hsa:7185	Gen A	12
+hsa:595	hsa:7186	Gen A	12
+hsa:595	hsa:7187	Gen A	12
+hsa:595	hsa:7188	Gen A	12
+hsa:595	hsa:7189	Gen A	12
+hsa:595	hsa:9618	Gen A	12
+hsa:595	hsa:598	Gen A	17
+hsa:595	hsa:112401	Gen A	13
+hsa:595	hsa:329	Gen A	13
+hsa:595	hsa:330	Gen A	13
+hsa:595	hsa:331	Gen A	13
+hsa:595	hsa:79444	Gen A	13
+hsa:595	hsa:1019	Gen A	7
+hsa:595	hsa:1021	Gen A	7
+hsa:595	hsa:5925	Gen A	4
+hsa:595	hsa:1869	Gen A	7
+hsa:595	hsa:1870	Gen A	7
+hsa:595	hsa:1871	Gen A	7
+hsa:595	hsa:4792	Gen A	1
+hsa:595	hsa:1147	Gen B	2
+hsa:595	hsa:3551	Gen B	2
+hsa:595	hsa:8517	Gen B	2
+hsa:595	hsa:596	Gen A	16
+hsa:595	hsa:10319	Gen B	14
+hsa:595	hsa:1282	Gen B	14
+hsa:595	hsa:1284	Gen B	14
+hsa:595	hsa:1285	Gen B	14
+hsa:595	hsa:1286	Gen B	14
+hsa:595	hsa:1287	Gen B	14
+hsa:595	hsa:1288	Gen B	14
+hsa:595	hsa:22798	Gen B	14
+hsa:595	hsa:2335	Gen B	14
+hsa:595	hsa:284217	Gen B	14
+hsa:595	hsa:3908	Gen B	14
+hsa:595	hsa:3909	Gen B	14
+hsa:595	hsa:3910	Gen B	14
+hsa:595	hsa:3911	Gen B	14
+hsa:595	hsa:3912	Gen B	14
+hsa:595	hsa:3913	Gen B	14
+hsa:595	hsa:3914	Gen B	14
+hsa:595	hsa:3915	Gen B	14
+hsa:595	hsa:3918	Gen B	14
+hsa:595	hsa:3688	Gen B	14
+hsa:595	hsa:54205	Gen A	15
+hsa:595	hsa:842	Gen A	16
+hsa:595	hsa:5290	Gen A	12
+hsa:595	hsa:5291	Gen A	12
+hsa:595	hsa:5293	Gen A	12
+hsa:595	hsa:5295	Gen A	12
+hsa:595	hsa:5296	Gen A	12
+hsa:595	hsa:8503	Gen A	12
+hsa:595	hsa:5747	Gen B	14
+hsa:595	hsa:1163	Draw	0
+hsa:595	hsa:1164	Draw	0
+hsa:595	hsa:4609	Gen B	5
+hsa:595	hsa:7709	Draw	0
+hsa:595	hsa:4149	Draw	0
+hsa:595	hsa:317	Gen A	15
+hsa:595	hsa:836	Gen A	17
+hsa:595	hsa:10000	Gen B	5
+hsa:595	hsa:207	Gen B	5
+hsa:595	hsa:208	Gen B	5
+hsa:595	hsa:6256	Gen A	14
+hsa:595	hsa:6257	Gen A	14
+hsa:595	hsa:6258	Gen A	14
+hsa:595	hsa:5915	Gen A	14
+hsa:595	hsa:898	Gen A	7
+hsa:595	hsa:9134	Gen A	7
+hsa:595	hsa:3655	Gen B	14
+hsa:595	hsa:3673	Gen B	14
+hsa:595	hsa:3674	Gen B	14
+hsa:595	hsa:3675	Gen B	14
+hsa:595	hsa:3685	Gen B	14
+hsa:595	hsa:1017	Gen A	7
+hsa:6502	hsa:1027	Gen B	16
+hsa:6502	hsa:4790	Gen B	16
+hsa:6502	hsa:5970	Gen B	16
+hsa:6502	hsa:4843	Gen A	17
+hsa:6502	hsa:5743	Gen A	17
+hsa:6502	hsa:7185	Gen A	12
+hsa:6502	hsa:7186	Gen A	12
+hsa:6502	hsa:7187	Gen A	12
+hsa:6502	hsa:7188	Gen A	12
+hsa:6502	hsa:7189	Gen A	12
+hsa:6502	hsa:9618	Gen A	12
+hsa:6502	hsa:598	Gen A	17
+hsa:6502	hsa:112401	Gen A	13
+hsa:6502	hsa:329	Gen A	13
+hsa:6502	hsa:330	Gen A	13
+hsa:6502	hsa:331	Gen A	13
+hsa:6502	hsa:79444	Gen A	13
+hsa:6502	hsa:1019	Draw	0
+hsa:6502	hsa:1021	Draw	0
+hsa:6502	hsa:5925	Gen B	12
+hsa:6502	hsa:1869	Draw	0
+hsa:6502	hsa:1870	Draw	0
+hsa:6502	hsa:1871	Draw	0
+hsa:6502	hsa:4792	Gen B	16
+hsa:6502	hsa:1147	Gen B	19
+hsa:6502	hsa:3551	Gen B	19
+hsa:6502	hsa:8517	Gen B	19
+hsa:6502	hsa:596	Gen A	16
+hsa:6502	hsa:10319	Gen B	14
+hsa:6502	hsa:1282	Gen B	14
+hsa:6502	hsa:1284	Gen B	14
+hsa:6502	hsa:1285	Gen B	14
+hsa:6502	hsa:1286	Gen B	14
+hsa:6502	hsa:1287	Gen B	14
+hsa:6502	hsa:1288	Gen B	14
+hsa:6502	hsa:22798	Gen B	14
+hsa:6502	hsa:2335	Gen B	14
+hsa:6502	hsa:284217	Gen B	14
+hsa:6502	hsa:3908	Gen B	14
+hsa:6502	hsa:3909	Gen B	14
+hsa:6502	hsa:3910	Gen B	14
+hsa:6502	hsa:3911	Gen B	14
+hsa:6502	hsa:3912	Gen B	14
+hsa:6502	hsa:3913	Gen B	14
+hsa:6502	hsa:3914	Gen B	14
+hsa:6502	hsa:3915	Gen B	14
+hsa:6502	hsa:3918	Gen B	14
+hsa:6502	hsa:3688	Gen B	14
+hsa:6502	hsa:54205	Gen A	15
+hsa:6502	hsa:842	Gen A	16
+hsa:6502	hsa:5290	Gen A	12
+hsa:6502	hsa:5291	Gen A	12
+hsa:6502	hsa:5293	Gen A	12
+hsa:6502	hsa:5295	Gen A	12
+hsa:6502	hsa:5296	Gen A	12
+hsa:6502	hsa:8503	Gen A	12
+hsa:6502	hsa:5747	Gen B	14
+hsa:6502	hsa:1163	Draw	0
+hsa:6502	hsa:1164	Draw	0
+hsa:6502	hsa:4609	Gen B	4
+hsa:6502	hsa:7709	Draw	0
+hsa:6502	hsa:4149	Draw	0
+hsa:6502	hsa:317	Gen A	15
+hsa:6502	hsa:836	Gen A	17
+hsa:6502	hsa:10000	Gen B	22
+hsa:6502	hsa:207	Gen B	22
+hsa:6502	hsa:208	Gen B	22
+hsa:6502	hsa:6256	Gen A	14
+hsa:6502	hsa:6257	Gen A	14
+hsa:6502	hsa:6258	Gen A	14
+hsa:6502	hsa:5915	Gen A	14
+hsa:6502	hsa:898	Draw	0
+hsa:6502	hsa:9134	Draw	0
+hsa:6502	hsa:3655	Gen B	14
+hsa:6502	hsa:3673	Gen B	14
+hsa:6502	hsa:3674	Gen B	14
+hsa:6502	hsa:3675	Gen B	14
+hsa:6502	hsa:3685	Gen B	14
+hsa:6502	hsa:1017	Gen B	13
+hsa:1027	hsa:4790	Gen B	16
+hsa:1027	hsa:5970	Gen B	16
+hsa:1027	hsa:4843	Gen A	17
+hsa:1027	hsa:5743	Gen A	17
+hsa:1027	hsa:7185	Gen A	12
+hsa:1027	hsa:7186	Gen A	12
+hsa:1027	hsa:7187	Gen A	12
+hsa:1027	hsa:7188	Gen A	12
+hsa:1027	hsa:7189	Gen A	12
+hsa:1027	hsa:9618	Gen A	12
+hsa:1027	hsa:598	Gen A	17
+hsa:1027	hsa:112401	Gen A	13
+hsa:1027	hsa:329	Gen A	13
+hsa:1027	hsa:330	Gen A	13
+hsa:1027	hsa:331	Gen A	13
+hsa:1027	hsa:79444	Gen A	13
+hsa:1027	hsa:1019	Draw	0
+hsa:1027	hsa:1021	Draw	0
+hsa:1027	hsa:5925	Gen B	13
+hsa:1027	hsa:1869	Draw	0
+hsa:1027	hsa:1870	Draw	0
+hsa:1027	hsa:1871	Draw	0
+hsa:1027	hsa:4792	Gen B	16
+hsa:1027	hsa:1147	Gen B	19
+hsa:1027	hsa:3551	Gen B	19
+hsa:1027	hsa:8517	Gen B	19
+hsa:1027	hsa:596	Gen A	16
+hsa:1027	hsa:10319	Gen B	14
+hsa:1027	hsa:1282	Gen B	14
+hsa:1027	hsa:1284	Gen B	14
+hsa:1027	hsa:1285	Gen B	14
+hsa:1027	hsa:1286	Gen B	14
+hsa:1027	hsa:1287	Gen B	14
+hsa:1027	hsa:1288	Gen B	14
+hsa:1027	hsa:22798	Gen B	14
+hsa:1027	hsa:2335	Gen B	14
+hsa:1027	hsa:284217	Gen B	14
+hsa:1027	hsa:3908	Gen B	14
+hsa:1027	hsa:3909	Gen B	14
+hsa:1027	hsa:3910	Gen B	14
+hsa:1027	hsa:3911	Gen B	14
+hsa:1027	hsa:3912	Gen B	14
+hsa:1027	hsa:3913	Gen B	14
+hsa:1027	hsa:3914	Gen B	14
+hsa:1027	hsa:3915	Gen B	14
+hsa:1027	hsa:3918	Gen B	14
+hsa:1027	hsa:3688	Gen B	14
+hsa:1027	hsa:54205	Gen A	15
+hsa:1027	hsa:842	Gen A	16
+hsa:1027	hsa:5290	Gen A	12
+hsa:1027	hsa:5291	Gen A	12
+hsa:1027	hsa:5293	Gen A	12
+hsa:1027	hsa:5295	Gen A	12
+hsa:1027	hsa:5296	Gen A	12
+hsa:1027	hsa:8503	Gen A	12
+hsa:1027	hsa:5747	Gen B	14
+hsa:1027	hsa:1163	Draw	0
+hsa:1027	hsa:1164	Draw	0
+hsa:1027	hsa:4609	Gen B	5
+hsa:1027	hsa:7709	Draw	0
+hsa:1027	hsa:4149	Draw	0
+hsa:1027	hsa:317	Gen A	15
+hsa:1027	hsa:836	Gen A	17
+hsa:1027	hsa:10000	Gen B	22
+hsa:1027	hsa:207	Gen B	22
+hsa:1027	hsa:208	Gen B	22
+hsa:1027	hsa:6256	Gen A	14
+hsa:1027	hsa:6257	Gen A	14
+hsa:1027	hsa:6258	Gen A	14
+hsa:1027	hsa:5915	Gen A	14
+hsa:1027	hsa:898	Draw	0
+hsa:1027	hsa:9134	Draw	0
+hsa:1027	hsa:3655	Gen B	14
+hsa:1027	hsa:3673	Gen B	14
+hsa:1027	hsa:3674	Gen B	14
+hsa:1027	hsa:3675	Gen B	14
+hsa:1027	hsa:3685	Gen B	14
+hsa:1027	hsa:1017	Gen B	14
+hsa:4790	hsa:5970	Draw	0
+hsa:4790	hsa:4843	Gen A	33
+hsa:4790	hsa:5743	Gen A	33
+hsa:4790	hsa:7185	Gen A	28
+hsa:4790	hsa:7186	Gen A	28
+hsa:4790	hsa:7187	Gen A	28
+hsa:4790	hsa:7188	Gen A	28
+hsa:4790	hsa:7189	Gen A	28
+hsa:4790	hsa:9618	Gen A	28
+hsa:4790	hsa:598	Gen A	33
+hsa:4790	hsa:112401	Gen A	29
+hsa:4790	hsa:329	Gen A	29
+hsa:4790	hsa:330	Gen A	29
+hsa:4790	hsa:331	Gen A	29
+hsa:4790	hsa:79444	Gen A	29
+hsa:4790	hsa:1019	Gen A	16
+hsa:4790	hsa:1021	Gen A	16
+hsa:4790	hsa:5925	Gen A	13
+hsa:4790	hsa:1869	Gen A	16
+hsa:4790	hsa:1870	Gen A	16
+hsa:4790	hsa:1871	Gen A	16
+hsa:4790	hsa:4792	Gen A	6
+hsa:4790	hsa:1147	Gen B	2
+hsa:4790	hsa:3551	Gen B	2
+hsa:4790	hsa:8517	Gen B	2
+hsa:4790	hsa:596	Gen A	33
+hsa:4790	hsa:10319	Gen A	3
+hsa:4790	hsa:1282	Gen A	3
+hsa:4790	hsa:1284	Gen A	3
+hsa:4790	hsa:1285	Gen A	3
+hsa:4790	hsa:1286	Gen A	3
+hsa:4790	hsa:1287	Gen A	3
+hsa:4790	hsa:1288	Gen A	3
+hsa:4790	hsa:22798	Gen A	3
+hsa:4790	hsa:2335	Gen A	3
+hsa:4790	hsa:284217	Gen A	3
+hsa:4790	hsa:3908	Gen A	3
+hsa:4790	hsa:3909	Gen A	3
+hsa:4790	hsa:3910	Gen A	3
+hsa:4790	hsa:3911	Gen A	3
+hsa:4790	hsa:3912	Gen A	3
+hsa:4790	hsa:3913	Gen A	3
+hsa:4790	hsa:3914	Gen A	3
+hsa:4790	hsa:3915	Gen A	3
+hsa:4790	hsa:3918	Gen A	3
+hsa:4790	hsa:3688	Gen A	3
+hsa:4790	hsa:54205	Gen A	32
+hsa:4790	hsa:842	Gen A	33
+hsa:4790	hsa:5290	Gen A	29
+hsa:4790	hsa:5291	Gen A	29
+hsa:4790	hsa:5293	Gen A	29
+hsa:4790	hsa:5295	Gen A	29
+hsa:4790	hsa:5296	Gen A	29
+hsa:4790	hsa:8503	Gen A	29
+hsa:4790	hsa:5747	Gen A	3
+hsa:4790	hsa:1163	Gen A	16
+hsa:4790	hsa:1164	Gen A	16
+hsa:4790	hsa:4609	Gen A	11
+hsa:4790	hsa:7709	Gen A	16
+hsa:4790	hsa:4149	Gen A	16
+hsa:4790	hsa:317	Gen A	32
+hsa:4790	hsa:836	Gen A	34
+hsa:4790	hsa:10000	Gen B	5
+hsa:4790	hsa:207	Gen B	5
+hsa:4790	hsa:208	Gen B	5
+hsa:4790	hsa:6256	Gen A	31
+hsa:4790	hsa:6257	Gen A	31
+hsa:4790	hsa:6258	Gen A	31
+hsa:4790	hsa:5915	Gen A	31
+hsa:4790	hsa:898	Gen A	16
+hsa:4790	hsa:9134	Gen A	16
+hsa:4790	hsa:3655	Gen A	3
+hsa:4790	hsa:3673	Gen A	3
+hsa:4790	hsa:3674	Gen A	3
+hsa:4790	hsa:3675	Gen A	3
+hsa:4790	hsa:3685	Gen A	3
+hsa:4790	hsa:1017	Gen A	16
+hsa:5970	hsa:4843	Gen A	33
+hsa:5970	hsa:5743	Gen A	33
+hsa:5970	hsa:7185	Gen A	28
+hsa:5970	hsa:7186	Gen A	28
+hsa:5970	hsa:7187	Gen A	28
+hsa:5970	hsa:7188	Gen A	28
+hsa:5970	hsa:7189	Gen A	28
+hsa:5970	hsa:9618	Gen A	28
+hsa:5970	hsa:598	Gen A	33
+hsa:5970	hsa:112401	Gen A	29
+hsa:5970	hsa:329	Gen A	29
+hsa:5970	hsa:330	Gen A	29
+hsa:5970	hsa:331	Gen A	29
+hsa:5970	hsa:79444	Gen A	29
+hsa:5970	hsa:1019	Gen A	16
+hsa:5970	hsa:1021	Gen A	16
+hsa:5970	hsa:5925	Gen A	13
+hsa:5970	hsa:1869	Gen A	16
+hsa:5970	hsa:1870	Gen A	16
+hsa:5970	hsa:1871	Gen A	16
+hsa:5970	hsa:4792	Gen A	6
+hsa:5970	hsa:1147	Gen B	2
+hsa:5970	hsa:3551	Gen B	2
+hsa:5970	hsa:8517	Gen B	2
+hsa:5970	hsa:596	Gen A	33
+hsa:5970	hsa:10319	Gen A	3
+hsa:5970	hsa:1282	Gen A	3
+hsa:5970	hsa:1284	Gen A	3
+hsa:5970	hsa:1285	Gen A	3
+hsa:5970	hsa:1286	Gen A	3
+hsa:5970	hsa:1287	Gen A	3
+hsa:5970	hsa:1288	Gen A	3
+hsa:5970	hsa:22798	Gen A	3
+hsa:5970	hsa:2335	Gen A	3
+hsa:5970	hsa:284217	Gen A	3
+hsa:5970	hsa:3908	Gen A	3
+hsa:5970	hsa:3909	Gen A	3
+hsa:5970	hsa:3910	Gen A	3
+hsa:5970	hsa:3911	Gen A	3
+hsa:5970	hsa:3912	Gen A	3
+hsa:5970	hsa:3913	Gen A	3
+hsa:5970	hsa:3914	Gen A	3
+hsa:5970	hsa:3915	Gen A	3
+hsa:5970	hsa:3918	Gen A	3
+hsa:5970	hsa:3688	Gen A	3
+hsa:5970	hsa:54205	Gen A	32
+hsa:5970	hsa:842	Gen A	33
+hsa:5970	hsa:5290	Gen A	29
+hsa:5970	hsa:5291	Gen A	29
+hsa:5970	hsa:5293	Gen A	29
+hsa:5970	hsa:5295	Gen A	29
+hsa:5970	hsa:5296	Gen A	29
+hsa:5970	hsa:8503	Gen A	29
+hsa:5970	hsa:5747	Gen A	3
+hsa:5970	hsa:1163	Gen A	16
+hsa:5970	hsa:1164	Gen A	16
+hsa:5970	hsa:4609	Gen A	11
+hsa:5970	hsa:7709	Gen A	16
+hsa:5970	hsa:4149	Gen A	16
+hsa:5970	hsa:317	Gen A	32
+hsa:5970	hsa:836	Gen A	34
+hsa:5970	hsa:10000	Gen B	5
+hsa:5970	hsa:207	Gen B	5
+hsa:5970	hsa:208	Gen B	5
+hsa:5970	hsa:6256	Gen A	31
+hsa:5970	hsa:6257	Gen A	31
+hsa:5970	hsa:6258	Gen A	31
+hsa:5970	hsa:5915	Gen A	31
+hsa:5970	hsa:898	Gen A	16
+hsa:5970	hsa:9134	Gen A	16
+hsa:5970	hsa:3655	Gen A	3
+hsa:5970	hsa:3673	Gen A	3
+hsa:5970	hsa:3674	Gen A	3
+hsa:5970	hsa:3675	Gen A	3
+hsa:5970	hsa:3685	Gen A	3
+hsa:5970	hsa:1017	Gen A	16
+hsa:4843	hsa:5743	Draw	0
+hsa:4843	hsa:7185	Gen B	5
+hsa:4843	hsa:7186	Gen B	5
+hsa:4843	hsa:7187	Gen B	5
+hsa:4843	hsa:7188	Gen B	5
+hsa:4843	hsa:7189	Gen B	5
+hsa:4843	hsa:9618	Gen B	5
+hsa:4843	hsa:598	Draw	0
+hsa:4843	hsa:112401	Gen B	4
+hsa:4843	hsa:329	Gen B	4
+hsa:4843	hsa:330	Gen B	4
+hsa:4843	hsa:331	Gen B	4
+hsa:4843	hsa:79444	Gen B	4
+hsa:4843	hsa:1019	Gen B	17
+hsa:4843	hsa:1021	Gen B	17
+hsa:4843	hsa:5925	Gen B	17
+hsa:4843	hsa:1869	Gen B	17
+hsa:4843	hsa:1870	Gen B	17
+hsa:4843	hsa:1871	Gen B	17
+hsa:4843	hsa:4792	Gen B	33
+hsa:4843	hsa:1147	Gen B	36
+hsa:4843	hsa:3551	Gen B	36
+hsa:4843	hsa:8517	Gen B	36
+hsa:4843	hsa:596	Gen B	1
+hsa:4843	hsa:10319	Gen B	31
+hsa:4843	hsa:1282	Gen B	31
+hsa:4843	hsa:1284	Gen B	31
+hsa:4843	hsa:1285	Gen B	31
+hsa:4843	hsa:1286	Gen B	31
+hsa:4843	hsa:1287	Gen B	31
+hsa:4843	hsa:1288	Gen B	31
+hsa:4843	hsa:22798	Gen B	31
+hsa:4843	hsa:2335	Gen B	31
+hsa:4843	hsa:284217	Gen B	31
+hsa:4843	hsa:3908	Gen B	31
+hsa:4843	hsa:3909	Gen B	31
+hsa:4843	hsa:3910	Gen B	31
+hsa:4843	hsa:3911	Gen B	31
+hsa:4843	hsa:3912	Gen B	31
+hsa:4843	hsa:3913	Gen B	31
+hsa:4843	hsa:3914	Gen B	31
+hsa:4843	hsa:3915	Gen B	31
+hsa:4843	hsa:3918	Gen B	31
+hsa:4843	hsa:3688	Gen B	31
+hsa:4843	hsa:54205	Gen B	2
+hsa:4843	hsa:842	Gen B	1
+hsa:4843	hsa:5290	Gen B	5
+hsa:4843	hsa:5291	Gen B	5
+hsa:4843	hsa:5293	Gen B	5
+hsa:4843	hsa:5295	Gen B	5
+hsa:4843	hsa:5296	Gen B	5
+hsa:4843	hsa:8503	Gen B	5
+hsa:4843	hsa:5747	Gen B	31
+hsa:4843	hsa:1163	Gen B	17
+hsa:4843	hsa:1164	Gen B	17
+hsa:4843	hsa:4609	Gen B	17
+hsa:4843	hsa:7709	Gen B	17
+hsa:4843	hsa:4149	Gen B	17
+hsa:4843	hsa:317	Gen B	2
+hsa:4843	hsa:836	Draw	0
+hsa:4843	hsa:10000	Gen B	39
+hsa:4843	hsa:207	Gen B	39
+hsa:4843	hsa:208	Gen B	39
+hsa:4843	hsa:6256	Gen B	3
+hsa:4843	hsa:6257	Gen B	3
+hsa:4843	hsa:6258	Gen B	3
+hsa:4843	hsa:5915	Gen B	3
+hsa:4843	hsa:898	Gen B	17
+hsa:4843	hsa:9134	Gen B	17
+hsa:4843	hsa:3655	Gen B	31
+hsa:4843	hsa:3673	Gen B	31
+hsa:4843	hsa:3674	Gen B	31
+hsa:4843	hsa:3675	Gen B	31
+hsa:4843	hsa:3685	Gen B	31
+hsa:4843	hsa:1017	Gen B	17
+hsa:5743	hsa:7185	Gen B	5
+hsa:5743	hsa:7186	Gen B	5
+hsa:5743	hsa:7187	Gen B	5
+hsa:5743	hsa:7188	Gen B	5
+hsa:5743	hsa:7189	Gen B	5
+hsa:5743	hsa:9618	Gen B	5
+hsa:5743	hsa:598	Draw	0
+hsa:5743	hsa:112401	Gen B	4
+hsa:5743	hsa:329	Gen B	4
+hsa:5743	hsa:330	Gen B	4
+hsa:5743	hsa:331	Gen B	4
+hsa:5743	hsa:79444	Gen B	4
+hsa:5743	hsa:1019	Gen B	17
+hsa:5743	hsa:1021	Gen B	17
+hsa:5743	hsa:5925	Gen B	17
+hsa:5743	hsa:1869	Gen B	17
+hsa:5743	hsa:1870	Gen B	17
+hsa:5743	hsa:1871	Gen B	17
+hsa:5743	hsa:4792	Gen B	33
+hsa:5743	hsa:1147	Gen B	36
+hsa:5743	hsa:3551	Gen B	36
+hsa:5743	hsa:8517	Gen B	36
+hsa:5743	hsa:596	Gen B	1
+hsa:5743	hsa:10319	Gen B	31
+hsa:5743	hsa:1282	Gen B	31
+hsa:5743	hsa:1284	Gen B	31
+hsa:5743	hsa:1285	Gen B	31
+hsa:5743	hsa:1286	Gen B	31
+hsa:5743	hsa:1287	Gen B	31
+hsa:5743	hsa:1288	Gen B	31
+hsa:5743	hsa:22798	Gen B	31
+hsa:5743	hsa:2335	Gen B	31
+hsa:5743	hsa:284217	Gen B	31
+hsa:5743	hsa:3908	Gen B	31
+hsa:5743	hsa:3909	Gen B	31
+hsa:5743	hsa:3910	Gen B	31
+hsa:5743	hsa:3911	Gen B	31
+hsa:5743	hsa:3912	Gen B	31
+hsa:5743	hsa:3913	Gen B	31
+hsa:5743	hsa:3914	Gen B	31
+hsa:5743	hsa:3915	Gen B	31
+hsa:5743	hsa:3918	Gen B	31
+hsa:5743	hsa:3688	Gen B	31
+hsa:5743	hsa:54205	Gen B	2
+hsa:5743	hsa:842	Gen B	1
+hsa:5743	hsa:5290	Gen B	5
+hsa:5743	hsa:5291	Gen B	5
+hsa:5743	hsa:5293	Gen B	5
+hsa:5743	hsa:5295	Gen B	5
+hsa:5743	hsa:5296	Gen B	5
+hsa:5743	hsa:8503	Gen B	5
+hsa:5743	hsa:5747	Gen B	31
+hsa:5743	hsa:1163	Gen B	17
+hsa:5743	hsa:1164	Gen B	17
+hsa:5743	hsa:4609	Gen B	17
+hsa:5743	hsa:7709	Gen B	17
+hsa:5743	hsa:4149	Gen B	17
+hsa:5743	hsa:317	Gen B	2
+hsa:5743	hsa:836	Draw	0
+hsa:5743	hsa:10000	Gen B	39
+hsa:5743	hsa:207	Gen B	39
+hsa:5743	hsa:208	Gen B	39
+hsa:5743	hsa:6256	Gen B	3
+hsa:5743	hsa:6257	Gen B	3
+hsa:5743	hsa:6258	Gen B	3
+hsa:5743	hsa:5915	Gen B	3
+hsa:5743	hsa:898	Gen B	17
+hsa:5743	hsa:9134	Gen B	17
+hsa:5743	hsa:3655	Gen B	31
+hsa:5743	hsa:3673	Gen B	31
+hsa:5743	hsa:3674	Gen B	31
+hsa:5743	hsa:3675	Gen B	31
+hsa:5743	hsa:3685	Gen B	31
+hsa:5743	hsa:1017	Gen B	17
+hsa:7185	hsa:7186	Draw	0
+hsa:7185	hsa:7187	Draw	0
+hsa:7185	hsa:7188	Draw	0
+hsa:7185	hsa:7189	Draw	0
+hsa:7185	hsa:9618	Draw	0
+hsa:7185	hsa:598	Gen A	5
+hsa:7185	hsa:112401	Gen A	1
+hsa:7185	hsa:329	Gen A	1
+hsa:7185	hsa:330	Gen A	1
+hsa:7185	hsa:331	Gen A	1
+hsa:7185	hsa:79444	Gen A	1
+hsa:7185	hsa:1019	Gen B	12
+hsa:7185	hsa:1021	Gen B	12
+hsa:7185	hsa:5925	Gen B	12
+hsa:7185	hsa:1869	Gen B	12
+hsa:7185	hsa:1870	Gen B	12
+hsa:7185	hsa:1871	Gen B	12
+hsa:7185	hsa:4792	Gen B	28
+hsa:7185	hsa:1147	Gen B	31
+hsa:7185	hsa:3551	Gen B	31
+hsa:7185	hsa:8517	Gen B	31
+hsa:7185	hsa:596	Gen A	4
+hsa:7185	hsa:10319	Gen B	26
+hsa:7185	hsa:1282	Gen B	26
+hsa:7185	hsa:1284	Gen B	26
+hsa:7185	hsa:1285	Gen B	26
+hsa:7185	hsa:1286	Gen B	26
+hsa:7185	hsa:1287	Gen B	26
+hsa:7185	hsa:1288	Gen B	26
+hsa:7185	hsa:22798	Gen B	26
+hsa:7185	hsa:2335	Gen B	26
+hsa:7185	hsa:284217	Gen B	26
+hsa:7185	hsa:3908	Gen B	26
+hsa:7185	hsa:3909	Gen B	26
+hsa:7185	hsa:3910	Gen B	26
+hsa:7185	hsa:3911	Gen B	26
+hsa:7185	hsa:3912	Gen B	26
+hsa:7185	hsa:3913	Gen B	26
+hsa:7185	hsa:3914	Gen B	26
+hsa:7185	hsa:3915	Gen B	26
+hsa:7185	hsa:3918	Gen B	26
+hsa:7185	hsa:3688	Gen B	26
+hsa:7185	hsa:54205	Gen A	3
+hsa:7185	hsa:842	Gen A	4
+hsa:7185	hsa:5290	Draw	0
+hsa:7185	hsa:5291	Draw	0
+hsa:7185	hsa:5293	Draw	0
+hsa:7185	hsa:5295	Draw	0
+hsa:7185	hsa:5296	Draw	0
+hsa:7185	hsa:8503	Draw	0
+hsa:7185	hsa:5747	Gen B	26
+hsa:7185	hsa:1163	Gen B	12
+hsa:7185	hsa:1164	Gen B	12
+hsa:7185	hsa:4609	Gen B	12
+hsa:7185	hsa:7709	Gen B	12
+hsa:7185	hsa:4149	Gen B	12
+hsa:7185	hsa:317	Gen A	3
+hsa:7185	hsa:836	Gen A	5
+hsa:7185	hsa:10000	Gen B	34
+hsa:7185	hsa:207	Gen B	34
+hsa:7185	hsa:208	Gen B	34
+hsa:7185	hsa:6256	Gen A	2
+hsa:7185	hsa:6257	Gen A	2
+hsa:7185	hsa:6258	Gen A	2
+hsa:7185	hsa:5915	Gen A	2
+hsa:7185	hsa:898	Gen B	12
+hsa:7185	hsa:9134	Gen B	12
+hsa:7185	hsa:3655	Gen B	26
+hsa:7185	hsa:3673	Gen B	26
+hsa:7185	hsa:3674	Gen B	26
+hsa:7185	hsa:3675	Gen B	26
+hsa:7185	hsa:3685	Gen B	26
+hsa:7185	hsa:1017	Gen B	12
+hsa:7186	hsa:7187	Draw	0
+hsa:7186	hsa:7188	Draw	0
+hsa:7186	hsa:7189	Draw	0
+hsa:7186	hsa:9618	Draw	0
+hsa:7186	hsa:598	Gen A	5
+hsa:7186	hsa:112401	Gen A	1
+hsa:7186	hsa:329	Gen A	1
+hsa:7186	hsa:330	Gen A	1
+hsa:7186	hsa:331	Gen A	1
+hsa:7186	hsa:79444	Gen A	1
+hsa:7186	hsa:1019	Gen B	12
+hsa:7186	hsa:1021	Gen B	12
+hsa:7186	hsa:5925	Gen B	12
+hsa:7186	hsa:1869	Gen B	12
+hsa:7186	hsa:1870	Gen B	12
+hsa:7186	hsa:1871	Gen B	12
+hsa:7186	hsa:4792	Gen B	28
+hsa:7186	hsa:1147	Gen B	31
+hsa:7186	hsa:3551	Gen B	31
+hsa:7186	hsa:8517	Gen B	31
+hsa:7186	hsa:596	Gen A	4
+hsa:7186	hsa:10319	Gen B	26
+hsa:7186	hsa:1282	Gen B	26
+hsa:7186	hsa:1284	Gen B	26
+hsa:7186	hsa:1285	Gen B	26
+hsa:7186	hsa:1286	Gen B	26
+hsa:7186	hsa:1287	Gen B	26
+hsa:7186	hsa:1288	Gen B	26
+hsa:7186	hsa:22798	Gen B	26
+hsa:7186	hsa:2335	Gen B	26
+hsa:7186	hsa:284217	Gen B	26
+hsa:7186	hsa:3908	Gen B	26
+hsa:7186	hsa:3909	Gen B	26
+hsa:7186	hsa:3910	Gen B	26
+hsa:7186	hsa:3911	Gen B	26
+hsa:7186	hsa:3912	Gen B	26
+hsa:7186	hsa:3913	Gen B	26
+hsa:7186	hsa:3914	Gen B	26
+hsa:7186	hsa:3915	Gen B	26
+hsa:7186	hsa:3918	Gen B	26
+hsa:7186	hsa:3688	Gen B	26
+hsa:7186	hsa:54205	Gen A	3
+hsa:7186	hsa:842	Gen A	4
+hsa:7186	hsa:5290	Draw	0
+hsa:7186	hsa:5291	Draw	0
+hsa:7186	hsa:5293	Draw	0
+hsa:7186	hsa:5295	Draw	0
+hsa:7186	hsa:5296	Draw	0
+hsa:7186	hsa:8503	Draw	0
+hsa:7186	hsa:5747	Gen B	26
+hsa:7186	hsa:1163	Gen B	12
+hsa:7186	hsa:1164	Gen B	12
+hsa:7186	hsa:4609	Gen B	12
+hsa:7186	hsa:7709	Gen B	12
+hsa:7186	hsa:4149	Gen B	12
+hsa:7186	hsa:317	Gen A	3
+hsa:7186	hsa:836	Gen A	5
+hsa:7186	hsa:10000	Gen B	34
+hsa:7186	hsa:207	Gen B	34
+hsa:7186	hsa:208	Gen B	34
+hsa:7186	hsa:6256	Gen A	2
+hsa:7186	hsa:6257	Gen A	2
+hsa:7186	hsa:6258	Gen A	2
+hsa:7186	hsa:5915	Gen A	2
+hsa:7186	hsa:898	Gen B	12
+hsa:7186	hsa:9134	Gen B	12
+hsa:7186	hsa:3655	Gen B	26
+hsa:7186	hsa:3673	Gen B	26
+hsa:7186	hsa:3674	Gen B	26
+hsa:7186	hsa:3675	Gen B	26
+hsa:7186	hsa:3685	Gen B	26
+hsa:7186	hsa:1017	Gen B	12
+hsa:7187	hsa:7188	Draw	0
+hsa:7187	hsa:7189	Draw	0
+hsa:7187	hsa:9618	Draw	0
+hsa:7187	hsa:598	Gen A	5
+hsa:7187	hsa:112401	Gen A	1
+hsa:7187	hsa:329	Gen A	1
+hsa:7187	hsa:330	Gen A	1
+hsa:7187	hsa:331	Gen A	1
+hsa:7187	hsa:79444	Gen A	1
+hsa:7187	hsa:1019	Gen B	12
+hsa:7187	hsa:1021	Gen B	12
+hsa:7187	hsa:5925	Gen B	12
+hsa:7187	hsa:1869	Gen B	12
+hsa:7187	hsa:1870	Gen B	12
+hsa:7187	hsa:1871	Gen B	12
+hsa:7187	hsa:4792	Gen B	28
+hsa:7187	hsa:1147	Gen B	31
+hsa:7187	hsa:3551	Gen B	31
+hsa:7187	hsa:8517	Gen B	31
+hsa:7187	hsa:596	Gen A	4
+hsa:7187	hsa:10319	Gen B	26
+hsa:7187	hsa:1282	Gen B	26
+hsa:7187	hsa:1284	Gen B	26
+hsa:7187	hsa:1285	Gen B	26
+hsa:7187	hsa:1286	Gen B	26
+hsa:7187	hsa:1287	Gen B	26
+hsa:7187	hsa:1288	Gen B	26
+hsa:7187	hsa:22798	Gen B	26
+hsa:7187	hsa:2335	Gen B	26
+hsa:7187	hsa:284217	Gen B	26
+hsa:7187	hsa:3908	Gen B	26
+hsa:7187	hsa:3909	Gen B	26
+hsa:7187	hsa:3910	Gen B	26
+hsa:7187	hsa:3911	Gen B	26
+hsa:7187	hsa:3912	Gen B	26
+hsa:7187	hsa:3913	Gen B	26
+hsa:7187	hsa:3914	Gen B	26
+hsa:7187	hsa:3915	Gen B	26
+hsa:7187	hsa:3918	Gen B	26
+hsa:7187	hsa:3688	Gen B	26
+hsa:7187	hsa:54205	Gen A	3
+hsa:7187	hsa:842	Gen A	4
+hsa:7187	hsa:5290	Draw	0
+hsa:7187	hsa:5291	Draw	0
+hsa:7187	hsa:5293	Draw	0
+hsa:7187	hsa:5295	Draw	0
+hsa:7187	hsa:5296	Draw	0
+hsa:7187	hsa:8503	Draw	0
+hsa:7187	hsa:5747	Gen B	26
+hsa:7187	hsa:1163	Gen B	12
+hsa:7187	hsa:1164	Gen B	12
+hsa:7187	hsa:4609	Gen B	12
+hsa:7187	hsa:7709	Gen B	12
+hsa:7187	hsa:4149	Gen B	12
+hsa:7187	hsa:317	Gen A	3
+hsa:7187	hsa:836	Gen A	5
+hsa:7187	hsa:10000	Gen B	34
+hsa:7187	hsa:207	Gen B	34
+hsa:7187	hsa:208	Gen B	34
+hsa:7187	hsa:6256	Gen A	2
+hsa:7187	hsa:6257	Gen A	2
+hsa:7187	hsa:6258	Gen A	2
+hsa:7187	hsa:5915	Gen A	2
+hsa:7187	hsa:898	Gen B	12
+hsa:7187	hsa:9134	Gen B	12
+hsa:7187	hsa:3655	Gen B	26
+hsa:7187	hsa:3673	Gen B	26
+hsa:7187	hsa:3674	Gen B	26
+hsa:7187	hsa:3675	Gen B	26
+hsa:7187	hsa:3685	Gen B	26
+hsa:7187	hsa:1017	Gen B	12
+hsa:7188	hsa:7189	Draw	0
+hsa:7188	hsa:9618	Draw	0
+hsa:7188	hsa:598	Gen A	5
+hsa:7188	hsa:112401	Gen A	1
+hsa:7188	hsa:329	Gen A	1
+hsa:7188	hsa:330	Gen A	1
+hsa:7188	hsa:331	Gen A	1
+hsa:7188	hsa:79444	Gen A	1
+hsa:7188	hsa:1019	Gen B	12
+hsa:7188	hsa:1021	Gen B	12
+hsa:7188	hsa:5925	Gen B	12
+hsa:7188	hsa:1869	Gen B	12
+hsa:7188	hsa:1870	Gen B	12
+hsa:7188	hsa:1871	Gen B	12
+hsa:7188	hsa:4792	Gen B	28
+hsa:7188	hsa:1147	Gen B	31
+hsa:7188	hsa:3551	Gen B	31
+hsa:7188	hsa:8517	Gen B	31
+hsa:7188	hsa:596	Gen A	4
+hsa:7188	hsa:10319	Gen B	26
+hsa:7188	hsa:1282	Gen B	26
+hsa:7188	hsa:1284	Gen B	26
+hsa:7188	hsa:1285	Gen B	26
+hsa:7188	hsa:1286	Gen B	26
+hsa:7188	hsa:1287	Gen B	26
+hsa:7188	hsa:1288	Gen B	26
+hsa:7188	hsa:22798	Gen B	26
+hsa:7188	hsa:2335	Gen B	26
+hsa:7188	hsa:284217	Gen B	26
+hsa:7188	hsa:3908	Gen B	26
+hsa:7188	hsa:3909	Gen B	26
+hsa:7188	hsa:3910	Gen B	26
+hsa:7188	hsa:3911	Gen B	26
+hsa:7188	hsa:3912	Gen B	26
+hsa:7188	hsa:3913	Gen B	26
+hsa:7188	hsa:3914	Gen B	26
+hsa:7188	hsa:3915	Gen B	26
+hsa:7188	hsa:3918	Gen B	26
+hsa:7188	hsa:3688	Gen B	26
+hsa:7188	hsa:54205	Gen A	3
+hsa:7188	hsa:842	Gen A	4
+hsa:7188	hsa:5290	Draw	0
+hsa:7188	hsa:5291	Draw	0
+hsa:7188	hsa:5293	Draw	0
+hsa:7188	hsa:5295	Draw	0
+hsa:7188	hsa:5296	Draw	0
+hsa:7188	hsa:8503	Draw	0
+hsa:7188	hsa:5747	Gen B	26
+hsa:7188	hsa:1163	Gen B	12
+hsa:7188	hsa:1164	Gen B	12
+hsa:7188	hsa:4609	Gen B	12
+hsa:7188	hsa:7709	Gen B	12
+hsa:7188	hsa:4149	Gen B	12
+hsa:7188	hsa:317	Gen A	3
+hsa:7188	hsa:836	Gen A	5
+hsa:7188	hsa:10000	Gen B	34
+hsa:7188	hsa:207	Gen B	34
+hsa:7188	hsa:208	Gen B	34
+hsa:7188	hsa:6256	Gen A	2
+hsa:7188	hsa:6257	Gen A	2
+hsa:7188	hsa:6258	Gen A	2
+hsa:7188	hsa:5915	Gen A	2
+hsa:7188	hsa:898	Gen B	12
+hsa:7188	hsa:9134	Gen B	12
+hsa:7188	hsa:3655	Gen B	26
+hsa:7188	hsa:3673	Gen B	26
+hsa:7188	hsa:3674	Gen B	26
+hsa:7188	hsa:3675	Gen B	26
+hsa:7188	hsa:3685	Gen B	26
+hsa:7188	hsa:1017	Gen B	12
+hsa:7189	hsa:9618	Draw	0
+hsa:7189	hsa:598	Gen A	5
+hsa:7189	hsa:112401	Gen A	1
+hsa:7189	hsa:329	Gen A	1
+hsa:7189	hsa:330	Gen A	1
+hsa:7189	hsa:331	Gen A	1
+hsa:7189	hsa:79444	Gen A	1
+hsa:7189	hsa:1019	Gen B	12
+hsa:7189	hsa:1021	Gen B	12
+hsa:7189	hsa:5925	Gen B	12
+hsa:7189	hsa:1869	Gen B	12
+hsa:7189	hsa:1870	Gen B	12
+hsa:7189	hsa:1871	Gen B	12
+hsa:7189	hsa:4792	Gen B	28
+hsa:7189	hsa:1147	Gen B	31
+hsa:7189	hsa:3551	Gen B	31
+hsa:7189	hsa:8517	Gen B	31
+hsa:7189	hsa:596	Gen A	4
+hsa:7189	hsa:10319	Gen B	26
+hsa:7189	hsa:1282	Gen B	26
+hsa:7189	hsa:1284	Gen B	26
+hsa:7189	hsa:1285	Gen B	26
+hsa:7189	hsa:1286	Gen B	26
+hsa:7189	hsa:1287	Gen B	26
+hsa:7189	hsa:1288	Gen B	26
+hsa:7189	hsa:22798	Gen B	26
+hsa:7189	hsa:2335	Gen B	26
+hsa:7189	hsa:284217	Gen B	26
+hsa:7189	hsa:3908	Gen B	26
+hsa:7189	hsa:3909	Gen B	26
+hsa:7189	hsa:3910	Gen B	26
+hsa:7189	hsa:3911	Gen B	26
+hsa:7189	hsa:3912	Gen B	26
+hsa:7189	hsa:3913	Gen B	26
+hsa:7189	hsa:3914	Gen B	26
+hsa:7189	hsa:3915	Gen B	26
+hsa:7189	hsa:3918	Gen B	26
+hsa:7189	hsa:3688	Gen B	26
+hsa:7189	hsa:54205	Gen A	3
+hsa:7189	hsa:842	Gen A	4
+hsa:7189	hsa:5290	Draw	0
+hsa:7189	hsa:5291	Draw	0
+hsa:7189	hsa:5293	Draw	0
+hsa:7189	hsa:5295	Draw	0
+hsa:7189	hsa:5296	Draw	0
+hsa:7189	hsa:8503	Draw	0
+hsa:7189	hsa:5747	Gen B	26
+hsa:7189	hsa:1163	Gen B	12
+hsa:7189	hsa:1164	Gen B	12
+hsa:7189	hsa:4609	Gen B	12
+hsa:7189	hsa:7709	Gen B	12
+hsa:7189	hsa:4149	Gen B	12
+hsa:7189	hsa:317	Gen A	3
+hsa:7189	hsa:836	Gen A	5
+hsa:7189	hsa:10000	Gen B	34
+hsa:7189	hsa:207	Gen B	34
+hsa:7189	hsa:208	Gen B	34
+hsa:7189	hsa:6256	Gen A	2
+hsa:7189	hsa:6257	Gen A	2
+hsa:7189	hsa:6258	Gen A	2
+hsa:7189	hsa:5915	Gen A	2
+hsa:7189	hsa:898	Gen B	12
+hsa:7189	hsa:9134	Gen B	12
+hsa:7189	hsa:3655	Gen B	26
+hsa:7189	hsa:3673	Gen B	26
+hsa:7189	hsa:3674	Gen B	26
+hsa:7189	hsa:3675	Gen B	26
+hsa:7189	hsa:3685	Gen B	26
+hsa:7189	hsa:1017	Gen B	12
+hsa:9618	hsa:598	Gen A	5
+hsa:9618	hsa:112401	Gen A	1
+hsa:9618	hsa:329	Gen A	1
+hsa:9618	hsa:330	Gen A	1
+hsa:9618	hsa:331	Gen A	1
+hsa:9618	hsa:79444	Gen A	1
+hsa:9618	hsa:1019	Gen B	12
+hsa:9618	hsa:1021	Gen B	12
+hsa:9618	hsa:5925	Gen B	12
+hsa:9618	hsa:1869	Gen B	12
+hsa:9618	hsa:1870	Gen B	12
+hsa:9618	hsa:1871	Gen B	12
+hsa:9618	hsa:4792	Gen B	28
+hsa:9618	hsa:1147	Gen B	31
+hsa:9618	hsa:3551	Gen B	31
+hsa:9618	hsa:8517	Gen B	31
+hsa:9618	hsa:596	Gen A	4
+hsa:9618	hsa:10319	Gen B	26
+hsa:9618	hsa:1282	Gen B	26
+hsa:9618	hsa:1284	Gen B	26
+hsa:9618	hsa:1285	Gen B	26
+hsa:9618	hsa:1286	Gen B	26
+hsa:9618	hsa:1287	Gen B	26
+hsa:9618	hsa:1288	Gen B	26
+hsa:9618	hsa:22798	Gen B	26
+hsa:9618	hsa:2335	Gen B	26
+hsa:9618	hsa:284217	Gen B	26
+hsa:9618	hsa:3908	Gen B	26
+hsa:9618	hsa:3909	Gen B	26
+hsa:9618	hsa:3910	Gen B	26
+hsa:9618	hsa:3911	Gen B	26
+hsa:9618	hsa:3912	Gen B	26
+hsa:9618	hsa:3913	Gen B	26
+hsa:9618	hsa:3914	Gen B	26
+hsa:9618	hsa:3915	Gen B	26
+hsa:9618	hsa:3918	Gen B	26
+hsa:9618	hsa:3688	Gen B	26
+hsa:9618	hsa:54205	Gen A	3
+hsa:9618	hsa:842	Gen A	4
+hsa:9618	hsa:5290	Draw	0
+hsa:9618	hsa:5291	Draw	0
+hsa:9618	hsa:5293	Draw	0
+hsa:9618	hsa:5295	Draw	0
+hsa:9618	hsa:5296	Draw	0
+hsa:9618	hsa:8503	Draw	0
+hsa:9618	hsa:5747	Gen B	26
+hsa:9618	hsa:1163	Gen B	12
+hsa:9618	hsa:1164	Gen B	12
+hsa:9618	hsa:4609	Gen B	12
+hsa:9618	hsa:7709	Gen B	12
+hsa:9618	hsa:4149	Gen B	12
+hsa:9618	hsa:317	Gen A	3
+hsa:9618	hsa:836	Gen A	5
+hsa:9618	hsa:10000	Gen B	34
+hsa:9618	hsa:207	Gen B	34
+hsa:9618	hsa:208	Gen B	34
+hsa:9618	hsa:6256	Gen A	2
+hsa:9618	hsa:6257	Gen A	2
+hsa:9618	hsa:6258	Gen A	2
+hsa:9618	hsa:5915	Gen A	2
+hsa:9618	hsa:898	Gen B	12
+hsa:9618	hsa:9134	Gen B	12
+hsa:9618	hsa:3655	Gen B	26
+hsa:9618	hsa:3673	Gen B	26
+hsa:9618	hsa:3674	Gen B	26
+hsa:9618	hsa:3675	Gen B	26
+hsa:9618	hsa:3685	Gen B	26
+hsa:9618	hsa:1017	Gen B	12
+hsa:598	hsa:112401	Gen B	4
+hsa:598	hsa:329	Gen B	4
+hsa:598	hsa:330	Gen B	4
+hsa:598	hsa:331	Gen B	4
+hsa:598	hsa:79444	Gen B	4
+hsa:598	hsa:1019	Gen B	17
+hsa:598	hsa:1021	Gen B	17
+hsa:598	hsa:5925	Gen B	17
+hsa:598	hsa:1869	Gen B	17
+hsa:598	hsa:1870	Gen B	17
+hsa:598	hsa:1871	Gen B	17
+hsa:598	hsa:4792	Gen B	33
+hsa:598	hsa:1147	Gen B	36
+hsa:598	hsa:3551	Gen B	36
+hsa:598	hsa:8517	Gen B	36
+hsa:598	hsa:596	Gen B	1
+hsa:598	hsa:10319	Gen B	31
+hsa:598	hsa:1282	Gen B	31
+hsa:598	hsa:1284	Gen B	31
+hsa:598	hsa:1285	Gen B	31
+hsa:598	hsa:1286	Gen B	31
+hsa:598	hsa:1287	Gen B	31
+hsa:598	hsa:1288	Gen B	31
+hsa:598	hsa:22798	Gen B	31
+hsa:598	hsa:2335	Gen B	31
+hsa:598	hsa:284217	Gen B	31
+hsa:598	hsa:3908	Gen B	31
+hsa:598	hsa:3909	Gen B	31
+hsa:598	hsa:3910	Gen B	31
+hsa:598	hsa:3911	Gen B	31
+hsa:598	hsa:3912	Gen B	31
+hsa:598	hsa:3913	Gen B	31
+hsa:598	hsa:3914	Gen B	31
+hsa:598	hsa:3915	Gen B	31
+hsa:598	hsa:3918	Gen B	31
+hsa:598	hsa:3688	Gen B	31
+hsa:598	hsa:54205	Gen B	2
+hsa:598	hsa:842	Gen B	1
+hsa:598	hsa:5290	Gen B	5
+hsa:598	hsa:5291	Gen B	5
+hsa:598	hsa:5293	Gen B	5
+hsa:598	hsa:5295	Gen B	5
+hsa:598	hsa:5296	Gen B	5
+hsa:598	hsa:8503	Gen B	5
+hsa:598	hsa:5747	Gen B	31
+hsa:598	hsa:1163	Gen B	17
+hsa:598	hsa:1164	Gen B	17
+hsa:598	hsa:4609	Gen B	17
+hsa:598	hsa:7709	Gen B	17
+hsa:598	hsa:4149	Gen B	17
+hsa:598	hsa:317	Gen B	2
+hsa:598	hsa:836	Draw	0
+hsa:598	hsa:10000	Gen B	39
+hsa:598	hsa:207	Gen B	39
+hsa:598	hsa:208	Gen B	39
+hsa:598	hsa:6256	Gen B	3
+hsa:598	hsa:6257	Gen B	3
+hsa:598	hsa:6258	Gen B	3
+hsa:598	hsa:5915	Gen B	3
+hsa:598	hsa:898	Gen B	17
+hsa:598	hsa:9134	Gen B	17
+hsa:598	hsa:3655	Gen B	31
+hsa:598	hsa:3673	Gen B	31
+hsa:598	hsa:3674	Gen B	31
+hsa:598	hsa:3675	Gen B	31
+hsa:598	hsa:3685	Gen B	31
+hsa:598	hsa:1017	Gen B	17
+hsa:112401	hsa:329	Draw	0
+hsa:112401	hsa:330	Draw	0
+hsa:112401	hsa:331	Draw	0
+hsa:112401	hsa:79444	Draw	0
+hsa:112401	hsa:1019	Gen B	13
+hsa:112401	hsa:1021	Gen B	13
+hsa:112401	hsa:5925	Gen B	13
+hsa:112401	hsa:1869	Gen B	13
+hsa:112401	hsa:1870	Gen B	13
+hsa:112401	hsa:1871	Gen B	13
+hsa:112401	hsa:4792	Gen B	29
+hsa:112401	hsa:1147	Gen B	32
+hsa:112401	hsa:3551	Gen B	32
+hsa:112401	hsa:8517	Gen B	32
+hsa:112401	hsa:596	Gen A	3
+hsa:112401	hsa:10319	Gen B	27
+hsa:112401	hsa:1282	Gen B	27
+hsa:112401	hsa:1284	Gen B	27
+hsa:112401	hsa:1285	Gen B	27
+hsa:112401	hsa:1286	Gen B	27
+hsa:112401	hsa:1287	Gen B	27
+hsa:112401	hsa:1288	Gen B	27
+hsa:112401	hsa:22798	Gen B	27
+hsa:112401	hsa:2335	Gen B	27
+hsa:112401	hsa:284217	Gen B	27
+hsa:112401	hsa:3908	Gen B	27
+hsa:112401	hsa:3909	Gen B	27
+hsa:112401	hsa:3910	Gen B	27
+hsa:112401	hsa:3911	Gen B	27
+hsa:112401	hsa:3912	Gen B	27
+hsa:112401	hsa:3913	Gen B	27
+hsa:112401	hsa:3914	Gen B	27
+hsa:112401	hsa:3915	Gen B	27
+hsa:112401	hsa:3918	Gen B	27
+hsa:112401	hsa:3688	Gen B	27
+hsa:112401	hsa:54205	Gen A	2
+hsa:112401	hsa:842	Gen A	3
+hsa:112401	hsa:5290	Gen B	1
+hsa:112401	hsa:5291	Gen B	1
+hsa:112401	hsa:5293	Gen B	1
+hsa:112401	hsa:5295	Gen B	1
+hsa:112401	hsa:5296	Gen B	1
+hsa:112401	hsa:8503	Gen B	1
+hsa:112401	hsa:5747	Gen B	27
+hsa:112401	hsa:1163	Gen B	13
+hsa:112401	hsa:1164	Gen B	13
+hsa:112401	hsa:4609	Gen B	13
+hsa:112401	hsa:7709	Gen B	13
+hsa:112401	hsa:4149	Gen B	13
+hsa:112401	hsa:317	Gen A	2
+hsa:112401	hsa:836	Gen A	4
+hsa:112401	hsa:10000	Gen B	35
+hsa:112401	hsa:207	Gen B	35
+hsa:112401	hsa:208	Gen B	35
+hsa:112401	hsa:6256	Gen A	1
+hsa:112401	hsa:6257	Gen A	1
+hsa:112401	hsa:6258	Gen A	1
+hsa:112401	hsa:5915	Gen A	1
+hsa:112401	hsa:898	Gen B	13
+hsa:112401	hsa:9134	Gen B	13
+hsa:112401	hsa:3655	Gen B	27
+hsa:112401	hsa:3673	Gen B	27
+hsa:112401	hsa:3674	Gen B	27
+hsa:112401	hsa:3675	Gen B	27
+hsa:112401	hsa:3685	Gen B	27
+hsa:112401	hsa:1017	Gen B	13
+hsa:329	hsa:330	Draw	0
+hsa:329	hsa:331	Draw	0
+hsa:329	hsa:79444	Draw	0
+hsa:329	hsa:1019	Gen B	13
+hsa:329	hsa:1021	Gen B	13
+hsa:329	hsa:5925	Gen B	13
+hsa:329	hsa:1869	Gen B	13
+hsa:329	hsa:1870	Gen B	13
+hsa:329	hsa:1871	Gen B	13
+hsa:329	hsa:4792	Gen B	29
+hsa:329	hsa:1147	Gen B	32
+hsa:329	hsa:3551	Gen B	32
+hsa:329	hsa:8517	Gen B	32
+hsa:329	hsa:596	Gen A	3
+hsa:329	hsa:10319	Gen B	27
+hsa:329	hsa:1282	Gen B	27
+hsa:329	hsa:1284	Gen B	27
+hsa:329	hsa:1285	Gen B	27
+hsa:329	hsa:1286	Gen B	27
+hsa:329	hsa:1287	Gen B	27
+hsa:329	hsa:1288	Gen B	27
+hsa:329	hsa:22798	Gen B	27
+hsa:329	hsa:2335	Gen B	27
+hsa:329	hsa:284217	Gen B	27
+hsa:329	hsa:3908	Gen B	27
+hsa:329	hsa:3909	Gen B	27
+hsa:329	hsa:3910	Gen B	27
+hsa:329	hsa:3911	Gen B	27
+hsa:329	hsa:3912	Gen B	27
+hsa:329	hsa:3913	Gen B	27
+hsa:329	hsa:3914	Gen B	27
+hsa:329	hsa:3915	Gen B	27
+hsa:329	hsa:3918	Gen B	27
+hsa:329	hsa:3688	Gen B	27
+hsa:329	hsa:54205	Gen A	2
+hsa:329	hsa:842	Gen A	3
+hsa:329	hsa:5290	Gen B	1
+hsa:329	hsa:5291	Gen B	1
+hsa:329	hsa:5293	Gen B	1
+hsa:329	hsa:5295	Gen B	1
+hsa:329	hsa:5296	Gen B	1
+hsa:329	hsa:8503	Gen B	1
+hsa:329	hsa:5747	Gen B	27
+hsa:329	hsa:1163	Gen B	13
+hsa:329	hsa:1164	Gen B	13
+hsa:329	hsa:4609	Gen B	13
+hsa:329	hsa:7709	Gen B	13
+hsa:329	hsa:4149	Gen B	13
+hsa:329	hsa:317	Gen A	2
+hsa:329	hsa:836	Gen A	4
+hsa:329	hsa:10000	Gen B	35
+hsa:329	hsa:207	Gen B	35
+hsa:329	hsa:208	Gen B	35
+hsa:329	hsa:6256	Gen A	1
+hsa:329	hsa:6257	Gen A	1
+hsa:329	hsa:6258	Gen A	1
+hsa:329	hsa:5915	Gen A	1
+hsa:329	hsa:898	Gen B	13
+hsa:329	hsa:9134	Gen B	13
+hsa:329	hsa:3655	Gen B	27
+hsa:329	hsa:3673	Gen B	27
+hsa:329	hsa:3674	Gen B	27
+hsa:329	hsa:3675	Gen B	27
+hsa:329	hsa:3685	Gen B	27
+hsa:329	hsa:1017	Gen B	13
+hsa:330	hsa:331	Draw	0
+hsa:330	hsa:79444	Draw	0
+hsa:330	hsa:1019	Gen B	13
+hsa:330	hsa:1021	Gen B	13
+hsa:330	hsa:5925	Gen B	13
+hsa:330	hsa:1869	Gen B	13
+hsa:330	hsa:1870	Gen B	13
+hsa:330	hsa:1871	Gen B	13
+hsa:330	hsa:4792	Gen B	29
+hsa:330	hsa:1147	Gen B	32
+hsa:330	hsa:3551	Gen B	32
+hsa:330	hsa:8517	Gen B	32
+hsa:330	hsa:596	Gen A	3
+hsa:330	hsa:10319	Gen B	27
+hsa:330	hsa:1282	Gen B	27
+hsa:330	hsa:1284	Gen B	27
+hsa:330	hsa:1285	Gen B	27
+hsa:330	hsa:1286	Gen B	27
+hsa:330	hsa:1287	Gen B	27
+hsa:330	hsa:1288	Gen B	27
+hsa:330	hsa:22798	Gen B	27
+hsa:330	hsa:2335	Gen B	27
+hsa:330	hsa:284217	Gen B	27
+hsa:330	hsa:3908	Gen B	27
+hsa:330	hsa:3909	Gen B	27
+hsa:330	hsa:3910	Gen B	27
+hsa:330	hsa:3911	Gen B	27
+hsa:330	hsa:3912	Gen B	27
+hsa:330	hsa:3913	Gen B	27
+hsa:330	hsa:3914	Gen B	27
+hsa:330	hsa:3915	Gen B	27
+hsa:330	hsa:3918	Gen B	27
+hsa:330	hsa:3688	Gen B	27
+hsa:330	hsa:54205	Gen A	2
+hsa:330	hsa:842	Gen A	3
+hsa:330	hsa:5290	Gen B	1
+hsa:330	hsa:5291	Gen B	1
+hsa:330	hsa:5293	Gen B	1
+hsa:330	hsa:5295	Gen B	1
+hsa:330	hsa:5296	Gen B	1
+hsa:330	hsa:8503	Gen B	1
+hsa:330	hsa:5747	Gen B	27
+hsa:330	hsa:1163	Gen B	13
+hsa:330	hsa:1164	Gen B	13
+hsa:330	hsa:4609	Gen B	13
+hsa:330	hsa:7709	Gen B	13
+hsa:330	hsa:4149	Gen B	13
+hsa:330	hsa:317	Gen A	2
+hsa:330	hsa:836	Gen A	4
+hsa:330	hsa:10000	Gen B	35
+hsa:330	hsa:207	Gen B	35
+hsa:330	hsa:208	Gen B	35
+hsa:330	hsa:6256	Gen A	1
+hsa:330	hsa:6257	Gen A	1
+hsa:330	hsa:6258	Gen A	1
+hsa:330	hsa:5915	Gen A	1
+hsa:330	hsa:898	Gen B	13
+hsa:330	hsa:9134	Gen B	13
+hsa:330	hsa:3655	Gen B	27
+hsa:330	hsa:3673	Gen B	27
+hsa:330	hsa:3674	Gen B	27
+hsa:330	hsa:3675	Gen B	27
+hsa:330	hsa:3685	Gen B	27
+hsa:330	hsa:1017	Gen B	13
+hsa:331	hsa:79444	Draw	0
+hsa:331	hsa:1019	Gen B	13
+hsa:331	hsa:1021	Gen B	13
+hsa:331	hsa:5925	Gen B	13
+hsa:331	hsa:1869	Gen B	13
+hsa:331	hsa:1870	Gen B	13
+hsa:331	hsa:1871	Gen B	13
+hsa:331	hsa:4792	Gen B	29
+hsa:331	hsa:1147	Gen B	32
+hsa:331	hsa:3551	Gen B	32
+hsa:331	hsa:8517	Gen B	32
+hsa:331	hsa:596	Gen A	3
+hsa:331	hsa:10319	Gen B	27
+hsa:331	hsa:1282	Gen B	27
+hsa:331	hsa:1284	Gen B	27
+hsa:331	hsa:1285	Gen B	27
+hsa:331	hsa:1286	Gen B	27
+hsa:331	hsa:1287	Gen B	27
+hsa:331	hsa:1288	Gen B	27
+hsa:331	hsa:22798	Gen B	27
+hsa:331	hsa:2335	Gen B	27
+hsa:331	hsa:284217	Gen B	27
+hsa:331	hsa:3908	Gen B	27
+hsa:331	hsa:3909	Gen B	27
+hsa:331	hsa:3910	Gen B	27
+hsa:331	hsa:3911	Gen B	27
+hsa:331	hsa:3912	Gen B	27
+hsa:331	hsa:3913	Gen B	27
+hsa:331	hsa:3914	Gen B	27
+hsa:331	hsa:3915	Gen B	27
+hsa:331	hsa:3918	Gen B	27
+hsa:331	hsa:3688	Gen B	27
+hsa:331	hsa:54205	Gen A	2
+hsa:331	hsa:842	Gen A	3
+hsa:331	hsa:5290	Gen B	1
+hsa:331	hsa:5291	Gen B	1
+hsa:331	hsa:5293	Gen B	1
+hsa:331	hsa:5295	Gen B	1
+hsa:331	hsa:5296	Gen B	1
+hsa:331	hsa:8503	Gen B	1
+hsa:331	hsa:5747	Gen B	27
+hsa:331	hsa:1163	Gen B	13
+hsa:331	hsa:1164	Gen B	13
+hsa:331	hsa:4609	Gen B	13
+hsa:331	hsa:7709	Gen B	13
+hsa:331	hsa:4149	Gen B	13
+hsa:331	hsa:317	Gen A	2
+hsa:331	hsa:836	Gen A	4
+hsa:331	hsa:10000	Gen B	35
+hsa:331	hsa:207	Gen B	35
+hsa:331	hsa:208	Gen B	35
+hsa:331	hsa:6256	Gen A	1
+hsa:331	hsa:6257	Gen A	1
+hsa:331	hsa:6258	Gen A	1
+hsa:331	hsa:5915	Gen A	1
+hsa:331	hsa:898	Gen B	13
+hsa:331	hsa:9134	Gen B	13
+hsa:331	hsa:3655	Gen B	27
+hsa:331	hsa:3673	Gen B	27
+hsa:331	hsa:3674	Gen B	27
+hsa:331	hsa:3675	Gen B	27
+hsa:331	hsa:3685	Gen B	27
+hsa:331	hsa:1017	Gen B	13
+hsa:79444	hsa:1019	Gen B	13
+hsa:79444	hsa:1021	Gen B	13
+hsa:79444	hsa:5925	Gen B	13
+hsa:79444	hsa:1869	Gen B	13
+hsa:79444	hsa:1870	Gen B	13
+hsa:79444	hsa:1871	Gen B	13
+hsa:79444	hsa:4792	Gen B	29
+hsa:79444	hsa:1147	Gen B	32
+hsa:79444	hsa:3551	Gen B	32
+hsa:79444	hsa:8517	Gen B	32
+hsa:79444	hsa:596	Gen A	3
+hsa:79444	hsa:10319	Gen B	27
+hsa:79444	hsa:1282	Gen B	27
+hsa:79444	hsa:1284	Gen B	27
+hsa:79444	hsa:1285	Gen B	27
+hsa:79444	hsa:1286	Gen B	27
+hsa:79444	hsa:1287	Gen B	27
+hsa:79444	hsa:1288	Gen B	27
+hsa:79444	hsa:22798	Gen B	27
+hsa:79444	hsa:2335	Gen B	27
+hsa:79444	hsa:284217	Gen B	27
+hsa:79444	hsa:3908	Gen B	27
+hsa:79444	hsa:3909	Gen B	27
+hsa:79444	hsa:3910	Gen B	27
+hsa:79444	hsa:3911	Gen B	27
+hsa:79444	hsa:3912	Gen B	27
+hsa:79444	hsa:3913	Gen B	27
+hsa:79444	hsa:3914	Gen B	27
+hsa:79444	hsa:3915	Gen B	27
+hsa:79444	hsa:3918	Gen B	27
+hsa:79444	hsa:3688	Gen B	27
+hsa:79444	hsa:54205	Gen A	2
+hsa:79444	hsa:842	Gen A	3
+hsa:79444	hsa:5290	Gen B	1
+hsa:79444	hsa:5291	Gen B	1
+hsa:79444	hsa:5293	Gen B	1
+hsa:79444	hsa:5295	Gen B	1
+hsa:79444	hsa:5296	Gen B	1
+hsa:79444	hsa:8503	Gen B	1
+hsa:79444	hsa:5747	Gen B	27
+hsa:79444	hsa:1163	Gen B	13
+hsa:79444	hsa:1164	Gen B	13
+hsa:79444	hsa:4609	Gen B	13
+hsa:79444	hsa:7709	Gen B	13
+hsa:79444	hsa:4149	Gen B	13
+hsa:79444	hsa:317	Gen A	2
+hsa:79444	hsa:836	Gen A	4
+hsa:79444	hsa:10000	Gen B	35
+hsa:79444	hsa:207	Gen B	35
+hsa:79444	hsa:208	Gen B	35
+hsa:79444	hsa:6256	Gen A	1
+hsa:79444	hsa:6257	Gen A	1
+hsa:79444	hsa:6258	Gen A	1
+hsa:79444	hsa:5915	Gen A	1
+hsa:79444	hsa:898	Gen B	13
+hsa:79444	hsa:9134	Gen B	13
+hsa:79444	hsa:3655	Gen B	27
+hsa:79444	hsa:3673	Gen B	27
+hsa:79444	hsa:3674	Gen B	27
+hsa:79444	hsa:3675	Gen B	27
+hsa:79444	hsa:3685	Gen B	27
+hsa:79444	hsa:1017	Gen B	13
+hsa:1019	hsa:1021	Draw	0
+hsa:1019	hsa:5925	Gen B	3
+hsa:1019	hsa:1869	Draw	0
+hsa:1019	hsa:1870	Draw	0
+hsa:1019	hsa:1871	Draw	0
+hsa:1019	hsa:4792	Gen B	16
+hsa:1019	hsa:1147	Gen B	19
+hsa:1019	hsa:3551	Gen B	19
+hsa:1019	hsa:8517	Gen B	19
+hsa:1019	hsa:596	Gen A	16
+hsa:1019	hsa:10319	Gen B	14
+hsa:1019	hsa:1282	Gen B	14
+hsa:1019	hsa:1284	Gen B	14
+hsa:1019	hsa:1285	Gen B	14
+hsa:1019	hsa:1286	Gen B	14
+hsa:1019	hsa:1287	Gen B	14
+hsa:1019	hsa:1288	Gen B	14
+hsa:1019	hsa:22798	Gen B	14
+hsa:1019	hsa:2335	Gen B	14
+hsa:1019	hsa:284217	Gen B	14
+hsa:1019	hsa:3908	Gen B	14
+hsa:1019	hsa:3909	Gen B	14
+hsa:1019	hsa:3910	Gen B	14
+hsa:1019	hsa:3911	Gen B	14
+hsa:1019	hsa:3912	Gen B	14
+hsa:1019	hsa:3913	Gen B	14
+hsa:1019	hsa:3914	Gen B	14
+hsa:1019	hsa:3915	Gen B	14
+hsa:1019	hsa:3918	Gen B	14
+hsa:1019	hsa:3688	Gen B	14
+hsa:1019	hsa:54205	Gen A	15
+hsa:1019	hsa:842	Gen A	16
+hsa:1019	hsa:5290	Gen A	12
+hsa:1019	hsa:5291	Gen A	12
+hsa:1019	hsa:5293	Gen A	12
+hsa:1019	hsa:5295	Gen A	12
+hsa:1019	hsa:5296	Gen A	12
+hsa:1019	hsa:8503	Gen A	12
+hsa:1019	hsa:5747	Gen B	14
+hsa:1019	hsa:1163	Draw	0
+hsa:1019	hsa:1164	Draw	0
+hsa:1019	hsa:4609	Gen B	5
+hsa:1019	hsa:7709	Draw	0
+hsa:1019	hsa:4149	Draw	0
+hsa:1019	hsa:317	Gen A	15
+hsa:1019	hsa:836	Gen A	17
+hsa:1019	hsa:10000	Gen B	22
+hsa:1019	hsa:207	Gen B	22
+hsa:1019	hsa:208	Gen B	22
+hsa:1019	hsa:6256	Gen A	14
+hsa:1019	hsa:6257	Gen A	14
+hsa:1019	hsa:6258	Gen A	14
+hsa:1019	hsa:5915	Gen A	14
+hsa:1019	hsa:898	Draw	0
+hsa:1019	hsa:9134	Draw	0
+hsa:1019	hsa:3655	Gen B	14
+hsa:1019	hsa:3673	Gen B	14
+hsa:1019	hsa:3674	Gen B	14
+hsa:1019	hsa:3675	Gen B	14
+hsa:1019	hsa:3685	Gen B	14
+hsa:1019	hsa:1017	Draw	0
+hsa:1021	hsa:5925	Gen B	3
+hsa:1021	hsa:1869	Draw	0
+hsa:1021	hsa:1870	Draw	0
+hsa:1021	hsa:1871	Draw	0
+hsa:1021	hsa:4792	Gen B	16
+hsa:1021	hsa:1147	Gen B	19
+hsa:1021	hsa:3551	Gen B	19
+hsa:1021	hsa:8517	Gen B	19
+hsa:1021	hsa:596	Gen A	16
+hsa:1021	hsa:10319	Gen B	14
+hsa:1021	hsa:1282	Gen B	14
+hsa:1021	hsa:1284	Gen B	14
+hsa:1021	hsa:1285	Gen B	14
+hsa:1021	hsa:1286	Gen B	14
+hsa:1021	hsa:1287	Gen B	14
+hsa:1021	hsa:1288	Gen B	14
+hsa:1021	hsa:22798	Gen B	14
+hsa:1021	hsa:2335	Gen B	14
+hsa:1021	hsa:284217	Gen B	14
+hsa:1021	hsa:3908	Gen B	14
+hsa:1021	hsa:3909	Gen B	14
+hsa:1021	hsa:3910	Gen B	14
+hsa:1021	hsa:3911	Gen B	14
+hsa:1021	hsa:3912	Gen B	14
+hsa:1021	hsa:3913	Gen B	14
+hsa:1021	hsa:3914	Gen B	14
+hsa:1021	hsa:3915	Gen B	14
+hsa:1021	hsa:3918	Gen B	14
+hsa:1021	hsa:3688	Gen B	14
+hsa:1021	hsa:54205	Gen A	15
+hsa:1021	hsa:842	Gen A	16
+hsa:1021	hsa:5290	Gen A	12
+hsa:1021	hsa:5291	Gen A	12
+hsa:1021	hsa:5293	Gen A	12
+hsa:1021	hsa:5295	Gen A	12
+hsa:1021	hsa:5296	Gen A	12
+hsa:1021	hsa:8503	Gen A	12
+hsa:1021	hsa:5747	Gen B	14
+hsa:1021	hsa:1163	Draw	0
+hsa:1021	hsa:1164	Draw	0
+hsa:1021	hsa:4609	Gen B	5
+hsa:1021	hsa:7709	Draw	0
+hsa:1021	hsa:4149	Draw	0
+hsa:1021	hsa:317	Gen A	15
+hsa:1021	hsa:836	Gen A	17
+hsa:1021	hsa:10000	Gen B	22
+hsa:1021	hsa:207	Gen B	22
+hsa:1021	hsa:208	Gen B	22
+hsa:1021	hsa:6256	Gen A	14
+hsa:1021	hsa:6257	Gen A	14
+hsa:1021	hsa:6258	Gen A	14
+hsa:1021	hsa:5915	Gen A	14
+hsa:1021	hsa:898	Draw	0
+hsa:1021	hsa:9134	Draw	0
+hsa:1021	hsa:3655	Gen B	14
+hsa:1021	hsa:3673	Gen B	14
+hsa:1021	hsa:3674	Gen B	14
+hsa:1021	hsa:3675	Gen B	14
+hsa:1021	hsa:3685	Gen B	14
+hsa:1021	hsa:1017	Draw	0
+hsa:5925	hsa:1869	Gen A	14
+hsa:5925	hsa:1870	Gen A	14
+hsa:5925	hsa:1871	Gen A	14
+hsa:5925	hsa:4792	Gen B	13
+hsa:5925	hsa:1147	Gen B	16
+hsa:5925	hsa:3551	Gen B	16
+hsa:5925	hsa:8517	Gen B	16
+hsa:5925	hsa:596	Gen A	16
+hsa:5925	hsa:10319	Gen B	14
+hsa:5925	hsa:1282	Gen B	14
+hsa:5925	hsa:1284	Gen B	14
+hsa:5925	hsa:1285	Gen B	14
+hsa:5925	hsa:1286	Gen B	14
+hsa:5925	hsa:1287	Gen B	14
+hsa:5925	hsa:1288	Gen B	14
+hsa:5925	hsa:22798	Gen B	14
+hsa:5925	hsa:2335	Gen B	14
+hsa:5925	hsa:284217	Gen B	14
+hsa:5925	hsa:3908	Gen B	14
+hsa:5925	hsa:3909	Gen B	14
+hsa:5925	hsa:3910	Gen B	14
+hsa:5925	hsa:3911	Gen B	14
+hsa:5925	hsa:3912	Gen B	14
+hsa:5925	hsa:3913	Gen B	14
+hsa:5925	hsa:3914	Gen B	14
+hsa:5925	hsa:3915	Gen B	14
+hsa:5925	hsa:3918	Gen B	14
+hsa:5925	hsa:3688	Gen B	14
+hsa:5925	hsa:54205	Gen A	15
+hsa:5925	hsa:842	Gen A	16
+hsa:5925	hsa:5290	Gen A	12
+hsa:5925	hsa:5291	Gen A	12
+hsa:5925	hsa:5293	Gen A	12
+hsa:5925	hsa:5295	Gen A	12
+hsa:5925	hsa:5296	Gen A	12
+hsa:5925	hsa:8503	Gen A	12
+hsa:5925	hsa:5747	Gen B	14
+hsa:5925	hsa:1163	Gen A	3
+hsa:5925	hsa:1164	Gen A	3
+hsa:5925	hsa:4609	Gen B	2
+hsa:5925	hsa:7709	Gen A	3
+hsa:5925	hsa:4149	Gen A	3
+hsa:5925	hsa:317	Gen A	15
+hsa:5925	hsa:836	Gen A	17
+hsa:5925	hsa:10000	Gen B	19
+hsa:5925	hsa:207	Gen B	19
+hsa:5925	hsa:208	Gen B	19
+hsa:5925	hsa:6256	Gen A	14
+hsa:5925	hsa:6257	Gen A	14
+hsa:5925	hsa:6258	Gen A	14
+hsa:5925	hsa:5915	Gen A	14
+hsa:5925	hsa:898	Gen A	13
+hsa:5925	hsa:9134	Gen A	13
+hsa:5925	hsa:3655	Gen B	14
+hsa:5925	hsa:3673	Gen B	14
+hsa:5925	hsa:3674	Gen B	14
+hsa:5925	hsa:3675	Gen B	14
+hsa:5925	hsa:3685	Gen B	14
+hsa:5925	hsa:1017	Gen A	13
+hsa:1869	hsa:1870	Draw	0
+hsa:1869	hsa:1871	Draw	0
+hsa:1869	hsa:4792	Gen B	16
+hsa:1869	hsa:1147	Gen B	19
+hsa:1869	hsa:3551	Gen B	19
+hsa:1869	hsa:8517	Gen B	19
+hsa:1869	hsa:596	Gen A	16
+hsa:1869	hsa:10319	Gen B	14
+hsa:1869	hsa:1282	Gen B	14
+hsa:1869	hsa:1284	Gen B	14
+hsa:1869	hsa:1285	Gen B	14
+hsa:1869	hsa:1286	Gen B	14
+hsa:1869	hsa:1287	Gen B	14
+hsa:1869	hsa:1288	Gen B	14
+hsa:1869	hsa:22798	Gen B	14
+hsa:1869	hsa:2335	Gen B	14
+hsa:1869	hsa:284217	Gen B	14
+hsa:1869	hsa:3908	Gen B	14
+hsa:1869	hsa:3909	Gen B	14
+hsa:1869	hsa:3910	Gen B	14
+hsa:1869	hsa:3911	Gen B	14
+hsa:1869	hsa:3912	Gen B	14
+hsa:1869	hsa:3913	Gen B	14
+hsa:1869	hsa:3914	Gen B	14
+hsa:1869	hsa:3915	Gen B	14
+hsa:1869	hsa:3918	Gen B	14
+hsa:1869	hsa:3688	Gen B	14
+hsa:1869	hsa:54205	Gen A	15
+hsa:1869	hsa:842	Gen A	16
+hsa:1869	hsa:5290	Gen A	12
+hsa:1869	hsa:5291	Gen A	12
+hsa:1869	hsa:5293	Gen A	12
+hsa:1869	hsa:5295	Gen A	12
+hsa:1869	hsa:5296	Gen A	12
+hsa:1869	hsa:8503	Gen A	12
+hsa:1869	hsa:5747	Gen B	14
+hsa:1869	hsa:1163	Draw	0
+hsa:1869	hsa:1164	Draw	0
+hsa:1869	hsa:4609	Gen B	5
+hsa:1869	hsa:7709	Draw	0
+hsa:1869	hsa:4149	Draw	0
+hsa:1869	hsa:317	Gen A	15
+hsa:1869	hsa:836	Gen A	17
+hsa:1869	hsa:10000	Gen B	22
+hsa:1869	hsa:207	Gen B	22
+hsa:1869	hsa:208	Gen B	22
+hsa:1869	hsa:6256	Gen A	14
+hsa:1869	hsa:6257	Gen A	14
+hsa:1869	hsa:6258	Gen A	14
+hsa:1869	hsa:5915	Gen A	14
+hsa:1869	hsa:898	Draw	0
+hsa:1869	hsa:9134	Draw	0
+hsa:1869	hsa:3655	Gen B	14
+hsa:1869	hsa:3673	Gen B	14
+hsa:1869	hsa:3674	Gen B	14
+hsa:1869	hsa:3675	Gen B	14
+hsa:1869	hsa:3685	Gen B	14
+hsa:1869	hsa:1017	Draw	0
+hsa:1870	hsa:1871	Draw	0
+hsa:1870	hsa:4792	Gen B	16
+hsa:1870	hsa:1147	Gen B	19
+hsa:1870	hsa:3551	Gen B	19
+hsa:1870	hsa:8517	Gen B	19
+hsa:1870	hsa:596	Gen A	16
+hsa:1870	hsa:10319	Gen B	14
+hsa:1870	hsa:1282	Gen B	14
+hsa:1870	hsa:1284	Gen B	14
+hsa:1870	hsa:1285	Gen B	14
+hsa:1870	hsa:1286	Gen B	14
+hsa:1870	hsa:1287	Gen B	14
+hsa:1870	hsa:1288	Gen B	14
+hsa:1870	hsa:22798	Gen B	14
+hsa:1870	hsa:2335	Gen B	14
+hsa:1870	hsa:284217	Gen B	14
+hsa:1870	hsa:3908	Gen B	14
+hsa:1870	hsa:3909	Gen B	14
+hsa:1870	hsa:3910	Gen B	14
+hsa:1870	hsa:3911	Gen B	14
+hsa:1870	hsa:3912	Gen B	14
+hsa:1870	hsa:3913	Gen B	14
+hsa:1870	hsa:3914	Gen B	14
+hsa:1870	hsa:3915	Gen B	14
+hsa:1870	hsa:3918	Gen B	14
+hsa:1870	hsa:3688	Gen B	14
+hsa:1870	hsa:54205	Gen A	15
+hsa:1870	hsa:842	Gen A	16
+hsa:1870	hsa:5290	Gen A	12
+hsa:1870	hsa:5291	Gen A	12
+hsa:1870	hsa:5293	Gen A	12
+hsa:1870	hsa:5295	Gen A	12
+hsa:1870	hsa:5296	Gen A	12
+hsa:1870	hsa:8503	Gen A	12
+hsa:1870	hsa:5747	Gen B	14
+hsa:1870	hsa:1163	Draw	0
+hsa:1870	hsa:1164	Draw	0
+hsa:1870	hsa:4609	Gen B	5
+hsa:1870	hsa:7709	Draw	0
+hsa:1870	hsa:4149	Draw	0
+hsa:1870	hsa:317	Gen A	15
+hsa:1870	hsa:836	Gen A	17
+hsa:1870	hsa:10000	Gen B	22
+hsa:1870	hsa:207	Gen B	22
+hsa:1870	hsa:208	Gen B	22
+hsa:1870	hsa:6256	Gen A	14
+hsa:1870	hsa:6257	Gen A	14
+hsa:1870	hsa:6258	Gen A	14
+hsa:1870	hsa:5915	Gen A	14
+hsa:1870	hsa:898	Draw	0
+hsa:1870	hsa:9134	Draw	0
+hsa:1870	hsa:3655	Gen B	14
+hsa:1870	hsa:3673	Gen B	14
+hsa:1870	hsa:3674	Gen B	14
+hsa:1870	hsa:3675	Gen B	14
+hsa:1870	hsa:3685	Gen B	14
+hsa:1870	hsa:1017	Draw	0
+hsa:1871	hsa:4792	Gen B	16
+hsa:1871	hsa:1147	Gen B	19
+hsa:1871	hsa:3551	Gen B	19
+hsa:1871	hsa:8517	Gen B	19
+hsa:1871	hsa:596	Gen A	16
+hsa:1871	hsa:10319	Gen B	14
+hsa:1871	hsa:1282	Gen B	14
+hsa:1871	hsa:1284	Gen B	14
+hsa:1871	hsa:1285	Gen B	14
+hsa:1871	hsa:1286	Gen B	14
+hsa:1871	hsa:1287	Gen B	14
+hsa:1871	hsa:1288	Gen B	14
+hsa:1871	hsa:22798	Gen B	14
+hsa:1871	hsa:2335	Gen B	14
+hsa:1871	hsa:284217	Gen B	14
+hsa:1871	hsa:3908	Gen B	14
+hsa:1871	hsa:3909	Gen B	14
+hsa:1871	hsa:3910	Gen B	14
+hsa:1871	hsa:3911	Gen B	14
+hsa:1871	hsa:3912	Gen B	14
+hsa:1871	hsa:3913	Gen B	14
+hsa:1871	hsa:3914	Gen B	14
+hsa:1871	hsa:3915	Gen B	14
+hsa:1871	hsa:3918	Gen B	14
+hsa:1871	hsa:3688	Gen B	14
+hsa:1871	hsa:54205	Gen A	15
+hsa:1871	hsa:842	Gen A	16
+hsa:1871	hsa:5290	Gen A	12
+hsa:1871	hsa:5291	Gen A	12
+hsa:1871	hsa:5293	Gen A	12
+hsa:1871	hsa:5295	Gen A	12
+hsa:1871	hsa:5296	Gen A	12
+hsa:1871	hsa:8503	Gen A	12
+hsa:1871	hsa:5747	Gen B	14
+hsa:1871	hsa:1163	Draw	0
+hsa:1871	hsa:1164	Draw	0
+hsa:1871	hsa:4609	Gen B	5
+hsa:1871	hsa:7709	Draw	0
+hsa:1871	hsa:4149	Draw	0
+hsa:1871	hsa:317	Gen A	15
+hsa:1871	hsa:836	Gen A	17
+hsa:1871	hsa:10000	Gen B	22
+hsa:1871	hsa:207	Gen B	22
+hsa:1871	hsa:208	Gen B	22
+hsa:1871	hsa:6256	Gen A	14
+hsa:1871	hsa:6257	Gen A	14
+hsa:1871	hsa:6258	Gen A	14
+hsa:1871	hsa:5915	Gen A	14
+hsa:1871	hsa:898	Draw	0
+hsa:1871	hsa:9134	Draw	0
+hsa:1871	hsa:3655	Gen B	14
+hsa:1871	hsa:3673	Gen B	14
+hsa:1871	hsa:3674	Gen B	14
+hsa:1871	hsa:3675	Gen B	14
+hsa:1871	hsa:3685	Gen B	14
+hsa:1871	hsa:1017	Draw	0
+hsa:4792	hsa:1147	Gen A	32
+hsa:4792	hsa:3551	Gen A	32
+hsa:4792	hsa:8517	Gen A	32
+hsa:4792	hsa:596	Gen A	33
+hsa:4792	hsa:10319	Gen A	3
+hsa:4792	hsa:1282	Gen A	3
+hsa:4792	hsa:1284	Gen A	3
+hsa:4792	hsa:1285	Gen A	3
+hsa:4792	hsa:1286	Gen A	3
+hsa:4792	hsa:1287	Gen A	3
+hsa:4792	hsa:1288	Gen A	3
+hsa:4792	hsa:22798	Gen A	3
+hsa:4792	hsa:2335	Gen A	3
+hsa:4792	hsa:284217	Gen A	3
+hsa:4792	hsa:3908	Gen A	3
+hsa:4792	hsa:3909	Gen A	3
+hsa:4792	hsa:3910	Gen A	3
+hsa:4792	hsa:3911	Gen A	3
+hsa:4792	hsa:3912	Gen A	3
+hsa:4792	hsa:3913	Gen A	3
+hsa:4792	hsa:3914	Gen A	3
+hsa:4792	hsa:3915	Gen A	3
+hsa:4792	hsa:3918	Gen A	3
+hsa:4792	hsa:3688	Gen A	3
+hsa:4792	hsa:54205	Gen A	32
+hsa:4792	hsa:842	Gen A	33
+hsa:4792	hsa:5290	Gen A	29
+hsa:4792	hsa:5291	Gen A	29
+hsa:4792	hsa:5293	Gen A	29
+hsa:4792	hsa:5295	Gen A	29
+hsa:4792	hsa:5296	Gen A	29
+hsa:4792	hsa:8503	Gen A	29
+hsa:4792	hsa:5747	Gen A	3
+hsa:4792	hsa:1163	Gen A	16
+hsa:4792	hsa:1164	Gen A	16
+hsa:4792	hsa:4609	Gen A	11
+hsa:4792	hsa:7709	Gen A	16
+hsa:4792	hsa:4149	Gen A	16
+hsa:4792	hsa:317	Gen A	32
+hsa:4792	hsa:836	Gen A	34
+hsa:4792	hsa:10000	Gen A	29
+hsa:4792	hsa:207	Gen A	29
+hsa:4792	hsa:208	Gen A	29
+hsa:4792	hsa:6256	Gen A	31
+hsa:4792	hsa:6257	Gen A	31
+hsa:4792	hsa:6258	Gen A	31
+hsa:4792	hsa:5915	Gen A	31
+hsa:4792	hsa:898	Gen A	16
+hsa:4792	hsa:9134	Gen A	16
+hsa:4792	hsa:3655	Gen A	3
+hsa:4792	hsa:3673	Gen A	3
+hsa:4792	hsa:3674	Gen A	3
+hsa:4792	hsa:3675	Gen A	3
+hsa:4792	hsa:3685	Gen A	3
+hsa:4792	hsa:1017	Gen A	16
+hsa:1147	hsa:3551	Draw	0
+hsa:1147	hsa:8517	Draw	0
+hsa:1147	hsa:596	Gen A	36
+hsa:1147	hsa:10319	Gen A	6
+hsa:1147	hsa:1282	Gen A	6
+hsa:1147	hsa:1284	Gen A	6
+hsa:1147	hsa:1285	Gen A	6
+hsa:1147	hsa:1286	Gen A	6
+hsa:1147	hsa:1287	Gen A	6
+hsa:1147	hsa:1288	Gen A	6
+hsa:1147	hsa:22798	Gen A	6
+hsa:1147	hsa:2335	Gen A	6
+hsa:1147	hsa:284217	Gen A	6
+hsa:1147	hsa:3908	Gen A	6
+hsa:1147	hsa:3909	Gen A	6
+hsa:1147	hsa:3910	Gen A	6
+hsa:1147	hsa:3911	Gen A	6
+hsa:1147	hsa:3912	Gen A	6
+hsa:1147	hsa:3913	Gen A	6
+hsa:1147	hsa:3914	Gen A	6
+hsa:1147	hsa:3915	Gen A	6
+hsa:1147	hsa:3918	Gen A	6
+hsa:1147	hsa:3688	Gen A	6
+hsa:1147	hsa:54205	Gen A	35
+hsa:1147	hsa:842	Gen A	36
+hsa:1147	hsa:5290	Gen A	32
+hsa:1147	hsa:5291	Gen A	32
+hsa:1147	hsa:5293	Gen A	32
+hsa:1147	hsa:5295	Gen A	32
+hsa:1147	hsa:5296	Gen A	32
+hsa:1147	hsa:8503	Gen A	32
+hsa:1147	hsa:5747	Gen A	6
+hsa:1147	hsa:1163	Gen A	19
+hsa:1147	hsa:1164	Gen A	19
+hsa:1147	hsa:4609	Gen A	14
+hsa:1147	hsa:7709	Gen A	19
+hsa:1147	hsa:4149	Gen A	19
+hsa:1147	hsa:317	Gen A	35
+hsa:1147	hsa:836	Gen A	37
+hsa:1147	hsa:10000	Gen B	2
+hsa:1147	hsa:207	Gen B	2
+hsa:1147	hsa:208	Gen B	2
+hsa:1147	hsa:6256	Gen A	34
+hsa:1147	hsa:6257	Gen A	34
+hsa:1147	hsa:6258	Gen A	34
+hsa:1147	hsa:5915	Gen A	34
+hsa:1147	hsa:898	Gen A	19
+hsa:1147	hsa:9134	Gen A	19
+hsa:1147	hsa:3655	Gen A	6
+hsa:1147	hsa:3673	Gen A	6
+hsa:1147	hsa:3674	Gen A	6
+hsa:1147	hsa:3675	Gen A	6
+hsa:1147	hsa:3685	Gen A	6
+hsa:1147	hsa:1017	Gen A	19
+hsa:3551	hsa:8517	Draw	0
+hsa:3551	hsa:596	Gen A	36
+hsa:3551	hsa:10319	Gen A	6
+hsa:3551	hsa:1282	Gen A	6
+hsa:3551	hsa:1284	Gen A	6
+hsa:3551	hsa:1285	Gen A	6
+hsa:3551	hsa:1286	Gen A	6
+hsa:3551	hsa:1287	Gen A	6
+hsa:3551	hsa:1288	Gen A	6
+hsa:3551	hsa:22798	Gen A	6
+hsa:3551	hsa:2335	Gen A	6
+hsa:3551	hsa:284217	Gen A	6
+hsa:3551	hsa:3908	Gen A	6
+hsa:3551	hsa:3909	Gen A	6
+hsa:3551	hsa:3910	Gen A	6
+hsa:3551	hsa:3911	Gen A	6
+hsa:3551	hsa:3912	Gen A	6
+hsa:3551	hsa:3913	Gen A	6
+hsa:3551	hsa:3914	Gen A	6
+hsa:3551	hsa:3915	Gen A	6
+hsa:3551	hsa:3918	Gen A	6
+hsa:3551	hsa:3688	Gen A	6
+hsa:3551	hsa:54205	Gen A	35
+hsa:3551	hsa:842	Gen A	36
+hsa:3551	hsa:5290	Gen A	32
+hsa:3551	hsa:5291	Gen A	32
+hsa:3551	hsa:5293	Gen A	32
+hsa:3551	hsa:5295	Gen A	32
+hsa:3551	hsa:5296	Gen A	32
+hsa:3551	hsa:8503	Gen A	32
+hsa:3551	hsa:5747	Gen A	6
+hsa:3551	hsa:1163	Gen A	19
+hsa:3551	hsa:1164	Gen A	19
+hsa:3551	hsa:4609	Gen A	14
+hsa:3551	hsa:7709	Gen A	19
+hsa:3551	hsa:4149	Gen A	19
+hsa:3551	hsa:317	Gen A	35
+hsa:3551	hsa:836	Gen A	37
+hsa:3551	hsa:10000	Gen B	2
+hsa:3551	hsa:207	Gen B	2
+hsa:3551	hsa:208	Gen B	2
+hsa:3551	hsa:6256	Gen A	34
+hsa:3551	hsa:6257	Gen A	34
+hsa:3551	hsa:6258	Gen A	34
+hsa:3551	hsa:5915	Gen A	34
+hsa:3551	hsa:898	Gen A	19
+hsa:3551	hsa:9134	Gen A	19
+hsa:3551	hsa:3655	Gen A	6
+hsa:3551	hsa:3673	Gen A	6
+hsa:3551	hsa:3674	Gen A	6
+hsa:3551	hsa:3675	Gen A	6
+hsa:3551	hsa:3685	Gen A	6
+hsa:3551	hsa:1017	Gen A	19
+hsa:8517	hsa:596	Gen A	36
+hsa:8517	hsa:10319	Gen A	6
+hsa:8517	hsa:1282	Gen A	6
+hsa:8517	hsa:1284	Gen A	6
+hsa:8517	hsa:1285	Gen A	6
+hsa:8517	hsa:1286	Gen A	6
+hsa:8517	hsa:1287	Gen A	6
+hsa:8517	hsa:1288	Gen A	6
+hsa:8517	hsa:22798	Gen A	6
+hsa:8517	hsa:2335	Gen A	6
+hsa:8517	hsa:284217	Gen A	6
+hsa:8517	hsa:3908	Gen A	6
+hsa:8517	hsa:3909	Gen A	6
+hsa:8517	hsa:3910	Gen A	6
+hsa:8517	hsa:3911	Gen A	6
+hsa:8517	hsa:3912	Gen A	6
+hsa:8517	hsa:3913	Gen A	6
+hsa:8517	hsa:3914	Gen A	6
+hsa:8517	hsa:3915	Gen A	6
+hsa:8517	hsa:3918	Gen A	6
+hsa:8517	hsa:3688	Gen A	6
+hsa:8517	hsa:54205	Gen A	35
+hsa:8517	hsa:842	Gen A	36
+hsa:8517	hsa:5290	Gen A	32
+hsa:8517	hsa:5291	Gen A	32
+hsa:8517	hsa:5293	Gen A	32
+hsa:8517	hsa:5295	Gen A	32
+hsa:8517	hsa:5296	Gen A	32
+hsa:8517	hsa:8503	Gen A	32
+hsa:8517	hsa:5747	Gen A	6
+hsa:8517	hsa:1163	Gen A	19
+hsa:8517	hsa:1164	Gen A	19
+hsa:8517	hsa:4609	Gen A	14
+hsa:8517	hsa:7709	Gen A	19
+hsa:8517	hsa:4149	Gen A	19
+hsa:8517	hsa:317	Gen A	35
+hsa:8517	hsa:836	Gen A	37
+hsa:8517	hsa:10000	Gen B	2
+hsa:8517	hsa:207	Gen B	2
+hsa:8517	hsa:208	Gen B	2
+hsa:8517	hsa:6256	Gen A	34
+hsa:8517	hsa:6257	Gen A	34
+hsa:8517	hsa:6258	Gen A	34
+hsa:8517	hsa:5915	Gen A	34
+hsa:8517	hsa:898	Gen A	19
+hsa:8517	hsa:9134	Gen A	19
+hsa:8517	hsa:3655	Gen A	6
+hsa:8517	hsa:3673	Gen A	6
+hsa:8517	hsa:3674	Gen A	6
+hsa:8517	hsa:3675	Gen A	6
+hsa:8517	hsa:3685	Gen A	6
+hsa:8517	hsa:1017	Gen A	19
+hsa:596	hsa:10319	Gen B	30
+hsa:596	hsa:1282	Gen B	30
+hsa:596	hsa:1284	Gen B	30
+hsa:596	hsa:1285	Gen B	30
+hsa:596	hsa:1286	Gen B	30
+hsa:596	hsa:1287	Gen B	30
+hsa:596	hsa:1288	Gen B	30
+hsa:596	hsa:22798	Gen B	30
+hsa:596	hsa:2335	Gen B	30
+hsa:596	hsa:284217	Gen B	30
+hsa:596	hsa:3908	Gen B	30
+hsa:596	hsa:3909	Gen B	30
+hsa:596	hsa:3910	Gen B	30
+hsa:596	hsa:3911	Gen B	30
+hsa:596	hsa:3912	Gen B	30
+hsa:596	hsa:3913	Gen B	30
+hsa:596	hsa:3914	Gen B	30
+hsa:596	hsa:3915	Gen B	30
+hsa:596	hsa:3918	Gen B	30
+hsa:596	hsa:3688	Gen B	30
+hsa:596	hsa:54205	Gen B	1
+hsa:596	hsa:842	Draw	0
+hsa:596	hsa:5290	Gen B	4
+hsa:596	hsa:5291	Gen B	4
+hsa:596	hsa:5293	Gen B	4
+hsa:596	hsa:5295	Gen B	4
+hsa:596	hsa:5296	Gen B	4
+hsa:596	hsa:8503	Gen B	4
+hsa:596	hsa:5747	Gen B	30
+hsa:596	hsa:1163	Gen B	16
+hsa:596	hsa:1164	Gen B	16
+hsa:596	hsa:4609	Gen B	16
+hsa:596	hsa:7709	Gen B	16
+hsa:596	hsa:4149	Gen B	16
+hsa:596	hsa:317	Gen B	1
+hsa:596	hsa:836	Gen A	1
+hsa:596	hsa:10000	Gen B	39
+hsa:596	hsa:207	Gen B	39
+hsa:596	hsa:208	Gen B	39
+hsa:596	hsa:6256	Gen B	2
+hsa:596	hsa:6257	Gen B	2
+hsa:596	hsa:6258	Gen B	2
+hsa:596	hsa:5915	Gen B	2
+hsa:596	hsa:898	Gen B	16
+hsa:596	hsa:9134	Gen B	16
+hsa:596	hsa:3655	Gen B	30
+hsa:596	hsa:3673	Gen B	30
+hsa:596	hsa:3674	Gen B	30
+hsa:596	hsa:3675	Gen B	30
+hsa:596	hsa:3685	Gen B	30
+hsa:596	hsa:1017	Gen B	16
+hsa:10319	hsa:1282	Draw	0
+hsa:10319	hsa:1284	Draw	0
+hsa:10319	hsa:1285	Draw	0
+hsa:10319	hsa:1286	Draw	0
+hsa:10319	hsa:1287	Draw	0
+hsa:10319	hsa:1288	Draw	0
+hsa:10319	hsa:22798	Draw	0
+hsa:10319	hsa:2335	Draw	0
+hsa:10319	hsa:284217	Draw	0
+hsa:10319	hsa:3908	Draw	0
+hsa:10319	hsa:3909	Draw	0
+hsa:10319	hsa:3910	Draw	0
+hsa:10319	hsa:3911	Draw	0
+hsa:10319	hsa:3912	Draw	0
+hsa:10319	hsa:3913	Draw	0
+hsa:10319	hsa:3914	Draw	0
+hsa:10319	hsa:3915	Draw	0
+hsa:10319	hsa:3918	Draw	0
+hsa:10319	hsa:3688	Gen B	12
+hsa:10319	hsa:54205	Gen A	29
+hsa:10319	hsa:842	Gen A	30
+hsa:10319	hsa:5290	Gen A	25
+hsa:10319	hsa:5291	Gen A	25
+hsa:10319	hsa:5293	Gen A	25
+hsa:10319	hsa:5295	Gen A	25
+hsa:10319	hsa:5296	Gen A	25
+hsa:10319	hsa:8503	Gen A	25
+hsa:10319	hsa:5747	Gen B	6
+hsa:10319	hsa:1163	Gen A	14
+hsa:10319	hsa:1164	Gen A	14
+hsa:10319	hsa:4609	Gen A	14
+hsa:10319	hsa:7709	Gen A	14
+hsa:10319	hsa:4149	Gen A	14
+hsa:10319	hsa:317	Gen A	29
+hsa:10319	hsa:836	Gen A	31
+hsa:10319	hsa:10000	Gen B	9
+hsa:10319	hsa:207	Gen B	9
+hsa:10319	hsa:208	Gen B	9
+hsa:10319	hsa:6256	Gen A	28
+hsa:10319	hsa:6257	Gen A	28
+hsa:10319	hsa:6258	Gen A	28
+hsa:10319	hsa:5915	Gen A	28
+hsa:10319	hsa:898	Gen A	14
+hsa:10319	hsa:9134	Gen A	14
+hsa:10319	hsa:3655	Draw	0
+hsa:10319	hsa:3673	Draw	0
+hsa:10319	hsa:3674	Draw	0
+hsa:10319	hsa:3675	Draw	0
+hsa:10319	hsa:3685	Draw	0
+hsa:10319	hsa:1017	Gen A	14
+hsa:1282	hsa:1284	Draw	0
+hsa:1282	hsa:1285	Draw	0
+hsa:1282	hsa:1286	Draw	0
+hsa:1282	hsa:1287	Draw	0
+hsa:1282	hsa:1288	Draw	0
+hsa:1282	hsa:22798	Draw	0
+hsa:1282	hsa:2335	Draw	0
+hsa:1282	hsa:284217	Draw	0
+hsa:1282	hsa:3908	Draw	0
+hsa:1282	hsa:3909	Draw	0
+hsa:1282	hsa:3910	Draw	0
+hsa:1282	hsa:3911	Draw	0
+hsa:1282	hsa:3912	Draw	0
+hsa:1282	hsa:3913	Draw	0
+hsa:1282	hsa:3914	Draw	0
+hsa:1282	hsa:3915	Draw	0
+hsa:1282	hsa:3918	Draw	0
+hsa:1282	hsa:3688	Gen B	12
+hsa:1282	hsa:54205	Gen A	29
+hsa:1282	hsa:842	Gen A	30
+hsa:1282	hsa:5290	Gen A	25
+hsa:1282	hsa:5291	Gen A	25
+hsa:1282	hsa:5293	Gen A	25
+hsa:1282	hsa:5295	Gen A	25
+hsa:1282	hsa:5296	Gen A	25
+hsa:1282	hsa:8503	Gen A	25
+hsa:1282	hsa:5747	Gen B	6
+hsa:1282	hsa:1163	Gen A	14
+hsa:1282	hsa:1164	Gen A	14
+hsa:1282	hsa:4609	Gen A	14
+hsa:1282	hsa:7709	Gen A	14
+hsa:1282	hsa:4149	Gen A	14
+hsa:1282	hsa:317	Gen A	29
+hsa:1282	hsa:836	Gen A	31
+hsa:1282	hsa:10000	Gen B	9
+hsa:1282	hsa:207	Gen B	9
+hsa:1282	hsa:208	Gen B	9
+hsa:1282	hsa:6256	Gen A	28
+hsa:1282	hsa:6257	Gen A	28
+hsa:1282	hsa:6258	Gen A	28
+hsa:1282	hsa:5915	Gen A	28
+hsa:1282	hsa:898	Gen A	14
+hsa:1282	hsa:9134	Gen A	14
+hsa:1282	hsa:3655	Draw	0
+hsa:1282	hsa:3673	Draw	0
+hsa:1282	hsa:3674	Draw	0
+hsa:1282	hsa:3675	Draw	0
+hsa:1282	hsa:3685	Draw	0
+hsa:1282	hsa:1017	Gen A	14
+hsa:1284	hsa:1285	Draw	0
+hsa:1284	hsa:1286	Draw	0
+hsa:1284	hsa:1287	Draw	0
+hsa:1284	hsa:1288	Draw	0
+hsa:1284	hsa:22798	Draw	0
+hsa:1284	hsa:2335	Draw	0
+hsa:1284	hsa:284217	Draw	0
+hsa:1284	hsa:3908	Draw	0
+hsa:1284	hsa:3909	Draw	0
+hsa:1284	hsa:3910	Draw	0
+hsa:1284	hsa:3911	Draw	0
+hsa:1284	hsa:3912	Draw	0
+hsa:1284	hsa:3913	Draw	0
+hsa:1284	hsa:3914	Draw	0
+hsa:1284	hsa:3915	Draw	0
+hsa:1284	hsa:3918	Draw	0
+hsa:1284	hsa:3688	Gen B	12
+hsa:1284	hsa:54205	Gen A	29
+hsa:1284	hsa:842	Gen A	30
+hsa:1284	hsa:5290	Gen A	25
+hsa:1284	hsa:5291	Gen A	25
+hsa:1284	hsa:5293	Gen A	25
+hsa:1284	hsa:5295	Gen A	25
+hsa:1284	hsa:5296	Gen A	25
+hsa:1284	hsa:8503	Gen A	25
+hsa:1284	hsa:5747	Gen B	6
+hsa:1284	hsa:1163	Gen A	14
+hsa:1284	hsa:1164	Gen A	14
+hsa:1284	hsa:4609	Gen A	14
+hsa:1284	hsa:7709	Gen A	14
+hsa:1284	hsa:4149	Gen A	14
+hsa:1284	hsa:317	Gen A	29
+hsa:1284	hsa:836	Gen A	31
+hsa:1284	hsa:10000	Gen B	9
+hsa:1284	hsa:207	Gen B	9
+hsa:1284	hsa:208	Gen B	9
+hsa:1284	hsa:6256	Gen A	28
+hsa:1284	hsa:6257	Gen A	28
+hsa:1284	hsa:6258	Gen A	28
+hsa:1284	hsa:5915	Gen A	28
+hsa:1284	hsa:898	Gen A	14
+hsa:1284	hsa:9134	Gen A	14
+hsa:1284	hsa:3655	Draw	0
+hsa:1284	hsa:3673	Draw	0
+hsa:1284	hsa:3674	Draw	0
+hsa:1284	hsa:3675	Draw	0
+hsa:1284	hsa:3685	Draw	0
+hsa:1284	hsa:1017	Gen A	14
+hsa:1285	hsa:1286	Draw	0
+hsa:1285	hsa:1287	Draw	0
+hsa:1285	hsa:1288	Draw	0
+hsa:1285	hsa:22798	Draw	0
+hsa:1285	hsa:2335	Draw	0
+hsa:1285	hsa:284217	Draw	0
+hsa:1285	hsa:3908	Draw	0
+hsa:1285	hsa:3909	Draw	0
+hsa:1285	hsa:3910	Draw	0
+hsa:1285	hsa:3911	Draw	0
+hsa:1285	hsa:3912	Draw	0
+hsa:1285	hsa:3913	Draw	0
+hsa:1285	hsa:3914	Draw	0
+hsa:1285	hsa:3915	Draw	0
+hsa:1285	hsa:3918	Draw	0
+hsa:1285	hsa:3688	Gen B	12
+hsa:1285	hsa:54205	Gen A	29
+hsa:1285	hsa:842	Gen A	30
+hsa:1285	hsa:5290	Gen A	25
+hsa:1285	hsa:5291	Gen A	25
+hsa:1285	hsa:5293	Gen A	25
+hsa:1285	hsa:5295	Gen A	25
+hsa:1285	hsa:5296	Gen A	25
+hsa:1285	hsa:8503	Gen A	25
+hsa:1285	hsa:5747	Gen B	6
+hsa:1285	hsa:1163	Gen A	14
+hsa:1285	hsa:1164	Gen A	14
+hsa:1285	hsa:4609	Gen A	14
+hsa:1285	hsa:7709	Gen A	14
+hsa:1285	hsa:4149	Gen A	14
+hsa:1285	hsa:317	Gen A	29
+hsa:1285	hsa:836	Gen A	31
+hsa:1285	hsa:10000	Gen B	9
+hsa:1285	hsa:207	Gen B	9
+hsa:1285	hsa:208	Gen B	9
+hsa:1285	hsa:6256	Gen A	28
+hsa:1285	hsa:6257	Gen A	28
+hsa:1285	hsa:6258	Gen A	28
+hsa:1285	hsa:5915	Gen A	28
+hsa:1285	hsa:898	Gen A	14
+hsa:1285	hsa:9134	Gen A	14
+hsa:1285	hsa:3655	Draw	0
+hsa:1285	hsa:3673	Draw	0
+hsa:1285	hsa:3674	Draw	0
+hsa:1285	hsa:3675	Draw	0
+hsa:1285	hsa:3685	Draw	0
+hsa:1285	hsa:1017	Gen A	14
+hsa:1286	hsa:1287	Draw	0
+hsa:1286	hsa:1288	Draw	0
+hsa:1286	hsa:22798	Draw	0
+hsa:1286	hsa:2335	Draw	0
+hsa:1286	hsa:284217	Draw	0
+hsa:1286	hsa:3908	Draw	0
+hsa:1286	hsa:3909	Draw	0
+hsa:1286	hsa:3910	Draw	0
+hsa:1286	hsa:3911	Draw	0
+hsa:1286	hsa:3912	Draw	0
+hsa:1286	hsa:3913	Draw	0
+hsa:1286	hsa:3914	Draw	0
+hsa:1286	hsa:3915	Draw	0
+hsa:1286	hsa:3918	Draw	0
+hsa:1286	hsa:3688	Gen B	12
+hsa:1286	hsa:54205	Gen A	29
+hsa:1286	hsa:842	Gen A	30
+hsa:1286	hsa:5290	Gen A	25
+hsa:1286	hsa:5291	Gen A	25
+hsa:1286	hsa:5293	Gen A	25
+hsa:1286	hsa:5295	Gen A	25
+hsa:1286	hsa:5296	Gen A	25
+hsa:1286	hsa:8503	Gen A	25
+hsa:1286	hsa:5747	Gen B	6
+hsa:1286	hsa:1163	Gen A	14
+hsa:1286	hsa:1164	Gen A	14
+hsa:1286	hsa:4609	Gen A	14
+hsa:1286	hsa:7709	Gen A	14
+hsa:1286	hsa:4149	Gen A	14
+hsa:1286	hsa:317	Gen A	29
+hsa:1286	hsa:836	Gen A	31
+hsa:1286	hsa:10000	Gen B	9
+hsa:1286	hsa:207	Gen B	9
+hsa:1286	hsa:208	Gen B	9
+hsa:1286	hsa:6256	Gen A	28
+hsa:1286	hsa:6257	Gen A	28
+hsa:1286	hsa:6258	Gen A	28
+hsa:1286	hsa:5915	Gen A	28
+hsa:1286	hsa:898	Gen A	14
+hsa:1286	hsa:9134	Gen A	14
+hsa:1286	hsa:3655	Draw	0
+hsa:1286	hsa:3673	Draw	0
+hsa:1286	hsa:3674	Draw	0
+hsa:1286	hsa:3675	Draw	0
+hsa:1286	hsa:3685	Draw	0
+hsa:1286	hsa:1017	Gen A	14
+hsa:1287	hsa:1288	Draw	0
+hsa:1287	hsa:22798	Draw	0
+hsa:1287	hsa:2335	Draw	0
+hsa:1287	hsa:284217	Draw	0
+hsa:1287	hsa:3908	Draw	0
+hsa:1287	hsa:3909	Draw	0
+hsa:1287	hsa:3910	Draw	0
+hsa:1287	hsa:3911	Draw	0
+hsa:1287	hsa:3912	Draw	0
+hsa:1287	hsa:3913	Draw	0
+hsa:1287	hsa:3914	Draw	0
+hsa:1287	hsa:3915	Draw	0
+hsa:1287	hsa:3918	Draw	0
+hsa:1287	hsa:3688	Gen B	12
+hsa:1287	hsa:54205	Gen A	29
+hsa:1287	hsa:842	Gen A	30
+hsa:1287	hsa:5290	Gen A	25
+hsa:1287	hsa:5291	Gen A	25
+hsa:1287	hsa:5293	Gen A	25
+hsa:1287	hsa:5295	Gen A	25
+hsa:1287	hsa:5296	Gen A	25
+hsa:1287	hsa:8503	Gen A	25
+hsa:1287	hsa:5747	Gen B	6
+hsa:1287	hsa:1163	Gen A	14
+hsa:1287	hsa:1164	Gen A	14
+hsa:1287	hsa:4609	Gen A	14
+hsa:1287	hsa:7709	Gen A	14
+hsa:1287	hsa:4149	Gen A	14
+hsa:1287	hsa:317	Gen A	29
+hsa:1287	hsa:836	Gen A	31
+hsa:1287	hsa:10000	Gen B	9
+hsa:1287	hsa:207	Gen B	9
+hsa:1287	hsa:208	Gen B	9
+hsa:1287	hsa:6256	Gen A	28
+hsa:1287	hsa:6257	Gen A	28
+hsa:1287	hsa:6258	Gen A	28
+hsa:1287	hsa:5915	Gen A	28
+hsa:1287	hsa:898	Gen A	14
+hsa:1287	hsa:9134	Gen A	14
+hsa:1287	hsa:3655	Draw	0
+hsa:1287	hsa:3673	Draw	0
+hsa:1287	hsa:3674	Draw	0
+hsa:1287	hsa:3675	Draw	0
+hsa:1287	hsa:3685	Draw	0
+hsa:1287	hsa:1017	Gen A	14
+hsa:1288	hsa:22798	Draw	0
+hsa:1288	hsa:2335	Draw	0
+hsa:1288	hsa:284217	Draw	0
+hsa:1288	hsa:3908	Draw	0
+hsa:1288	hsa:3909	Draw	0
+hsa:1288	hsa:3910	Draw	0
+hsa:1288	hsa:3911	Draw	0
+hsa:1288	hsa:3912	Draw	0
+hsa:1288	hsa:3913	Draw	0
+hsa:1288	hsa:3914	Draw	0
+hsa:1288	hsa:3915	Draw	0
+hsa:1288	hsa:3918	Draw	0
+hsa:1288	hsa:3688	Gen B	12
+hsa:1288	hsa:54205	Gen A	29
+hsa:1288	hsa:842	Gen A	30
+hsa:1288	hsa:5290	Gen A	25
+hsa:1288	hsa:5291	Gen A	25
+hsa:1288	hsa:5293	Gen A	25
+hsa:1288	hsa:5295	Gen A	25
+hsa:1288	hsa:5296	Gen A	25
+hsa:1288	hsa:8503	Gen A	25
+hsa:1288	hsa:5747	Gen B	6
+hsa:1288	hsa:1163	Gen A	14
+hsa:1288	hsa:1164	Gen A	14
+hsa:1288	hsa:4609	Gen A	14
+hsa:1288	hsa:7709	Gen A	14
+hsa:1288	hsa:4149	Gen A	14
+hsa:1288	hsa:317	Gen A	29
+hsa:1288	hsa:836	Gen A	31
+hsa:1288	hsa:10000	Gen B	9
+hsa:1288	hsa:207	Gen B	9
+hsa:1288	hsa:208	Gen B	9
+hsa:1288	hsa:6256	Gen A	28
+hsa:1288	hsa:6257	Gen A	28
+hsa:1288	hsa:6258	Gen A	28
+hsa:1288	hsa:5915	Gen A	28
+hsa:1288	hsa:898	Gen A	14
+hsa:1288	hsa:9134	Gen A	14
+hsa:1288	hsa:3655	Draw	0
+hsa:1288	hsa:3673	Draw	0
+hsa:1288	hsa:3674	Draw	0
+hsa:1288	hsa:3675	Draw	0
+hsa:1288	hsa:3685	Draw	0
+hsa:1288	hsa:1017	Gen A	14
+hsa:22798	hsa:2335	Draw	0
+hsa:22798	hsa:284217	Draw	0
+hsa:22798	hsa:3908	Draw	0
+hsa:22798	hsa:3909	Draw	0
+hsa:22798	hsa:3910	Draw	0
+hsa:22798	hsa:3911	Draw	0
+hsa:22798	hsa:3912	Draw	0
+hsa:22798	hsa:3913	Draw	0
+hsa:22798	hsa:3914	Draw	0
+hsa:22798	hsa:3915	Draw	0
+hsa:22798	hsa:3918	Draw	0
+hsa:22798	hsa:3688	Gen B	12
+hsa:22798	hsa:54205	Gen A	29
+hsa:22798	hsa:842	Gen A	30
+hsa:22798	hsa:5290	Gen A	25
+hsa:22798	hsa:5291	Gen A	25
+hsa:22798	hsa:5293	Gen A	25
+hsa:22798	hsa:5295	Gen A	25
+hsa:22798	hsa:5296	Gen A	25
+hsa:22798	hsa:8503	Gen A	25
+hsa:22798	hsa:5747	Gen B	6
+hsa:22798	hsa:1163	Gen A	14
+hsa:22798	hsa:1164	Gen A	14
+hsa:22798	hsa:4609	Gen A	14
+hsa:22798	hsa:7709	Gen A	14
+hsa:22798	hsa:4149	Gen A	14
+hsa:22798	hsa:317	Gen A	29
+hsa:22798	hsa:836	Gen A	31
+hsa:22798	hsa:10000	Gen B	9
+hsa:22798	hsa:207	Gen B	9
+hsa:22798	hsa:208	Gen B	9
+hsa:22798	hsa:6256	Gen A	28
+hsa:22798	hsa:6257	Gen A	28
+hsa:22798	hsa:6258	Gen A	28
+hsa:22798	hsa:5915	Gen A	28
+hsa:22798	hsa:898	Gen A	14
+hsa:22798	hsa:9134	Gen A	14
+hsa:22798	hsa:3655	Draw	0
+hsa:22798	hsa:3673	Draw	0
+hsa:22798	hsa:3674	Draw	0
+hsa:22798	hsa:3675	Draw	0
+hsa:22798	hsa:3685	Draw	0
+hsa:22798	hsa:1017	Gen A	14
+hsa:2335	hsa:284217	Draw	0
+hsa:2335	hsa:3908	Draw	0
+hsa:2335	hsa:3909	Draw	0
+hsa:2335	hsa:3910	Draw	0
+hsa:2335	hsa:3911	Draw	0
+hsa:2335	hsa:3912	Draw	0
+hsa:2335	hsa:3913	Draw	0
+hsa:2335	hsa:3914	Draw	0
+hsa:2335	hsa:3915	Draw	0
+hsa:2335	hsa:3918	Draw	0
+hsa:2335	hsa:3688	Gen B	12
+hsa:2335	hsa:54205	Gen A	29
+hsa:2335	hsa:842	Gen A	30
+hsa:2335	hsa:5290	Gen A	25
+hsa:2335	hsa:5291	Gen A	25
+hsa:2335	hsa:5293	Gen A	25
+hsa:2335	hsa:5295	Gen A	25
+hsa:2335	hsa:5296	Gen A	25
+hsa:2335	hsa:8503	Gen A	25
+hsa:2335	hsa:5747	Gen B	6
+hsa:2335	hsa:1163	Gen A	14
+hsa:2335	hsa:1164	Gen A	14
+hsa:2335	hsa:4609	Gen A	14
+hsa:2335	hsa:7709	Gen A	14
+hsa:2335	hsa:4149	Gen A	14
+hsa:2335	hsa:317	Gen A	29
+hsa:2335	hsa:836	Gen A	31
+hsa:2335	hsa:10000	Gen B	9
+hsa:2335	hsa:207	Gen B	9
+hsa:2335	hsa:208	Gen B	9
+hsa:2335	hsa:6256	Gen A	28
+hsa:2335	hsa:6257	Gen A	28
+hsa:2335	hsa:6258	Gen A	28
+hsa:2335	hsa:5915	Gen A	28
+hsa:2335	hsa:898	Gen A	14
+hsa:2335	hsa:9134	Gen A	14
+hsa:2335	hsa:3655	Draw	0
+hsa:2335	hsa:3673	Draw	0
+hsa:2335	hsa:3674	Draw	0
+hsa:2335	hsa:3675	Draw	0
+hsa:2335	hsa:3685	Draw	0
+hsa:2335	hsa:1017	Gen A	14
+hsa:284217	hsa:3908	Draw	0
+hsa:284217	hsa:3909	Draw	0
+hsa:284217	hsa:3910	Draw	0
+hsa:284217	hsa:3911	Draw	0
+hsa:284217	hsa:3912	Draw	0
+hsa:284217	hsa:3913	Draw	0
+hsa:284217	hsa:3914	Draw	0
+hsa:284217	hsa:3915	Draw	0
+hsa:284217	hsa:3918	Draw	0
+hsa:284217	hsa:3688	Gen B	12
+hsa:284217	hsa:54205	Gen A	29
+hsa:284217	hsa:842	Gen A	30
+hsa:284217	hsa:5290	Gen A	25
+hsa:284217	hsa:5291	Gen A	25
+hsa:284217	hsa:5293	Gen A	25
+hsa:284217	hsa:5295	Gen A	25
+hsa:284217	hsa:5296	Gen A	25
+hsa:284217	hsa:8503	Gen A	25
+hsa:284217	hsa:5747	Gen B	6
+hsa:284217	hsa:1163	Gen A	14
+hsa:284217	hsa:1164	Gen A	14
+hsa:284217	hsa:4609	Gen A	14
+hsa:284217	hsa:7709	Gen A	14
+hsa:284217	hsa:4149	Gen A	14
+hsa:284217	hsa:317	Gen A	29
+hsa:284217	hsa:836	Gen A	31
+hsa:284217	hsa:10000	Gen B	9
+hsa:284217	hsa:207	Gen B	9
+hsa:284217	hsa:208	Gen B	9
+hsa:284217	hsa:6256	Gen A	28
+hsa:284217	hsa:6257	Gen A	28
+hsa:284217	hsa:6258	Gen A	28
+hsa:284217	hsa:5915	Gen A	28
+hsa:284217	hsa:898	Gen A	14
+hsa:284217	hsa:9134	Gen A	14
+hsa:284217	hsa:3655	Draw	0
+hsa:284217	hsa:3673	Draw	0
+hsa:284217	hsa:3674	Draw	0
+hsa:284217	hsa:3675	Draw	0
+hsa:284217	hsa:3685	Draw	0
+hsa:284217	hsa:1017	Gen A	14
+hsa:3908	hsa:3909	Draw	0
+hsa:3908	hsa:3910	Draw	0
+hsa:3908	hsa:3911	Draw	0
+hsa:3908	hsa:3912	Draw	0
+hsa:3908	hsa:3913	Draw	0
+hsa:3908	hsa:3914	Draw	0
+hsa:3908	hsa:3915	Draw	0
+hsa:3908	hsa:3918	Draw	0
+hsa:3908	hsa:3688	Gen B	12
+hsa:3908	hsa:54205	Gen A	29
+hsa:3908	hsa:842	Gen A	30
+hsa:3908	hsa:5290	Gen A	25
+hsa:3908	hsa:5291	Gen A	25
+hsa:3908	hsa:5293	Gen A	25
+hsa:3908	hsa:5295	Gen A	25
+hsa:3908	hsa:5296	Gen A	25
+hsa:3908	hsa:8503	Gen A	25
+hsa:3908	hsa:5747	Gen B	6
+hsa:3908	hsa:1163	Gen A	14
+hsa:3908	hsa:1164	Gen A	14
+hsa:3908	hsa:4609	Gen A	14
+hsa:3908	hsa:7709	Gen A	14
+hsa:3908	hsa:4149	Gen A	14
+hsa:3908	hsa:317	Gen A	29
+hsa:3908	hsa:836	Gen A	31
+hsa:3908	hsa:10000	Gen B	9
+hsa:3908	hsa:207	Gen B	9
+hsa:3908	hsa:208	Gen B	9
+hsa:3908	hsa:6256	Gen A	28
+hsa:3908	hsa:6257	Gen A	28
+hsa:3908	hsa:6258	Gen A	28
+hsa:3908	hsa:5915	Gen A	28
+hsa:3908	hsa:898	Gen A	14
+hsa:3908	hsa:9134	Gen A	14
+hsa:3908	hsa:3655	Draw	0
+hsa:3908	hsa:3673	Draw	0
+hsa:3908	hsa:3674	Draw	0
+hsa:3908	hsa:3675	Draw	0
+hsa:3908	hsa:3685	Draw	0
+hsa:3908	hsa:1017	Gen A	14
+hsa:3909	hsa:3910	Draw	0
+hsa:3909	hsa:3911	Draw	0
+hsa:3909	hsa:3912	Draw	0
+hsa:3909	hsa:3913	Draw	0
+hsa:3909	hsa:3914	Draw	0
+hsa:3909	hsa:3915	Draw	0
+hsa:3909	hsa:3918	Draw	0
+hsa:3909	hsa:3688	Gen B	12
+hsa:3909	hsa:54205	Gen A	29
+hsa:3909	hsa:842	Gen A	30
+hsa:3909	hsa:5290	Gen A	25
+hsa:3909	hsa:5291	Gen A	25
+hsa:3909	hsa:5293	Gen A	25
+hsa:3909	hsa:5295	Gen A	25
+hsa:3909	hsa:5296	Gen A	25
+hsa:3909	hsa:8503	Gen A	25
+hsa:3909	hsa:5747	Gen B	6
+hsa:3909	hsa:1163	Gen A	14
+hsa:3909	hsa:1164	Gen A	14
+hsa:3909	hsa:4609	Gen A	14
+hsa:3909	hsa:7709	Gen A	14
+hsa:3909	hsa:4149	Gen A	14
+hsa:3909	hsa:317	Gen A	29
+hsa:3909	hsa:836	Gen A	31
+hsa:3909	hsa:10000	Gen B	9
+hsa:3909	hsa:207	Gen B	9
+hsa:3909	hsa:208	Gen B	9
+hsa:3909	hsa:6256	Gen A	28
+hsa:3909	hsa:6257	Gen A	28
+hsa:3909	hsa:6258	Gen A	28
+hsa:3909	hsa:5915	Gen A	28
+hsa:3909	hsa:898	Gen A	14
+hsa:3909	hsa:9134	Gen A	14
+hsa:3909	hsa:3655	Draw	0
+hsa:3909	hsa:3673	Draw	0
+hsa:3909	hsa:3674	Draw	0
+hsa:3909	hsa:3675	Draw	0
+hsa:3909	hsa:3685	Draw	0
+hsa:3909	hsa:1017	Gen A	14
+hsa:3910	hsa:3911	Draw	0
+hsa:3910	hsa:3912	Draw	0
+hsa:3910	hsa:3913	Draw	0
+hsa:3910	hsa:3914	Draw	0
+hsa:3910	hsa:3915	Draw	0
+hsa:3910	hsa:3918	Draw	0
+hsa:3910	hsa:3688	Gen B	12
+hsa:3910	hsa:54205	Gen A	29
+hsa:3910	hsa:842	Gen A	30
+hsa:3910	hsa:5290	Gen A	25
+hsa:3910	hsa:5291	Gen A	25
+hsa:3910	hsa:5293	Gen A	25
+hsa:3910	hsa:5295	Gen A	25
+hsa:3910	hsa:5296	Gen A	25
+hsa:3910	hsa:8503	Gen A	25
+hsa:3910	hsa:5747	Gen B	6
+hsa:3910	hsa:1163	Gen A	14
+hsa:3910	hsa:1164	Gen A	14
+hsa:3910	hsa:4609	Gen A	14
+hsa:3910	hsa:7709	Gen A	14
+hsa:3910	hsa:4149	Gen A	14
+hsa:3910	hsa:317	Gen A	29
+hsa:3910	hsa:836	Gen A	31
+hsa:3910	hsa:10000	Gen B	9
+hsa:3910	hsa:207	Gen B	9
+hsa:3910	hsa:208	Gen B	9
+hsa:3910	hsa:6256	Gen A	28
+hsa:3910	hsa:6257	Gen A	28
+hsa:3910	hsa:6258	Gen A	28
+hsa:3910	hsa:5915	Gen A	28
+hsa:3910	hsa:898	Gen A	14
+hsa:3910	hsa:9134	Gen A	14
+hsa:3910	hsa:3655	Draw	0
+hsa:3910	hsa:3673	Draw	0
+hsa:3910	hsa:3674	Draw	0
+hsa:3910	hsa:3675	Draw	0
+hsa:3910	hsa:3685	Draw	0
+hsa:3910	hsa:1017	Gen A	14
+hsa:3911	hsa:3912	Draw	0
+hsa:3911	hsa:3913	Draw	0
+hsa:3911	hsa:3914	Draw	0
+hsa:3911	hsa:3915	Draw	0
+hsa:3911	hsa:3918	Draw	0
+hsa:3911	hsa:3688	Gen B	12
+hsa:3911	hsa:54205	Gen A	29
+hsa:3911	hsa:842	Gen A	30
+hsa:3911	hsa:5290	Gen A	25
+hsa:3911	hsa:5291	Gen A	25
+hsa:3911	hsa:5293	Gen A	25
+hsa:3911	hsa:5295	Gen A	25
+hsa:3911	hsa:5296	Gen A	25
+hsa:3911	hsa:8503	Gen A	25
+hsa:3911	hsa:5747	Gen B	6
+hsa:3911	hsa:1163	Gen A	14
+hsa:3911	hsa:1164	Gen A	14
+hsa:3911	hsa:4609	Gen A	14
+hsa:3911	hsa:7709	Gen A	14
+hsa:3911	hsa:4149	Gen A	14
+hsa:3911	hsa:317	Gen A	29
+hsa:3911	hsa:836	Gen A	31
+hsa:3911	hsa:10000	Gen B	9
+hsa:3911	hsa:207	Gen B	9
+hsa:3911	hsa:208	Gen B	9
+hsa:3911	hsa:6256	Gen A	28
+hsa:3911	hsa:6257	Gen A	28
+hsa:3911	hsa:6258	Gen A	28
+hsa:3911	hsa:5915	Gen A	28
+hsa:3911	hsa:898	Gen A	14
+hsa:3911	hsa:9134	Gen A	14
+hsa:3911	hsa:3655	Draw	0
+hsa:3911	hsa:3673	Draw	0
+hsa:3911	hsa:3674	Draw	0
+hsa:3911	hsa:3675	Draw	0
+hsa:3911	hsa:3685	Draw	0
+hsa:3911	hsa:1017	Gen A	14
+hsa:3912	hsa:3913	Draw	0
+hsa:3912	hsa:3914	Draw	0
+hsa:3912	hsa:3915	Draw	0
+hsa:3912	hsa:3918	Draw	0
+hsa:3912	hsa:3688	Gen B	12
+hsa:3912	hsa:54205	Gen A	29
+hsa:3912	hsa:842	Gen A	30
+hsa:3912	hsa:5290	Gen A	25
+hsa:3912	hsa:5291	Gen A	25
+hsa:3912	hsa:5293	Gen A	25
+hsa:3912	hsa:5295	Gen A	25
+hsa:3912	hsa:5296	Gen A	25
+hsa:3912	hsa:8503	Gen A	25
+hsa:3912	hsa:5747	Gen B	6
+hsa:3912	hsa:1163	Gen A	14
+hsa:3912	hsa:1164	Gen A	14
+hsa:3912	hsa:4609	Gen A	14
+hsa:3912	hsa:7709	Gen A	14
+hsa:3912	hsa:4149	Gen A	14
+hsa:3912	hsa:317	Gen A	29
+hsa:3912	hsa:836	Gen A	31
+hsa:3912	hsa:10000	Gen B	9
+hsa:3912	hsa:207	Gen B	9
+hsa:3912	hsa:208	Gen B	9
+hsa:3912	hsa:6256	Gen A	28
+hsa:3912	hsa:6257	Gen A	28
+hsa:3912	hsa:6258	Gen A	28
+hsa:3912	hsa:5915	Gen A	28
+hsa:3912	hsa:898	Gen A	14
+hsa:3912	hsa:9134	Gen A	14
+hsa:3912	hsa:3655	Draw	0
+hsa:3912	hsa:3673	Draw	0
+hsa:3912	hsa:3674	Draw	0
+hsa:3912	hsa:3675	Draw	0
+hsa:3912	hsa:3685	Draw	0
+hsa:3912	hsa:1017	Gen A	14
+hsa:3913	hsa:3914	Draw	0
+hsa:3913	hsa:3915	Draw	0
+hsa:3913	hsa:3918	Draw	0
+hsa:3913	hsa:3688	Gen B	12
+hsa:3913	hsa:54205	Gen A	29
+hsa:3913	hsa:842	Gen A	30
+hsa:3913	hsa:5290	Gen A	25
+hsa:3913	hsa:5291	Gen A	25
+hsa:3913	hsa:5293	Gen A	25
+hsa:3913	hsa:5295	Gen A	25
+hsa:3913	hsa:5296	Gen A	25
+hsa:3913	hsa:8503	Gen A	25
+hsa:3913	hsa:5747	Gen B	6
+hsa:3913	hsa:1163	Gen A	14
+hsa:3913	hsa:1164	Gen A	14
+hsa:3913	hsa:4609	Gen A	14
+hsa:3913	hsa:7709	Gen A	14
+hsa:3913	hsa:4149	Gen A	14
+hsa:3913	hsa:317	Gen A	29
+hsa:3913	hsa:836	Gen A	31
+hsa:3913	hsa:10000	Gen B	9
+hsa:3913	hsa:207	Gen B	9
+hsa:3913	hsa:208	Gen B	9
+hsa:3913	hsa:6256	Gen A	28
+hsa:3913	hsa:6257	Gen A	28
+hsa:3913	hsa:6258	Gen A	28
+hsa:3913	hsa:5915	Gen A	28
+hsa:3913	hsa:898	Gen A	14
+hsa:3913	hsa:9134	Gen A	14
+hsa:3913	hsa:3655	Draw	0
+hsa:3913	hsa:3673	Draw	0
+hsa:3913	hsa:3674	Draw	0
+hsa:3913	hsa:3675	Draw	0
+hsa:3913	hsa:3685	Draw	0
+hsa:3913	hsa:1017	Gen A	14
+hsa:3914	hsa:3915	Draw	0
+hsa:3914	hsa:3918	Draw	0
+hsa:3914	hsa:3688	Gen B	12
+hsa:3914	hsa:54205	Gen A	29
+hsa:3914	hsa:842	Gen A	30
+hsa:3914	hsa:5290	Gen A	25
+hsa:3914	hsa:5291	Gen A	25
+hsa:3914	hsa:5293	Gen A	25
+hsa:3914	hsa:5295	Gen A	25
+hsa:3914	hsa:5296	Gen A	25
+hsa:3914	hsa:8503	Gen A	25
+hsa:3914	hsa:5747	Gen B	6
+hsa:3914	hsa:1163	Gen A	14
+hsa:3914	hsa:1164	Gen A	14
+hsa:3914	hsa:4609	Gen A	14
+hsa:3914	hsa:7709	Gen A	14
+hsa:3914	hsa:4149	Gen A	14
+hsa:3914	hsa:317	Gen A	29
+hsa:3914	hsa:836	Gen A	31
+hsa:3914	hsa:10000	Gen B	9
+hsa:3914	hsa:207	Gen B	9
+hsa:3914	hsa:208	Gen B	9
+hsa:3914	hsa:6256	Gen A	28
+hsa:3914	hsa:6257	Gen A	28
+hsa:3914	hsa:6258	Gen A	28
+hsa:3914	hsa:5915	Gen A	28
+hsa:3914	hsa:898	Gen A	14
+hsa:3914	hsa:9134	Gen A	14
+hsa:3914	hsa:3655	Draw	0
+hsa:3914	hsa:3673	Draw	0
+hsa:3914	hsa:3674	Draw	0
+hsa:3914	hsa:3675	Draw	0
+hsa:3914	hsa:3685	Draw	0
+hsa:3914	hsa:1017	Gen A	14
+hsa:3915	hsa:3918	Draw	0
+hsa:3915	hsa:3688	Gen B	12
+hsa:3915	hsa:54205	Gen A	29
+hsa:3915	hsa:842	Gen A	30
+hsa:3915	hsa:5290	Gen A	25
+hsa:3915	hsa:5291	Gen A	25
+hsa:3915	hsa:5293	Gen A	25
+hsa:3915	hsa:5295	Gen A	25
+hsa:3915	hsa:5296	Gen A	25
+hsa:3915	hsa:8503	Gen A	25
+hsa:3915	hsa:5747	Gen B	6
+hsa:3915	hsa:1163	Gen A	14
+hsa:3915	hsa:1164	Gen A	14
+hsa:3915	hsa:4609	Gen A	14
+hsa:3915	hsa:7709	Gen A	14
+hsa:3915	hsa:4149	Gen A	14
+hsa:3915	hsa:317	Gen A	29
+hsa:3915	hsa:836	Gen A	31
+hsa:3915	hsa:10000	Gen B	9
+hsa:3915	hsa:207	Gen B	9
+hsa:3915	hsa:208	Gen B	9
+hsa:3915	hsa:6256	Gen A	28
+hsa:3915	hsa:6257	Gen A	28
+hsa:3915	hsa:6258	Gen A	28
+hsa:3915	hsa:5915	Gen A	28
+hsa:3915	hsa:898	Gen A	14
+hsa:3915	hsa:9134	Gen A	14
+hsa:3915	hsa:3655	Draw	0
+hsa:3915	hsa:3673	Draw	0
+hsa:3915	hsa:3674	Draw	0
+hsa:3915	hsa:3675	Draw	0
+hsa:3915	hsa:3685	Draw	0
+hsa:3915	hsa:1017	Gen A	14
+hsa:3918	hsa:3688	Gen B	12
+hsa:3918	hsa:54205	Gen A	29
+hsa:3918	hsa:842	Gen A	30
+hsa:3918	hsa:5290	Gen A	25
+hsa:3918	hsa:5291	Gen A	25
+hsa:3918	hsa:5293	Gen A	25
+hsa:3918	hsa:5295	Gen A	25
+hsa:3918	hsa:5296	Gen A	25
+hsa:3918	hsa:8503	Gen A	25
+hsa:3918	hsa:5747	Gen B	6
+hsa:3918	hsa:1163	Gen A	14
+hsa:3918	hsa:1164	Gen A	14
+hsa:3918	hsa:4609	Gen A	14
+hsa:3918	hsa:7709	Gen A	14
+hsa:3918	hsa:4149	Gen A	14
+hsa:3918	hsa:317	Gen A	29
+hsa:3918	hsa:836	Gen A	31
+hsa:3918	hsa:10000	Gen B	9
+hsa:3918	hsa:207	Gen B	9
+hsa:3918	hsa:208	Gen B	9
+hsa:3918	hsa:6256	Gen A	28
+hsa:3918	hsa:6257	Gen A	28
+hsa:3918	hsa:6258	Gen A	28
+hsa:3918	hsa:5915	Gen A	28
+hsa:3918	hsa:898	Gen A	14
+hsa:3918	hsa:9134	Gen A	14
+hsa:3918	hsa:3655	Draw	0
+hsa:3918	hsa:3673	Draw	0
+hsa:3918	hsa:3674	Draw	0
+hsa:3918	hsa:3675	Draw	0
+hsa:3918	hsa:3685	Draw	0
+hsa:3918	hsa:1017	Gen A	14
+hsa:3688	hsa:54205	Gen A	29
+hsa:3688	hsa:842	Gen A	30
+hsa:3688	hsa:5290	Gen A	25
+hsa:3688	hsa:5291	Gen A	25
+hsa:3688	hsa:5293	Gen A	25
+hsa:3688	hsa:5295	Gen A	25
+hsa:3688	hsa:5296	Gen A	25
+hsa:3688	hsa:8503	Gen A	25
+hsa:3688	hsa:5747	Gen A	13
+hsa:3688	hsa:1163	Gen A	14
+hsa:3688	hsa:1164	Gen A	14
+hsa:3688	hsa:4609	Gen A	14
+hsa:3688	hsa:7709	Gen A	14
+hsa:3688	hsa:4149	Gen A	14
+hsa:3688	hsa:317	Gen A	29
+hsa:3688	hsa:836	Gen A	31
+hsa:3688	hsa:10000	Gen B	9
+hsa:3688	hsa:207	Gen B	9
+hsa:3688	hsa:208	Gen B	9
+hsa:3688	hsa:6256	Gen A	28
+hsa:3688	hsa:6257	Gen A	28
+hsa:3688	hsa:6258	Gen A	28
+hsa:3688	hsa:5915	Gen A	28
+hsa:3688	hsa:898	Gen A	14
+hsa:3688	hsa:9134	Gen A	14
+hsa:3688	hsa:3655	Gen A	19
+hsa:3688	hsa:3673	Gen A	19
+hsa:3688	hsa:3674	Gen A	19
+hsa:3688	hsa:3675	Gen A	19
+hsa:3688	hsa:3685	Gen A	19
+hsa:3688	hsa:1017	Gen A	14
+hsa:54205	hsa:842	Gen B	1
+hsa:54205	hsa:5290	Gen B	3
+hsa:54205	hsa:5291	Gen B	3
+hsa:54205	hsa:5293	Gen B	3
+hsa:54205	hsa:5295	Gen B	3
+hsa:54205	hsa:5296	Gen B	3
+hsa:54205	hsa:8503	Gen B	3
+hsa:54205	hsa:5747	Gen B	29
+hsa:54205	hsa:1163	Gen B	15
+hsa:54205	hsa:1164	Gen B	15
+hsa:54205	hsa:4609	Gen B	15
+hsa:54205	hsa:7709	Gen B	15
+hsa:54205	hsa:4149	Gen B	15
+hsa:54205	hsa:317	Draw	0
+hsa:54205	hsa:836	Gen A	1
+hsa:54205	hsa:10000	Gen B	38
+hsa:54205	hsa:207	Gen B	38
+hsa:54205	hsa:208	Gen B	38
+hsa:54205	hsa:6256	Gen B	1
+hsa:54205	hsa:6257	Gen B	1
+hsa:54205	hsa:6258	Gen B	1
+hsa:54205	hsa:5915	Gen B	1
+hsa:54205	hsa:898	Gen B	15
+hsa:54205	hsa:9134	Gen B	15
+hsa:54205	hsa:3655	Gen B	29
+hsa:54205	hsa:3673	Gen B	29
+hsa:54205	hsa:3674	Gen B	29
+hsa:54205	hsa:3675	Gen B	29
+hsa:54205	hsa:3685	Gen B	29
+hsa:54205	hsa:1017	Gen B	15
+hsa:842	hsa:5290	Gen B	4
+hsa:842	hsa:5291	Gen B	4
+hsa:842	hsa:5293	Gen B	4
+hsa:842	hsa:5295	Gen B	4
+hsa:842	hsa:5296	Gen B	4
+hsa:842	hsa:8503	Gen B	4
+hsa:842	hsa:5747	Gen B	30
+hsa:842	hsa:1163	Gen B	16
+hsa:842	hsa:1164	Gen B	16
+hsa:842	hsa:4609	Gen B	16
+hsa:842	hsa:7709	Gen B	16
+hsa:842	hsa:4149	Gen B	16
+hsa:842	hsa:317	Gen A	1
+hsa:842	hsa:836	Draw	0
+hsa:842	hsa:10000	Gen B	39
+hsa:842	hsa:207	Gen B	39
+hsa:842	hsa:208	Gen B	39
+hsa:842	hsa:6256	Gen B	2
+hsa:842	hsa:6257	Gen B	2
+hsa:842	hsa:6258	Gen B	2
+hsa:842	hsa:5915	Gen B	2
+hsa:842	hsa:898	Gen B	16
+hsa:842	hsa:9134	Gen B	16
+hsa:842	hsa:3655	Gen B	30
+hsa:842	hsa:3673	Gen B	30
+hsa:842	hsa:3674	Gen B	30
+hsa:842	hsa:3675	Gen B	30
+hsa:842	hsa:3685	Gen B	30
+hsa:842	hsa:1017	Gen B	16
+hsa:5290	hsa:5291	Draw	0
+hsa:5290	hsa:5293	Draw	0
+hsa:5290	hsa:5295	Draw	0
+hsa:5290	hsa:5296	Draw	0
+hsa:5290	hsa:8503	Draw	0
+hsa:5290	hsa:5747	Gen B	25
+hsa:5290	hsa:1163	Gen B	12
+hsa:5290	hsa:1164	Gen B	12
+hsa:5290	hsa:4609	Gen B	12
+hsa:5290	hsa:7709	Gen B	12
+hsa:5290	hsa:4149	Gen B	12
+hsa:5290	hsa:317	Gen A	3
+hsa:5290	hsa:836	Gen A	5
+hsa:5290	hsa:10000	Gen B	35
+hsa:5290	hsa:207	Gen B	35
+hsa:5290	hsa:208	Gen B	35
+hsa:5290	hsa:6256	Gen A	2
+hsa:5290	hsa:6257	Gen A	2
+hsa:5290	hsa:6258	Gen A	2
+hsa:5290	hsa:5915	Gen A	2
+hsa:5290	hsa:898	Gen B	12
+hsa:5290	hsa:9134	Gen B	12
+hsa:5290	hsa:3655	Gen B	25
+hsa:5290	hsa:3673	Gen B	25
+hsa:5290	hsa:3674	Gen B	25
+hsa:5290	hsa:3675	Gen B	25
+hsa:5290	hsa:3685	Gen B	25
+hsa:5290	hsa:1017	Gen B	12
+hsa:5291	hsa:5293	Draw	0
+hsa:5291	hsa:5295	Draw	0
+hsa:5291	hsa:5296	Draw	0
+hsa:5291	hsa:8503	Draw	0
+hsa:5291	hsa:5747	Gen B	25
+hsa:5291	hsa:1163	Gen B	12
+hsa:5291	hsa:1164	Gen B	12
+hsa:5291	hsa:4609	Gen B	12
+hsa:5291	hsa:7709	Gen B	12
+hsa:5291	hsa:4149	Gen B	12
+hsa:5291	hsa:317	Gen A	3
+hsa:5291	hsa:836	Gen A	5
+hsa:5291	hsa:10000	Gen B	35
+hsa:5291	hsa:207	Gen B	35
+hsa:5291	hsa:208	Gen B	35
+hsa:5291	hsa:6256	Gen A	2
+hsa:5291	hsa:6257	Gen A	2
+hsa:5291	hsa:6258	Gen A	2
+hsa:5291	hsa:5915	Gen A	2
+hsa:5291	hsa:898	Gen B	12
+hsa:5291	hsa:9134	Gen B	12
+hsa:5291	hsa:3655	Gen B	25
+hsa:5291	hsa:3673	Gen B	25
+hsa:5291	hsa:3674	Gen B	25
+hsa:5291	hsa:3675	Gen B	25
+hsa:5291	hsa:3685	Gen B	25
+hsa:5291	hsa:1017	Gen B	12
+hsa:5293	hsa:5295	Draw	0
+hsa:5293	hsa:5296	Draw	0
+hsa:5293	hsa:8503	Draw	0
+hsa:5293	hsa:5747	Gen B	25
+hsa:5293	hsa:1163	Gen B	12
+hsa:5293	hsa:1164	Gen B	12
+hsa:5293	hsa:4609	Gen B	12
+hsa:5293	hsa:7709	Gen B	12
+hsa:5293	hsa:4149	Gen B	12
+hsa:5293	hsa:317	Gen A	3
+hsa:5293	hsa:836	Gen A	5
+hsa:5293	hsa:10000	Gen B	35
+hsa:5293	hsa:207	Gen B	35
+hsa:5293	hsa:208	Gen B	35
+hsa:5293	hsa:6256	Gen A	2
+hsa:5293	hsa:6257	Gen A	2
+hsa:5293	hsa:6258	Gen A	2
+hsa:5293	hsa:5915	Gen A	2
+hsa:5293	hsa:898	Gen B	12
+hsa:5293	hsa:9134	Gen B	12
+hsa:5293	hsa:3655	Gen B	25
+hsa:5293	hsa:3673	Gen B	25
+hsa:5293	hsa:3674	Gen B	25
+hsa:5293	hsa:3675	Gen B	25
+hsa:5293	hsa:3685	Gen B	25
+hsa:5293	hsa:1017	Gen B	12
+hsa:5295	hsa:5296	Draw	0
+hsa:5295	hsa:8503	Draw	0
+hsa:5295	hsa:5747	Gen B	25
+hsa:5295	hsa:1163	Gen B	12
+hsa:5295	hsa:1164	Gen B	12
+hsa:5295	hsa:4609	Gen B	12
+hsa:5295	hsa:7709	Gen B	12
+hsa:5295	hsa:4149	Gen B	12
+hsa:5295	hsa:317	Gen A	3
+hsa:5295	hsa:836	Gen A	5
+hsa:5295	hsa:10000	Gen B	35
+hsa:5295	hsa:207	Gen B	35
+hsa:5295	hsa:208	Gen B	35
+hsa:5295	hsa:6256	Gen A	2
+hsa:5295	hsa:6257	Gen A	2
+hsa:5295	hsa:6258	Gen A	2
+hsa:5295	hsa:5915	Gen A	2
+hsa:5295	hsa:898	Gen B	12
+hsa:5295	hsa:9134	Gen B	12
+hsa:5295	hsa:3655	Gen B	25
+hsa:5295	hsa:3673	Gen B	25
+hsa:5295	hsa:3674	Gen B	25
+hsa:5295	hsa:3675	Gen B	25
+hsa:5295	hsa:3685	Gen B	25
+hsa:5295	hsa:1017	Gen B	12
+hsa:5296	hsa:8503	Draw	0
+hsa:5296	hsa:5747	Gen B	25
+hsa:5296	hsa:1163	Gen B	12
+hsa:5296	hsa:1164	Gen B	12
+hsa:5296	hsa:4609	Gen B	12
+hsa:5296	hsa:7709	Gen B	12
+hsa:5296	hsa:4149	Gen B	12
+hsa:5296	hsa:317	Gen A	3
+hsa:5296	hsa:836	Gen A	5
+hsa:5296	hsa:10000	Gen B	35
+hsa:5296	hsa:207	Gen B	35
+hsa:5296	hsa:208	Gen B	35
+hsa:5296	hsa:6256	Gen A	2
+hsa:5296	hsa:6257	Gen A	2
+hsa:5296	hsa:6258	Gen A	2
+hsa:5296	hsa:5915	Gen A	2
+hsa:5296	hsa:898	Gen B	12
+hsa:5296	hsa:9134	Gen B	12
+hsa:5296	hsa:3655	Gen B	25
+hsa:5296	hsa:3673	Gen B	25
+hsa:5296	hsa:3674	Gen B	25
+hsa:5296	hsa:3675	Gen B	25
+hsa:5296	hsa:3685	Gen B	25
+hsa:5296	hsa:1017	Gen B	12
+hsa:8503	hsa:5747	Gen B	25
+hsa:8503	hsa:1163	Gen B	12
+hsa:8503	hsa:1164	Gen B	12
+hsa:8503	hsa:4609	Gen B	12
+hsa:8503	hsa:7709	Gen B	12
+hsa:8503	hsa:4149	Gen B	12
+hsa:8503	hsa:317	Gen A	3
+hsa:8503	hsa:836	Gen A	5
+hsa:8503	hsa:10000	Gen B	35
+hsa:8503	hsa:207	Gen B	35
+hsa:8503	hsa:208	Gen B	35
+hsa:8503	hsa:6256	Gen A	2
+hsa:8503	hsa:6257	Gen A	2
+hsa:8503	hsa:6258	Gen A	2
+hsa:8503	hsa:5915	Gen A	2
+hsa:8503	hsa:898	Gen B	12
+hsa:8503	hsa:9134	Gen B	12
+hsa:8503	hsa:3655	Gen B	25
+hsa:8503	hsa:3673	Gen B	25
+hsa:8503	hsa:3674	Gen B	25
+hsa:8503	hsa:3675	Gen B	25
+hsa:8503	hsa:3685	Gen B	25
+hsa:8503	hsa:1017	Gen B	12
+hsa:5747	hsa:1163	Gen A	14
+hsa:5747	hsa:1164	Gen A	14
+hsa:5747	hsa:4609	Gen A	14
+hsa:5747	hsa:7709	Gen A	14
+hsa:5747	hsa:4149	Gen A	14
+hsa:5747	hsa:317	Gen A	29
+hsa:5747	hsa:836	Gen A	31
+hsa:5747	hsa:10000	Gen B	9
+hsa:5747	hsa:207	Gen B	9
+hsa:5747	hsa:208	Gen B	9
+hsa:5747	hsa:6256	Gen A	28
+hsa:5747	hsa:6257	Gen A	28
+hsa:5747	hsa:6258	Gen A	28
+hsa:5747	hsa:5915	Gen A	28
+hsa:5747	hsa:898	Gen A	14
+hsa:5747	hsa:9134	Gen A	14
+hsa:5747	hsa:3655	Gen A	6
+hsa:5747	hsa:3673	Gen A	6
+hsa:5747	hsa:3674	Gen A	6
+hsa:5747	hsa:3675	Gen A	6
+hsa:5747	hsa:3685	Gen A	6
+hsa:5747	hsa:1017	Gen A	14
+hsa:1163	hsa:1164	Draw	0
+hsa:1163	hsa:4609	Draw	0
+hsa:1163	hsa:7709	Draw	0
+hsa:1163	hsa:4149	Draw	0
+hsa:1163	hsa:317	Gen A	15
+hsa:1163	hsa:836	Gen A	17
+hsa:1163	hsa:10000	Gen B	22
+hsa:1163	hsa:207	Gen B	22
+hsa:1163	hsa:208	Gen B	22
+hsa:1163	hsa:6256	Gen A	14
+hsa:1163	hsa:6257	Gen A	14
+hsa:1163	hsa:6258	Gen A	14
+hsa:1163	hsa:5915	Gen A	14
+hsa:1163	hsa:898	Draw	0
+hsa:1163	hsa:9134	Draw	0
+hsa:1163	hsa:3655	Gen B	14
+hsa:1163	hsa:3673	Gen B	14
+hsa:1163	hsa:3674	Gen B	14
+hsa:1163	hsa:3675	Gen B	14
+hsa:1163	hsa:3685	Gen B	14
+hsa:1163	hsa:1017	Draw	0
+hsa:1164	hsa:4609	Draw	0
+hsa:1164	hsa:7709	Draw	0
+hsa:1164	hsa:4149	Draw	0
+hsa:1164	hsa:317	Gen A	15
+hsa:1164	hsa:836	Gen A	17
+hsa:1164	hsa:10000	Gen B	22
+hsa:1164	hsa:207	Gen B	22
+hsa:1164	hsa:208	Gen B	22
+hsa:1164	hsa:6256	Gen A	14
+hsa:1164	hsa:6257	Gen A	14
+hsa:1164	hsa:6258	Gen A	14
+hsa:1164	hsa:5915	Gen A	14
+hsa:1164	hsa:898	Draw	0
+hsa:1164	hsa:9134	Draw	0
+hsa:1164	hsa:3655	Gen B	14
+hsa:1164	hsa:3673	Gen B	14
+hsa:1164	hsa:3674	Gen B	14
+hsa:1164	hsa:3675	Gen B	14
+hsa:1164	hsa:3685	Gen B	14
+hsa:1164	hsa:1017	Draw	0
+hsa:4609	hsa:7709	Gen A	4
+hsa:4609	hsa:4149	Gen A	16
+hsa:4609	hsa:317	Gen A	15
+hsa:4609	hsa:836	Gen A	17
+hsa:4609	hsa:10000	Gen B	17
+hsa:4609	hsa:207	Gen B	17
+hsa:4609	hsa:208	Gen B	17
+hsa:4609	hsa:6256	Gen A	14
+hsa:4609	hsa:6257	Gen A	14
+hsa:4609	hsa:6258	Gen A	14
+hsa:4609	hsa:5915	Gen A	14
+hsa:4609	hsa:898	Gen A	5
+hsa:4609	hsa:9134	Gen A	5
+hsa:4609	hsa:3655	Gen B	14
+hsa:4609	hsa:3673	Gen B	14
+hsa:4609	hsa:3674	Gen B	14
+hsa:4609	hsa:3675	Gen B	14
+hsa:4609	hsa:3685	Gen B	14
+hsa:4609	hsa:1017	Gen A	5
+hsa:7709	hsa:4149	Draw	0
+hsa:7709	hsa:317	Gen A	15
+hsa:7709	hsa:836	Gen A	17
+hsa:7709	hsa:10000	Gen B	22
+hsa:7709	hsa:207	Gen B	22
+hsa:7709	hsa:208	Gen B	22
+hsa:7709	hsa:6256	Gen A	14
+hsa:7709	hsa:6257	Gen A	14
+hsa:7709	hsa:6258	Gen A	14
+hsa:7709	hsa:5915	Gen A	14
+hsa:7709	hsa:898	Draw	0
+hsa:7709	hsa:9134	Draw	0
+hsa:7709	hsa:3655	Gen B	14
+hsa:7709	hsa:3673	Gen B	14
+hsa:7709	hsa:3674	Gen B	14
+hsa:7709	hsa:3675	Gen B	14
+hsa:7709	hsa:3685	Gen B	14
+hsa:7709	hsa:1017	Draw	0
+hsa:4149	hsa:317	Gen A	15
+hsa:4149	hsa:836	Gen A	17
+hsa:4149	hsa:10000	Gen B	22
+hsa:4149	hsa:207	Gen B	22
+hsa:4149	hsa:208	Gen B	22
+hsa:4149	hsa:6256	Gen A	14
+hsa:4149	hsa:6257	Gen A	14
+hsa:4149	hsa:6258	Gen A	14
+hsa:4149	hsa:5915	Gen A	14
+hsa:4149	hsa:898	Draw	0
+hsa:4149	hsa:9134	Draw	0
+hsa:4149	hsa:3655	Gen B	14
+hsa:4149	hsa:3673	Gen B	14
+hsa:4149	hsa:3674	Gen B	14
+hsa:4149	hsa:3675	Gen B	14
+hsa:4149	hsa:3685	Gen B	14
+hsa:4149	hsa:1017	Draw	0
+hsa:317	hsa:836	Gen A	1
+hsa:317	hsa:10000	Gen B	38
+hsa:317	hsa:207	Gen B	38
+hsa:317	hsa:208	Gen B	38
+hsa:317	hsa:6256	Gen B	1
+hsa:317	hsa:6257	Gen B	1
+hsa:317	hsa:6258	Gen B	1
+hsa:317	hsa:5915	Gen B	1
+hsa:317	hsa:898	Gen B	15
+hsa:317	hsa:9134	Gen B	15
+hsa:317	hsa:3655	Gen B	29
+hsa:317	hsa:3673	Gen B	29
+hsa:317	hsa:3674	Gen B	29
+hsa:317	hsa:3675	Gen B	29
+hsa:317	hsa:3685	Gen B	29
+hsa:317	hsa:1017	Gen B	15
+hsa:836	hsa:10000	Gen B	40
+hsa:836	hsa:207	Gen B	40
+hsa:836	hsa:208	Gen B	40
+hsa:836	hsa:6256	Gen B	3
+hsa:836	hsa:6257	Gen B	3
+hsa:836	hsa:6258	Gen B	3
+hsa:836	hsa:5915	Gen B	3
+hsa:836	hsa:898	Gen B	17
+hsa:836	hsa:9134	Gen B	17
+hsa:836	hsa:3655	Gen B	31
+hsa:836	hsa:3673	Gen B	31
+hsa:836	hsa:3674	Gen B	31
+hsa:836	hsa:3675	Gen B	31
+hsa:836	hsa:3685	Gen B	31
+hsa:836	hsa:1017	Gen B	17
+hsa:10000	hsa:207	Draw	0
+hsa:10000	hsa:208	Draw	0
+hsa:10000	hsa:6256	Gen A	37
+hsa:10000	hsa:6257	Gen A	37
+hsa:10000	hsa:6258	Gen A	37
+hsa:10000	hsa:5915	Gen A	37
+hsa:10000	hsa:898	Gen A	22
+hsa:10000	hsa:9134	Gen A	22
+hsa:10000	hsa:3655	Gen A	9
+hsa:10000	hsa:3673	Gen A	9
+hsa:10000	hsa:3674	Gen A	9
+hsa:10000	hsa:3675	Gen A	9
+hsa:10000	hsa:3685	Gen A	9
+hsa:10000	hsa:1017	Gen A	22
+hsa:207	hsa:208	Draw	0
+hsa:207	hsa:6256	Gen A	37
+hsa:207	hsa:6257	Gen A	37
+hsa:207	hsa:6258	Gen A	37
+hsa:207	hsa:5915	Gen A	37
+hsa:207	hsa:898	Gen A	22
+hsa:207	hsa:9134	Gen A	22
+hsa:207	hsa:3655	Gen A	9
+hsa:207	hsa:3673	Gen A	9
+hsa:207	hsa:3674	Gen A	9
+hsa:207	hsa:3675	Gen A	9
+hsa:207	hsa:3685	Gen A	9
+hsa:207	hsa:1017	Gen A	22
+hsa:208	hsa:6256	Gen A	37
+hsa:208	hsa:6257	Gen A	37
+hsa:208	hsa:6258	Gen A	37
+hsa:208	hsa:5915	Gen A	37
+hsa:208	hsa:898	Gen A	22
+hsa:208	hsa:9134	Gen A	22
+hsa:208	hsa:3655	Gen A	9
+hsa:208	hsa:3673	Gen A	9
+hsa:208	hsa:3674	Gen A	9
+hsa:208	hsa:3675	Gen A	9
+hsa:208	hsa:3685	Gen A	9
+hsa:208	hsa:1017	Gen A	22
+hsa:6256	hsa:6257	Draw	0
+hsa:6256	hsa:6258	Draw	0
+hsa:6256	hsa:5915	Draw	0
+hsa:6256	hsa:898	Gen B	14
+hsa:6256	hsa:9134	Gen B	14
+hsa:6256	hsa:3655	Gen B	28
+hsa:6256	hsa:3673	Gen B	28
+hsa:6256	hsa:3674	Gen B	28
+hsa:6256	hsa:3675	Gen B	28
+hsa:6256	hsa:3685	Gen B	28
+hsa:6256	hsa:1017	Gen B	14
+hsa:6257	hsa:6258	Draw	0
+hsa:6257	hsa:5915	Draw	0
+hsa:6257	hsa:898	Gen B	14
+hsa:6257	hsa:9134	Gen B	14
+hsa:6257	hsa:3655	Gen B	28
+hsa:6257	hsa:3673	Gen B	28
+hsa:6257	hsa:3674	Gen B	28
+hsa:6257	hsa:3675	Gen B	28
+hsa:6257	hsa:3685	Gen B	28
+hsa:6257	hsa:1017	Gen B	14
+hsa:6258	hsa:5915	Draw	0
+hsa:6258	hsa:898	Gen B	14
+hsa:6258	hsa:9134	Gen B	14
+hsa:6258	hsa:3655	Gen B	28
+hsa:6258	hsa:3673	Gen B	28
+hsa:6258	hsa:3674	Gen B	28
+hsa:6258	hsa:3675	Gen B	28
+hsa:6258	hsa:3685	Gen B	28
+hsa:6258	hsa:1017	Gen B	14
+hsa:5915	hsa:898	Gen B	14
+hsa:5915	hsa:9134	Gen B	14
+hsa:5915	hsa:3655	Gen B	28
+hsa:5915	hsa:3673	Gen B	28
+hsa:5915	hsa:3674	Gen B	28
+hsa:5915	hsa:3675	Gen B	28
+hsa:5915	hsa:3685	Gen B	28
+hsa:5915	hsa:1017	Gen B	14
+hsa:898	hsa:9134	Draw	0
+hsa:898	hsa:3655	Gen B	14
+hsa:898	hsa:3673	Gen B	14
+hsa:898	hsa:3674	Gen B	14
+hsa:898	hsa:3675	Gen B	14
+hsa:898	hsa:3685	Gen B	14
+hsa:898	hsa:1017	Gen B	14
+hsa:9134	hsa:3655	Gen B	14
+hsa:9134	hsa:3673	Gen B	14
+hsa:9134	hsa:3674	Gen B	14
+hsa:9134	hsa:3675	Gen B	14
+hsa:9134	hsa:3685	Gen B	14
+hsa:9134	hsa:1017	Gen B	14
+hsa:3655	hsa:3673	Draw	0
+hsa:3655	hsa:3674	Draw	0
+hsa:3655	hsa:3675	Draw	0
+hsa:3655	hsa:3685	Draw	0
+hsa:3655	hsa:1017	Gen A	14
+hsa:3673	hsa:3674	Draw	0
+hsa:3673	hsa:3675	Draw	0
+hsa:3673	hsa:3685	Draw	0
+hsa:3673	hsa:1017	Gen A	14
+hsa:3674	hsa:3675	Draw	0
+hsa:3674	hsa:3685	Draw	0
+hsa:3674	hsa:1017	Gen A	14
+hsa:3675	hsa:3685	Draw	0
+hsa:3675	hsa:1017	Gen A	14
+hsa:3685	hsa:1017	Gen A	14
